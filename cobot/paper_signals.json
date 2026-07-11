@@ -1,17 +1,31 @@
 [
   {
     "wallet": "0x8bae3527e5a33fa0cf184f37bc112d071463ab6d",
-    "market": "SAGA",
+    "market": "MINA",
     "side": "buy",
-    "actual_size": 31918732.3,
-    "actual_entry": 0.01149,
-    "unrealized_pnl": 52027.533649,
+    "actual_size": 24439918,
+    "actual_entry": 0.036825,
+    "unrealized_pnl": 176529.527714,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 366,
-    "ts": "2026-07-11T06:01:24.130Z"
+    "ts": "2026-07-11T16:18:00.409Z"
+  },
+  {
+    "wallet": "0x8bae3527e5a33fa0cf184f37bc112d071463ab6d",
+    "market": "SAGA",
+    "side": "buy",
+    "actual_size": 3252062.3,
+    "actual_entry": 0.01149,
+    "unrealized_pnl": 5853.71214,
+    "leverage": 3,
+    "size": 10,
+    "confidence": 100,
+    "action": "copy",
+    "score": 366,
+    "ts": "2026-07-11T16:18:00.409Z"
   },
   {
     "wallet": "0x2d99fe0f36c1aebd28a1a2c0e82e8ca13c2ea351",
@@ -19,13 +33,13 @@
     "side": "buy",
     "actual_size": 20.37024,
     "actual_entry": 61311.9,
-    "unrealized_pnl": 57506.16348,
+    "unrealized_pnl": 58137.64092,
     "leverage": 2,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 364,
-    "ts": "2026-07-11T06:01:24.282Z"
+    "ts": "2026-07-11T16:18:00.548Z"
   },
   {
     "wallet": "0xa4add8273d7f47318675bdfbcce3e9648cdb4509",
@@ -33,13 +47,13 @@
     "side": "buy",
     "actual_size": 28232.87,
     "actual_entry": 79.2415,
-    "unrealized_pnl": -40473.029958,
+    "unrealized_pnl": -30506.826848,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 362,
-    "ts": "2026-07-11T06:01:24.424Z"
+    "ts": "2026-07-11T16:18:00.689Z"
   },
   {
     "wallet": "0xa4add8273d7f47318675bdfbcce3e9648cdb4509",
@@ -47,13 +61,13 @@
     "side": "buy",
     "actual_size": 1151.65,
     "actual_entry": 66.6602,
-    "unrealized_pnl": -253.64346,
+    "unrealized_pnl": 336.00134,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 362,
-    "ts": "2026-07-11T06:01:24.424Z"
+    "ts": "2026-07-11T16:18:00.689Z"
   },
   {
     "wallet": "0xe2f86feccb1207710a442bc4e27a0701a290275a",
@@ -61,13 +75,13 @@
     "side": "buy",
     "actual_size": 16.53,
     "actual_entry": 39.829,
-    "unrealized_pnl": 439.879372,
+    "unrealized_pnl": 448.342732,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 355,
-    "ts": "2026-07-11T06:01:25.127Z"
+    "ts": "2026-07-11T16:18:01.419Z"
   },
   {
     "wallet": "0xe24166173f1e956845a0660c8b26db334dced71a",
@@ -75,13 +89,13 @@
     "side": "sell",
     "actual_size": 1000.04,
     "actual_entry": 43.2611,
-    "unrealized_pnl": -23179.772459,
+    "unrealized_pnl": -23691.792939,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 352,
-    "ts": "2026-07-11T06:01:25.560Z"
+    "ts": "2026-07-11T16:18:01.838Z"
   },
   {
     "wallet": "0xa445a0a15b1d50fa0c4bfe6796d9447e0da5329d",
@@ -89,13 +103,13 @@
     "side": "sell",
     "actual_size": 3699.8745,
     "actual_entry": 1766.97,
-    "unrealized_pnl": -111812.18736,
+    "unrealized_pnl": -173600.09151,
     "leverage": 25,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 352,
-    "ts": "2026-07-11T06:01:25.697Z"
+    "ts": "2026-07-11T16:18:01.976Z"
   },
   {
     "wallet": "0xa445a0a15b1d50fa0c4bfe6796d9447e0da5329d",
@@ -103,13 +117,13 @@
     "side": "buy",
     "actual_size": 145267.68,
     "actual_entry": 73.3678,
-    "unrealized_pnl": -1006388.115789,
+    "unrealized_pnl": -932011.063629,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 352,
-    "ts": "2026-07-11T06:01:25.697Z"
+    "ts": "2026-07-11T16:18:01.976Z"
   },
   {
     "wallet": "0x3a122449de235a40481689442271c0731b805d69",
@@ -117,13 +131,13 @@
     "side": "buy",
     "actual_size": 15,
     "actual_entry": 60323.8,
-    "unrealized_pnl": 57167.56817,
+    "unrealized_pnl": 57632.56817,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 346,
-    "ts": "2026-07-11T06:01:25.861Z"
+    "ts": "2026-07-11T16:18:02.116Z"
   },
   {
     "wallet": "0x3a122449de235a40481689442271c0731b805d69",
@@ -131,13 +145,13 @@
     "side": "buy",
     "actual_size": 7765.18,
     "actual_entry": 64.3899,
-    "unrealized_pnl": 15919.0534,
+    "unrealized_pnl": 19894.82556,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 346,
-    "ts": "2026-07-11T06:01:25.861Z"
+    "ts": "2026-07-11T16:18:02.116Z"
   },
   {
     "wallet": "0x4f24303e0af2e4a94abcd516a3c80d38262bde6a",
@@ -145,13 +159,13 @@
     "side": "buy",
     "actual_size": 25008.54,
     "actual_entry": 58.5736,
-    "unrealized_pnl": 196725.424511,
+    "unrealized_pnl": 209529.796991,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 345,
-    "ts": "2026-07-11T06:01:26.000Z"
+    "ts": "2026-07-11T16:18:02.274Z"
   },
   {
     "wallet": "0xf1245033de5669c24b7915256afb598ac3245bf1",
@@ -159,13 +173,13 @@
     "side": "sell",
     "actual_size": 150,
     "actual_entry": 1616.27,
-    "unrealized_pnl": -27138.45072,
+    "unrealized_pnl": -29643.45072,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 344,
-    "ts": "2026-07-11T06:01:26.141Z"
+    "ts": "2026-07-11T16:18:02.423Z"
   },
   {
     "wallet": "0xf1245033de5669c24b7915256afb598ac3245bf1",
@@ -173,13 +187,13 @@
     "side": "sell",
     "actual_size": 1000,
     "actual_entry": 90.909,
-    "unrealized_pnl": -4015,
+    "unrealized_pnl": -9931,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 344,
-    "ts": "2026-07-11T06:01:26.141Z"
+    "ts": "2026-07-11T16:18:02.423Z"
   },
   {
     "wallet": "0xf1245033de5669c24b7915256afb598ac3245bf1",
@@ -187,13 +201,13 @@
     "side": "sell",
     "actual_size": 50,
     "actual_entry": 498,
-    "unrealized_pnl": -190.5,
+    "unrealized_pnl": -307.5,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 344,
-    "ts": "2026-07-11T06:01:26.141Z"
+    "ts": "2026-07-11T16:18:02.423Z"
   },
   {
     "wallet": "0x1e771e1b95c86491299d6e2a5c3b3842d03b552e",
@@ -201,13 +215,13 @@
     "side": "sell",
     "actual_size": 765060,
     "actual_entry": 0.262119,
-    "unrealized_pnl": 143648.62199,
+    "unrealized_pnl": 143015.91737,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 343,
-    "ts": "2026-07-11T06:01:26.294Z"
+    "ts": "2026-07-11T16:18:02.561Z"
   },
   {
     "wallet": "0x1e771e1b95c86491299d6e2a5c3b3842d03b552e",
@@ -215,13 +229,13 @@
     "side": "buy",
     "actual_size": 50000,
     "actual_entry": 0.31609,
-    "unrealized_pnl": 4380.62304,
+    "unrealized_pnl": 4914.62304,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 343,
-    "ts": "2026-07-11T06:01:26.294Z"
+    "ts": "2026-07-11T16:18:02.561Z"
   },
   {
     "wallet": "0x1e771e1b95c86491299d6e2a5c3b3842d03b552e",
@@ -229,13 +243,13 @@
     "side": "buy",
     "actual_size": 8745595,
     "actual_entry": 0.021324,
-    "unrealized_pnl": -150718.312707,
+    "unrealized_pnl": -150700.821517,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 343,
-    "ts": "2026-07-11T06:01:26.294Z"
+    "ts": "2026-07-11T16:18:02.561Z"
   },
   {
     "wallet": "0x1e771e1b95c86491299d6e2a5c3b3842d03b552e",
@@ -243,13 +257,13 @@
     "side": "buy",
     "actual_size": 150000,
     "actual_entry": 0.306486,
-    "unrealized_pnl": -33786.56994,
+    "unrealized_pnl": -33643.61994,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 343,
-    "ts": "2026-07-11T06:01:26.294Z"
+    "ts": "2026-07-11T16:18:02.561Z"
   },
   {
     "wallet": "0x1e771e1b95c86491299d6e2a5c3b3842d03b552e",
@@ -257,13 +271,13 @@
     "side": "sell",
     "actual_size": 23500,
     "actual_entry": 37.2527,
-    "unrealized_pnl": -685900.040201,
+    "unrealized_pnl": -697932.040201,
     "leverage": 4,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 343,
-    "ts": "2026-07-11T06:01:26.294Z"
+    "ts": "2026-07-11T16:18:02.561Z"
   },
   {
     "wallet": "0x1e771e1b95c86491299d6e2a5c3b3842d03b552e",
@@ -271,13 +285,13 @@
     "side": "buy",
     "actual_size": 1600000,
     "actual_entry": 0.518252,
-    "unrealized_pnl": -682914.9222,
+    "unrealized_pnl": -682377.3222,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 343,
-    "ts": "2026-07-11T06:01:26.294Z"
+    "ts": "2026-07-11T16:18:02.561Z"
   },
   {
     "wallet": "0x1e771e1b95c86491299d6e2a5c3b3842d03b552e",
@@ -285,13 +299,13 @@
     "side": "sell",
     "actual_size": 100,
     "actual_entry": 474.8361,
-    "unrealized_pnl": -2697.386862,
+    "unrealized_pnl": -2931.386862,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 343,
-    "ts": "2026-07-11T06:01:26.294Z"
+    "ts": "2026-07-11T16:18:02.561Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -299,13 +313,13 @@
     "side": "sell",
     "actual_size": 62371.56,
     "actual_entry": 3.1584,
-    "unrealized_pnl": 97735.558098,
+    "unrealized_pnl": 97548.443418,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -313,13 +327,13 @@
     "side": "sell",
     "actual_size": 14916.49,
     "actual_entry": 14.7488,
-    "unrealized_pnl": 120015.492158,
+    "unrealized_pnl": 119374.083088,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -327,13 +341,13 @@
     "side": "sell",
     "actual_size": 936342.4,
     "actual_entry": 0.26058,
-    "unrealized_pnl": 146330.02725,
+    "unrealized_pnl": 144513.522994,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -341,13 +355,13 @@
     "side": "sell",
     "actual_size": 140169.8,
     "actual_entry": 1.35207,
-    "unrealized_pnl": 84724.63043,
+    "unrealized_pnl": 85398.847168,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -355,13 +369,13 @@
     "side": "sell",
     "actual_size": 461479.2,
     "actual_entry": 0.46589,
-    "unrealized_pnl": 119708.95336,
+    "unrealized_pnl": 119275.162912,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -369,13 +383,13 @@
     "side": "sell",
     "actual_size": 78180,
     "actual_entry": 1.662819,
-    "unrealized_pnl": 43547.7529,
+    "unrealized_pnl": 43047.4009,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -383,13 +397,13 @@
     "side": "sell",
     "actual_size": 110555.44,
     "actual_entry": 1.2663,
-    "unrealized_pnl": 70648.564164,
+    "unrealized_pnl": 69531.95422,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -397,13 +411,13 @@
     "side": "sell",
     "actual_size": 386794.7,
     "actual_entry": 0.40073,
-    "unrealized_pnl": 3241.351647,
+    "unrealized_pnl": -2726.890574,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -411,13 +425,13 @@
     "side": "sell",
     "actual_size": 2035682,
     "actual_entry": 0.065273,
-    "unrealized_pnl": 31852.509733,
+    "unrealized_pnl": 30604.636667,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -425,13 +439,13 @@
     "side": "sell",
     "actual_size": 55988.7,
     "actual_entry": 2.00039,
-    "unrealized_pnl": 60688.906545,
+    "unrealized_pnl": 60458.233101,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -439,13 +453,13 @@
     "side": "sell",
     "actual_size": 5253319,
     "actual_entry": 0.042449,
-    "unrealized_pnl": 128287.782581,
+    "unrealized_pnl": 131303.187687,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -453,13 +467,13 @@
     "side": "sell",
     "actual_size": 365947.1,
     "actual_entry": 0.38256,
-    "unrealized_pnl": -7736.421235,
+    "unrealized_pnl": -11644.736263,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -467,13 +481,13 @@
     "side": "sell",
     "actual_size": 541081,
     "actual_entry": 0.439857,
-    "unrealized_pnl": 147773.29471,
+    "unrealized_pnl": 145235.62482,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -481,13 +495,13 @@
     "side": "sell",
     "actual_size": 1895098,
     "actual_entry": 0.063321,
-    "unrealized_pnl": 37779.234124,
+    "unrealized_pnl": 36524.679248,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -495,13 +509,13 @@
     "side": "sell",
     "actual_size": 133.2,
     "actual_entry": 1.9723,
-    "unrealized_pnl": 9.084264,
+    "unrealized_pnl": 10.176504,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -509,13 +523,13 @@
     "side": "sell",
     "actual_size": 2922311,
     "actual_entry": 0.081784,
-    "unrealized_pnl": 98047.735864,
+    "unrealized_pnl": 98284.443055,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -523,13 +537,13 @@
     "side": "sell",
     "actual_size": 5839605,
     "actual_entry": 0.02228,
-    "unrealized_pnl": 89182.749742,
+    "unrealized_pnl": 88832.373442,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -537,13 +551,13 @@
     "side": "sell",
     "actual_size": 1,
     "actual_entry": 0.542923,
-    "unrealized_pnl": 0.214613,
+    "unrealized_pnl": 0.209293,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -551,13 +565,13 @@
     "side": "sell",
     "actual_size": 1981977.7,
     "actual_entry": 0.10759,
-    "unrealized_pnl": 143278.085322,
+    "unrealized_pnl": 141890.700932,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -565,13 +579,13 @@
     "side": "sell",
     "actual_size": 10366801.2,
     "actual_entry": 0.02638,
-    "unrealized_pnl": 170202.352979,
+    "unrealized_pnl": 169684.012919,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -579,13 +593,13 @@
     "side": "sell",
     "actual_size": 467.792,
     "actual_entry": 213.77,
-    "unrealized_pnl": 322.77648,
+    "unrealized_pnl": 603.45168,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -593,13 +607,13 @@
     "side": "sell",
     "actual_size": 3887046,
     "actual_entry": 0.063579,
-    "unrealized_pnl": 177256.638527,
+    "unrealized_pnl": 176899.030295,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -607,27 +621,27 @@
     "side": "sell",
     "actual_size": 302938.5,
     "actual_entry": 0.3301,
-    "unrealized_pnl": -18894.274245,
+    "unrealized_pnl": -22974.85584,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
     "market": "HYPE",
     "side": "buy",
-    "actual_size": 67081.65,
-    "actual_entry": 67.9382,
-    "unrealized_pnl": -100507.256704,
+    "actual_size": 64629.8,
+    "actual_entry": 67.8644,
+    "unrealized_pnl": -58969.042541,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -635,13 +649,13 @@
     "side": "sell",
     "actual_size": 36909,
     "actual_entry": 1.26049,
-    "unrealized_pnl": -30693.595903,
+    "unrealized_pnl": -33225.553303,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -649,13 +663,13 @@
     "side": "sell",
     "actual_size": 58534.3,
     "actual_entry": 1.7084,
-    "unrealized_pnl": 6052.49965,
+    "unrealized_pnl": 5502.27723,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -663,13 +677,13 @@
     "side": "sell",
     "actual_size": 465729,
     "actual_entry": 0.65488,
-    "unrealized_pnl": 212197.665901,
+    "unrealized_pnl": 211280.179771,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -677,13 +691,13 @@
     "side": "sell",
     "actual_size": 1374767,
     "actual_entry": 0.187512,
-    "unrealized_pnl": 166040.672186,
+    "unrealized_pnl": 165298.298006,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -691,13 +705,13 @@
     "side": "sell",
     "actual_size": 7415791,
     "actual_entry": 0.033307,
-    "unrealized_pnl": 194830.155455,
+    "unrealized_pnl": 194466.781696,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -705,13 +719,13 @@
     "side": "sell",
     "actual_size": 164147,
     "actual_entry": 0.944266,
-    "unrealized_pnl": 52063.60779,
+    "unrealized_pnl": 51574.44973,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -719,13 +733,13 @@
     "side": "sell",
     "actual_size": 816798,
     "actual_entry": 0.293827,
-    "unrealized_pnl": 160066.455978,
+    "unrealized_pnl": 159747.08796,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -733,13 +747,13 @@
     "side": "sell",
     "actual_size": 3458495,
     "actual_entry": 0.034697,
-    "unrealized_pnl": 40039.55922,
+    "unrealized_pnl": 40662.08832,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -747,13 +761,13 @@
     "side": "sell",
     "actual_size": 47537.6,
     "actual_entry": 2.83985,
-    "unrealized_pnl": 26238.51282,
+    "unrealized_pnl": 27674.14834,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -761,13 +775,13 @@
     "side": "sell",
     "actual_size": 259004,
     "actual_entry": 0.463311,
-    "unrealized_pnl": -17642.88554,
+    "unrealized_pnl": -17552.23414,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
@@ -775,13 +789,13 @@
     "side": "sell",
     "actual_size": 3027884,
     "actual_entry": 0.039631,
-    "unrealized_pnl": 12385.963488,
+    "unrealized_pnl": 12988.512404,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 341,
-    "ts": "2026-07-11T06:01:26.664Z"
+    "ts": "2026-07-11T16:18:02.843Z"
   },
   {
     "wallet": "0xae58db322be15464c1831b29540e42264cff2b23",
@@ -789,13 +803,13 @@
     "side": "sell",
     "actual_size": 396.77,
     "actual_entry": 69.9766,
-    "unrealized_pnl": -3107.247991,
+    "unrealized_pnl": -3247.307801,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.043Z"
+    "ts": "2026-07-11T16:18:03.124Z"
   },
   {
     "wallet": "0xae58db322be15464c1831b29540e42264cff2b23",
@@ -803,13 +817,13 @@
     "side": "sell",
     "actual_size": 1595351,
     "actual_entry": 0.002419,
-    "unrealized_pnl": -531.426489,
+    "unrealized_pnl": -576.096317,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.043Z"
+    "ts": "2026-07-11T16:18:03.124Z"
   },
   {
     "wallet": "0xae58db322be15464c1831b29540e42264cff2b23",
@@ -817,13 +831,13 @@
     "side": "sell",
     "actual_size": 9295,
     "actual_entry": 1.224832,
-    "unrealized_pnl": 1106.402573,
+    "unrealized_pnl": 1046.914573,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.043Z"
+    "ts": "2026-07-11T16:18:03.124Z"
   },
   {
     "wallet": "0xae58db322be15464c1831b29540e42264cff2b23",
@@ -831,13 +845,13 @@
     "side": "sell",
     "actual_size": 147906,
     "actual_entry": 0.053085,
-    "unrealized_pnl": 511.205626,
+    "unrealized_pnl": 420.982966,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.043Z"
+    "ts": "2026-07-11T16:18:03.124Z"
   },
   {
     "wallet": "0xae58db322be15464c1831b29540e42264cff2b23",
@@ -845,13 +859,13 @@
     "side": "sell",
     "actual_size": 10820430,
     "actual_entry": 0.00706,
-    "unrealized_pnl": 32129.526746,
+    "unrealized_pnl": 32107.885886,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.043Z"
+    "ts": "2026-07-11T16:18:03.124Z"
   },
   {
     "wallet": "0xae58db322be15464c1831b29540e42264cff2b23",
@@ -859,13 +873,13 @@
     "side": "sell",
     "actual_size": 63.2,
     "actual_entry": 0.09793,
-    "unrealized_pnl": 2.16776,
+    "unrealized_pnl": 2.153224,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.043Z"
+    "ts": "2026-07-11T16:18:03.124Z"
   },
   {
     "wallet": "0xae58db322be15464c1831b29540e42264cff2b23",
@@ -873,13 +887,13 @@
     "side": "sell",
     "actual_size": 21697.4,
     "actual_entry": 0.71837,
-    "unrealized_pnl": 1917.439601,
+    "unrealized_pnl": 2467.468691,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.043Z"
+    "ts": "2026-07-11T16:18:03.124Z"
   },
   {
     "wallet": "0xae58db322be15464c1831b29540e42264cff2b23",
@@ -887,13 +901,13 @@
     "side": "buy",
     "actual_size": 0.6,
     "actual_entry": 0.13818,
-    "unrealized_pnl": 0.006012,
+    "unrealized_pnl": 0.008118,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.043Z"
+    "ts": "2026-07-11T16:18:03.124Z"
   },
   {
     "wallet": "0xae58db322be15464c1831b29540e42264cff2b23",
@@ -901,13 +915,13 @@
     "side": "sell",
     "actual_size": 14.883,
     "actual_entry": 4140.55,
-    "unrealized_pnl": 439.807529,
+    "unrealized_pnl": 535.058729,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.043Z"
+    "ts": "2026-07-11T16:18:03.124Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -915,13 +929,13 @@
     "side": "sell",
     "actual_size": 30.32632,
     "actual_entry": 62967.8,
-    "unrealized_pnl": -35396.79629,
+    "unrealized_pnl": -36336.91221,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -929,13 +943,13 @@
     "side": "sell",
     "actual_size": 66593.7,
     "actual_entry": 0.11732,
-    "unrealized_pnl": -674.206348,
+    "unrealized_pnl": -728.813182,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -943,13 +957,13 @@
     "side": "sell",
     "actual_size": 5217.57,
     "actual_entry": 84.2957,
-    "unrealized_pnl": 33850.138016,
+    "unrealized_pnl": 32008.335806,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -957,13 +971,13 @@
     "side": "sell",
     "actual_size": 0.751,
     "actual_entry": 671.721,
-    "unrealized_pnl": 72.539876,
+    "unrealized_pnl": 69.085276,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -971,13 +985,13 @@
     "side": "sell",
     "actual_size": 624531,
     "actual_entry": 1.08442,
-    "unrealized_pnl": 104958.255776,
+    "unrealized_pnl": 102291.508406,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -985,13 +999,13 @@
     "side": "buy",
     "actual_size": 392406,
     "actual_entry": 0.141041,
-    "unrealized_pnl": 10088.111288,
+    "unrealized_pnl": 11928.495428,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -999,13 +1013,13 @@
     "side": "buy",
     "actual_size": 69832,
     "actual_entry": 0.15001,
-    "unrealized_pnl": 926.895933,
+    "unrealized_pnl": 1195.050813,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1013,13 +1027,13 @@
     "side": "buy",
     "actual_size": 456101,
     "actual_entry": 0.03489,
-    "unrealized_pnl": 183.64507,
+    "unrealized_pnl": 502.91577,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1027,13 +1041,13 @@
     "side": "sell",
     "actual_size": 40004,
     "actual_entry": 0.077191,
-    "unrealized_pnl": -162.5573,
+    "unrealized_pnl": -200.241068,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1041,13 +1055,13 @@
     "side": "sell",
     "actual_size": 252020,
     "actual_entry": 0.078048,
-    "unrealized_pnl": -438.510689,
+    "unrealized_pnl": -393.399109,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1055,13 +1069,13 @@
     "side": "sell",
     "actual_size": 266914.8,
     "actual_entry": 0.52503,
-    "unrealized_pnl": 35382.902888,
+    "unrealized_pnl": 31787.560532,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1069,13 +1083,13 @@
     "side": "sell",
     "actual_size": 314.47,
     "actual_entry": 67.6917,
-    "unrealized_pnl": 393.96422,
+    "unrealized_pnl": 232.95558,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1083,13 +1097,13 @@
     "side": "sell",
     "actual_size": 448571.2,
     "actual_entry": 0.57943,
-    "unrealized_pnl": -22681.483388,
+    "unrealized_pnl": -11193.574956,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1097,13 +1111,13 @@
     "side": "sell",
     "actual_size": 88.683,
     "actual_entry": 4718.822,
-    "unrealized_pnl": 53903.557337,
+    "unrealized_pnl": 54471.128537,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1111,13 +1125,13 @@
     "side": "sell",
     "actual_size": 2048.94,
     "actual_entry": 443.2551,
-    "unrealized_pnl": -119975.4101,
+    "unrealized_pnl": -124728.9509,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1125,13 +1139,13 @@
     "side": "sell",
     "actual_size": 3245548,
     "actual_entry": 0.021479,
-    "unrealized_pnl": -5728.40101,
+    "unrealized_pnl": -3930.367418,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1139,13 +1153,13 @@
     "side": "sell",
     "actual_size": 199512,
     "actual_entry": 0.054898,
-    "unrealized_pnl": 1446.853637,
+    "unrealized_pnl": 1444.060469,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
@@ -1153,13 +1167,13 @@
     "side": "buy",
     "actual_size": 1474520,
     "actual_entry": 0.034078,
-    "unrealized_pnl": 2161.54736,
+    "unrealized_pnl": 1863.69432,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 340,
-    "ts": "2026-07-11T06:01:27.340Z"
+    "ts": "2026-07-11T16:18:03.398Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1167,13 +1181,13 @@
     "side": "buy",
     "actual_size": 2.81412,
     "actual_entry": 64267.6,
-    "unrealized_pnl": -373.297405,
+    "unrealized_pnl": -286.059685,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1181,13 +1195,13 @@
     "side": "buy",
     "actual_size": 120.385,
     "actual_entry": 1757.12,
-    "unrealized_pnl": 4836.661903,
+    "unrealized_pnl": 6835.052903,
     "leverage": 25,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1195,13 +1209,13 @@
     "side": "buy",
     "actual_size": 857.07,
     "actual_entry": 83.0216,
-    "unrealized_pnl": -4468.435768,
+    "unrealized_pnl": -4165.890058,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1209,13 +1223,13 @@
     "side": "buy",
     "actual_size": 28545.96,
     "actual_entry": 6.8651,
-    "unrealized_pnl": -4625.650049,
+    "unrealized_pnl": -3401.028365,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1223,13 +1237,13 @@
     "side": "buy",
     "actual_size": 336.109,
     "actual_entry": 630.946,
-    "unrealized_pnl": -18760.413363,
+    "unrealized_pnl": -17214.311963,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1237,13 +1251,13 @@
     "side": "sell",
     "actual_size": 1658.43,
     "actual_entry": 41.9102,
-    "unrealized_pnl": -4993.069657,
+    "unrealized_pnl": -5299.879207,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1251,27 +1265,27 @@
     "side": "buy",
     "actual_size": 4797592,
     "actual_entry": 0.08027,
-    "unrealized_pnl": -28365.589753,
+    "unrealized_pnl": -24397.981169,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
     "market": "INJ",
     "side": "buy",
-    "actual_size": 14182.1,
-    "actual_entry": 4.99556,
-    "unrealized_pnl": 34.508111,
+    "actual_size": 14004.1,
+    "actual_entry": 5.07958,
+    "unrealized_pnl": -1055.759859,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1279,13 +1293,13 @@
     "side": "buy",
     "actual_size": 898935.3,
     "actual_entry": 0.21618,
-    "unrealized_pnl": -8714.239833,
+    "unrealized_pnl": -7851.261945,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1293,13 +1307,13 @@
     "side": "buy",
     "actual_size": 12416.7,
     "actual_entry": 8.06186,
-    "unrealized_pnl": -707.301457,
+    "unrealized_pnl": -131.166577,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1307,13 +1321,13 @@
     "side": "buy",
     "actual_size": 63884,
     "actual_entry": 1.168971,
-    "unrealized_pnl": -4035.645533,
+    "unrealized_pnl": -3626.787933,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1321,27 +1335,27 @@
     "side": "buy",
     "actual_size": 264.506,
     "actual_entry": 252.172,
-    "unrealized_pnl": -1883.841792,
+    "unrealized_pnl": -1254.317512,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
     "market": "AAVE",
     "side": "buy",
-    "actual_size": 728.68,
-    "actual_entry": 95.6311,
-    "unrealized_pnl": -494.891025,
+    "actual_size": 711.55,
+    "actual_entry": 99.7186,
+    "unrealized_pnl": 797.912533,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1349,13 +1363,13 @@
     "side": "buy",
     "actual_size": 192948,
     "actual_entry": 0.350138,
-    "unrealized_pnl": -3949.364189,
+    "unrealized_pnl": -3663.801149,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1363,27 +1377,27 @@
     "side": "buy",
     "actual_size": 28034186,
     "actual_entry": 0.004445,
-    "unrealized_pnl": -1655.451376,
+    "unrealized_pnl": -982.630912,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
     "market": "UNI",
     "side": "buy",
-    "actual_size": 19393.5,
-    "actual_entry": 3.67232,
-    "unrealized_pnl": -3272.148393,
+    "actual_size": 18955.6,
+    "actual_entry": 3.74855,
+    "unrealized_pnl": -162.125131,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1391,13 +1405,13 @@
     "side": "buy",
     "actual_size": 593829.6,
     "actual_entry": 0.93022,
-    "unrealized_pnl": -31518.490369,
+    "unrealized_pnl": -30425.843905,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1405,13 +1419,13 @@
     "side": "buy",
     "actual_size": 488632,
     "actual_entry": 0.190242,
-    "unrealized_pnl": -11479.107995,
+    "unrealized_pnl": -9187.423915,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
@@ -1419,13 +1433,13 @@
     "side": "buy",
     "actual_size": 50749.6,
     "actual_entry": 2.06724,
-    "unrealized_pnl": -8279.645728,
+    "unrealized_pnl": -8695.792448,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 338,
-    "ts": "2026-07-11T06:01:27.568Z"
+    "ts": "2026-07-11T16:18:03.538Z"
   },
   {
     "wallet": "0x984f6a8aa8584dde8f1fa9b240b09f4df3ac25e5",
@@ -1433,13 +1447,13 @@
     "side": "sell",
     "actual_size": 7,
     "actual_entry": 61358.1,
-    "unrealized_pnl": -19437.79801,
+    "unrealized_pnl": -19654.79801,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 337,
-    "ts": "2026-07-11T06:01:27.713Z"
+    "ts": "2026-07-11T16:18:03.702Z"
   },
   {
     "wallet": "0xe7f3ec7725bf9a5e377caddc8874bb360308200b",
@@ -1447,13 +1461,13 @@
     "side": "sell",
     "actual_size": 20,
     "actual_entry": 64209.5,
-    "unrealized_pnl": 1490,
+    "unrealized_pnl": 870,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 336,
-    "ts": "2026-07-11T06:01:27.991Z"
+    "ts": "2026-07-11T16:18:03.982Z"
   },
   {
     "wallet": "0x15b325660a1c4a9582a7d834c31119c0cb9e3a42",
@@ -1461,13 +1475,13 @@
     "side": "buy",
     "actual_size": 200,
     "actual_entry": 62029.8,
-    "unrealized_pnl": 421023.17251,
+    "unrealized_pnl": 427223.17251,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 336,
-    "ts": "2026-07-11T06:01:28.130Z"
+    "ts": "2026-07-11T16:18:04.132Z"
   },
   {
     "wallet": "0x15b325660a1c4a9582a7d834c31119c0cb9e3a42",
@@ -1475,27 +1489,27 @@
     "side": "buy",
     "actual_size": 170819.67,
     "actual_entry": 65.2499,
-    "unrealized_pnl": 203109.441386,
+    "unrealized_pnl": 290569.112426,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 336,
-    "ts": "2026-07-11T06:01:28.130Z"
+    "ts": "2026-07-11T16:18:04.132Z"
   },
   {
     "wallet": "0x54dbc1fbf6b1cd59807db61109b1d9eb91fd1a04",
     "market": "HYPE",
     "side": "buy",
     "actual_size": 51050,
-    "actual_entry": 63.1459,
-    "unrealized_pnl": 167854.788564,
+    "actual_entry": 63.1476,
+    "unrealized_pnl": 194162.154258,
     "leverage": 2,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.268Z"
+    "ts": "2026-07-11T16:18:04.269Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1503,13 +1517,13 @@
     "side": "buy",
     "actual_size": 2.5,
     "actual_entry": 64158.5,
-    "unrealized_pnl": -58.886654,
+    "unrealized_pnl": 18.613346,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1517,13 +1531,13 @@
     "side": "sell",
     "actual_size": 277.3066,
     "actual_entry": 1802.9,
-    "unrealized_pnl": 1553.05693,
+    "unrealized_pnl": -3050.23263,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1531,13 +1545,13 @@
     "side": "buy",
     "actual_size": 96.7,
     "actual_entry": 4.41917,
-    "unrealized_pnl": 55.972804,
+    "unrealized_pnl": 56.572344,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1545,13 +1559,13 @@
     "side": "buy",
     "actual_size": 20485.8,
     "actual_entry": 8.39375,
-    "unrealized_pnl": -7974.1854,
+    "unrealized_pnl": -7015.44996,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1559,13 +1573,13 @@
     "side": "buy",
     "actual_size": 11.24,
     "actual_entry": 77.2591,
-    "unrealized_pnl": 198.868097,
+    "unrealized_pnl": 265.049217,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1573,13 +1587,13 @@
     "side": "buy",
     "actual_size": 58877.5,
     "actual_entry": 0.99078,
-    "unrealized_pnl": -4381.238388,
+    "unrealized_pnl": -4129.831463,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1587,13 +1601,13 @@
     "side": "buy",
     "actual_size": 820,
     "actual_entry": 1.455242,
-    "unrealized_pnl": 76.142857,
+    "unrealized_pnl": 94.346857,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1601,13 +1615,13 @@
     "side": "buy",
     "actual_size": 282.5,
     "actual_entry": 1.9026,
-    "unrealized_pnl": 0.421991,
+    "unrealized_pnl": -1.894509,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1615,13 +1629,13 @@
     "side": "buy",
     "actual_size": 17390,
     "actual_entry": 0.03672,
-    "unrealized_pnl": 200.569334,
+    "unrealized_pnl": 200.291094,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1629,13 +1643,13 @@
     "side": "buy",
     "actual_size": 2710,
     "actual_entry": 0.32863,
-    "unrealized_pnl": -0.652579,
+    "unrealized_pnl": 13.547821,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1643,13 +1657,13 @@
     "side": "buy",
     "actual_size": 256.979,
     "actual_entry": 210.765,
-    "unrealized_pnl": 592.20864,
+    "unrealized_pnl": 438.02124,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1657,13 +1671,13 @@
     "side": "buy",
     "actual_size": 345033,
     "actual_entry": 0.078238,
-    "unrealized_pnl": 1044.16882,
+    "unrealized_pnl": 1365.739576,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1671,13 +1685,13 @@
     "side": "buy",
     "actual_size": 248.2,
     "actual_entry": 1.68912,
-    "unrealized_pnl": 100.017588,
+    "unrealized_pnl": 116.696628,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1685,13 +1699,13 @@
     "side": "buy",
     "actual_size": 428646,
     "actual_entry": 0.001455,
-    "unrealized_pnl": -6.83069,
+    "unrealized_pnl": -8.116628,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x1d639a688b78f3d7e57166e59d9a8886b1bfb5a5",
@@ -1699,13 +1713,13 @@
     "side": "buy",
     "actual_size": 394139,
     "actual_entry": 0.053069,
-    "unrealized_pnl": 2734.972018,
+    "unrealized_pnl": 2918.640792,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 335,
-    "ts": "2026-07-11T06:01:28.617Z"
+    "ts": "2026-07-11T16:18:04.540Z"
   },
   {
     "wallet": "0x69b05701f8175c276ecd0138387a197948e240bb",
@@ -1713,13 +1727,13 @@
     "side": "buy",
     "actual_size": 4,
     "actual_entry": 61087,
-    "unrealized_pnl": 12192,
+    "unrealized_pnl": 12316,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 334,
-    "ts": "2026-07-11T06:01:28.905Z"
+    "ts": "2026-07-11T16:18:04.817Z"
   },
   {
     "wallet": "0x69b05701f8175c276ecd0138387a197948e240bb",
@@ -1727,13 +1741,13 @@
     "side": "buy",
     "actual_size": 4648.53,
     "actual_entry": 64.621,
-    "unrealized_pnl": 8427.70432,
+    "unrealized_pnl": 10830.99433,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 334,
-    "ts": "2026-07-11T06:01:28.905Z"
+    "ts": "2026-07-11T16:18:04.817Z"
   },
   {
     "wallet": "0xac142fee46f8dacbfef23e1e41d79f1f7233487e",
@@ -1741,13 +1755,13 @@
     "side": "buy",
     "actual_size": 20000,
     "actual_entry": 8.1299,
-    "unrealized_pnl": -28537.258172,
+    "unrealized_pnl": -27679.258172,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 333,
-    "ts": "2026-07-11T06:01:29.322Z"
+    "ts": "2026-07-11T16:18:05.228Z"
   },
   {
     "wallet": "0xac142fee46f8dacbfef23e1e41d79f1f7233487e",
@@ -1755,13 +1769,13 @@
     "side": "buy",
     "actual_size": 15000000,
     "actual_entry": 0.00357,
-    "unrealized_pnl": -12269.260241,
+    "unrealized_pnl": -11849.260241,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 333,
-    "ts": "2026-07-11T06:01:29.322Z"
+    "ts": "2026-07-11T16:18:05.228Z"
   },
   {
     "wallet": "0xac142fee46f8dacbfef23e1e41d79f1f7233487e",
@@ -1769,27 +1783,27 @@
     "side": "buy",
     "actual_size": 1000,
     "actual_entry": 66.521,
-    "unrealized_pnl": -87,
+    "unrealized_pnl": 430,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 333,
-    "ts": "2026-07-11T06:01:29.322Z"
+    "ts": "2026-07-11T16:18:05.228Z"
   },
   {
     "wallet": "0x8c96e5a2d770f9f2c9d2464ce4e741df0b2bca57",
     "market": "BTC",
     "side": "sell",
-    "actual_size": 54.94812,
-    "actual_entry": 64083.1,
-    "unrealized_pnl": -2847.89874,
+    "actual_size": 65,
+    "actual_entry": 64122.6,
+    "unrealized_pnl": -2818.15814,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 331,
-    "ts": "2026-07-11T06:01:29.461Z"
+    "ts": "2026-07-11T16:18:05.367Z"
   },
   {
     "wallet": "0x25833c0e1684182ad2370864c3202fa9a16db87a",
@@ -1797,13 +1811,13 @@
     "side": "sell",
     "actual_size": 305.7763,
     "actual_entry": 1798.7,
-    "unrealized_pnl": 428.08682,
+    "unrealized_pnl": -4647.79976,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 331,
-    "ts": "2026-07-11T06:01:30.054Z"
+    "ts": "2026-07-11T16:18:05.918Z"
   },
   {
     "wallet": "0x25833c0e1684182ad2370864c3202fa9a16db87a",
@@ -1811,13 +1825,13 @@
     "side": "sell",
     "actual_size": 3527.46,
     "actual_entry": 78.9094,
-    "unrealized_pnl": 3885.49284,
+    "unrealized_pnl": 2626.18962,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 331,
-    "ts": "2026-07-11T06:01:30.055Z"
+    "ts": "2026-07-11T16:18:05.918Z"
   },
   {
     "wallet": "0x25833c0e1684182ad2370864c3202fa9a16db87a",
@@ -1825,13 +1839,13 @@
     "side": "buy",
     "actual_size": 4749.27,
     "actual_entry": 11.3786,
-    "unrealized_pnl": -2064.132985,
+    "unrealized_pnl": -3925.846825,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 331,
-    "ts": "2026-07-11T06:01:30.055Z"
+    "ts": "2026-07-11T16:18:05.918Z"
   },
   {
     "wallet": "0xa180e7a0dd22d55e09a4c439e7bb2ae3c91dc0b7",
@@ -1839,13 +1853,13 @@
     "side": "buy",
     "actual_size": 2.35731,
     "actual_entry": 69582.7,
-    "unrealized_pnl": -12841.94491,
+    "unrealized_pnl": -12768.8683,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.196Z"
+    "ts": "2026-07-11T16:18:06.121Z"
   },
   {
     "wallet": "0xa180e7a0dd22d55e09a4c439e7bb2ae3c91dc0b7",
@@ -1853,13 +1867,13 @@
     "side": "buy",
     "actual_size": 84.7013,
     "actual_entry": 2123.08,
-    "unrealized_pnl": -27593.993773,
+    "unrealized_pnl": -26187.952193,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.196Z"
+    "ts": "2026-07-11T16:18:06.121Z"
   },
   {
     "wallet": "0xa180e7a0dd22d55e09a4c439e7bb2ae3c91dc0b7",
@@ -1867,27 +1881,13 @@
     "side": "buy",
     "actual_size": 1471.12,
     "actual_entry": 92.7208,
-    "unrealized_pnl": -21938.65991,
+    "unrealized_pnl": -21413.47007,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.196Z"
-  },
-  {
-    "wallet": "0xa180e7a0dd22d55e09a4c439e7bb2ae3c91dc0b7",
-    "market": "BNB",
-    "side": "buy",
-    "actual_size": 99.887,
-    "actual_entry": 564.735,
-    "unrealized_pnl": 1038.22735,
-    "leverage": 10,
-    "size": 10,
-    "confidence": 100,
-    "action": "copy",
-    "score": 330,
-    "ts": "2026-07-11T06:01:30.196Z"
+    "ts": "2026-07-11T16:18:06.121Z"
   },
   {
     "wallet": "0xa180e7a0dd22d55e09a4c439e7bb2ae3c91dc0b7",
@@ -1895,13 +1895,13 @@
     "side": "buy",
     "actual_size": 2159.34,
     "actual_entry": 49.6671,
-    "unrealized_pnl": -10244.27429,
+    "unrealized_pnl": -9836.15903,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.196Z"
+    "ts": "2026-07-11T16:18:06.121Z"
   },
   {
     "wallet": "0xa180e7a0dd22d55e09a4c439e7bb2ae3c91dc0b7",
@@ -1909,27 +1909,27 @@
     "side": "buy",
     "actual_size": 142315,
     "actual_entry": 1.215254,
-    "unrealized_pnl": -15576.971629,
+    "unrealized_pnl": -14666.155629,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.196Z"
+    "ts": "2026-07-11T16:18:06.121Z"
   },
   {
     "wallet": "0xa180e7a0dd22d55e09a4c439e7bb2ae3c91dc0b7",
     "market": "AAVE",
     "side": "buy",
-    "actual_size": 530.81,
+    "actual_size": 0.13,
     "actual_entry": 89.4191,
-    "unrealized_pnl": 2936.882302,
+    "unrealized_pnl": 1.486009,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.196Z"
+    "ts": "2026-07-11T16:18:06.121Z"
   },
   {
     "wallet": "0xa180e7a0dd22d55e09a4c439e7bb2ae3c91dc0b7",
@@ -1937,13 +1937,13 @@
     "side": "buy",
     "actual_size": 2000,
     "actual_entry": 64.9545,
-    "unrealized_pnl": 2958.820138,
+    "unrealized_pnl": 3992.820138,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.196Z"
+    "ts": "2026-07-11T16:18:06.121Z"
   },
   {
     "wallet": "0xa180e7a0dd22d55e09a4c439e7bb2ae3c91dc0b7",
@@ -1951,13 +1951,13 @@
     "side": "buy",
     "actual_size": 55.066,
     "actual_entry": 4957.857,
-    "unrealized_pnl": -46627.547915,
+    "unrealized_pnl": -46985.476915,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.196Z"
+    "ts": "2026-07-11T16:18:06.121Z"
   },
   {
     "wallet": "0xa180e7a0dd22d55e09a4c439e7bb2ae3c91dc0b7",
@@ -1965,13 +1965,13 @@
     "side": "buy",
     "actual_size": 99.817,
     "actual_entry": 318.515,
-    "unrealized_pnl": 537.46251,
+    "unrealized_pnl": 205.0719,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.196Z"
+    "ts": "2026-07-11T16:18:06.121Z"
   },
   {
     "wallet": "0x52a1ac3717f8173bd175a4c1923594ed6110142d",
@@ -1979,13 +1979,13 @@
     "side": "sell",
     "actual_size": 15.61358,
     "actual_entry": 63888,
-    "unrealized_pnl": -3856.062352,
+    "unrealized_pnl": -4340.083332,
     "leverage": 8,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.346Z"
+    "ts": "2026-07-11T16:18:06.268Z"
   },
   {
     "wallet": "0x4e6b51c5f3e4b74c866e78983d335e9d7339b7d4",
@@ -1993,13 +1993,13 @@
     "side": "buy",
     "actual_size": 377.1602,
     "actual_entry": 2101.5,
-    "unrealized_pnl": -114732.13284,
+    "unrealized_pnl": -108471.27352,
     "leverage": 25,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.626Z"
+    "ts": "2026-07-11T16:18:06.654Z"
   },
   {
     "wallet": "0x4e6b51c5f3e4b74c866e78983d335e9d7339b7d4",
@@ -2007,13 +2007,13 @@
     "side": "buy",
     "actual_size": 9821.51,
     "actual_entry": 78.9688,
-    "unrealized_pnl": -11401.45252,
+    "unrealized_pnl": -7895.17345,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.626Z"
+    "ts": "2026-07-11T16:18:06.654Z"
   },
   {
     "wallet": "0x4e6b51c5f3e4b74c866e78983d335e9d7339b7d4",
@@ -2021,13 +2021,13 @@
     "side": "sell",
     "actual_size": 524548,
     "actual_entry": 1.088634,
-    "unrealized_pnl": -9004.1395,
+    "unrealized_pnl": -12361.2467,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 330,
-    "ts": "2026-07-11T06:01:30.627Z"
+    "ts": "2026-07-11T16:18:06.654Z"
   },
   {
     "wallet": "0xad68fabb1bec8b08c8080ad165ae5bdec64136d6",
@@ -2035,13 +2035,13 @@
     "side": "buy",
     "actual_size": 3.1,
     "actual_entry": 70818.7,
-    "unrealized_pnl": -20719.51762,
+    "unrealized_pnl": -20623.41762,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 329,
-    "ts": "2026-07-11T06:01:30.761Z"
+    "ts": "2026-07-11T16:18:06.793Z"
   },
   {
     "wallet": "0xad68fabb1bec8b08c8080ad165ae5bdec64136d6",
@@ -2049,13 +2049,13 @@
     "side": "sell",
     "actual_size": 5,
     "actual_entry": 1748.5,
-    "unrealized_pnl": -243.97769,
+    "unrealized_pnl": -326.97769,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 329,
-    "ts": "2026-07-11T06:01:30.761Z"
+    "ts": "2026-07-11T16:18:06.793Z"
   },
   {
     "wallet": "0xfb941d2344b72ea9101400392b818173772d0ddf",
@@ -2063,41 +2063,13 @@
     "side": "buy",
     "actual_size": 0.83,
     "actual_entry": 72.9418,
-    "unrealized_pnl": 4.038867,
+    "unrealized_pnl": 4.335177,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.048Z"
-  },
-  {
-    "wallet": "0xfb941d2344b72ea9101400392b818173772d0ddf",
-    "market": "ENA",
-    "side": "buy",
-    "actual_size": 3994781,
-    "actual_entry": 0.080876,
-    "unrealized_pnl": 1550.707237,
-    "leverage": 5,
-    "size": 10,
-    "confidence": 100,
-    "action": "copy",
-    "score": 328,
-    "ts": "2026-07-11T06:01:31.048Z"
-  },
-  {
-    "wallet": "0xfb941d2344b72ea9101400392b818173772d0ddf",
-    "market": "XPL",
-    "side": "buy",
-    "actual_size": 8075370,
-    "actual_entry": 0.091292,
-    "unrealized_pnl": 1101.205688,
-    "leverage": 10,
-    "size": 10,
-    "confidence": 100,
-    "action": "copy",
-    "score": 328,
-    "ts": "2026-07-11T06:01:31.048Z"
+    "ts": "2026-07-11T16:18:07.064Z"
   },
   {
     "wallet": "0x6e88dc3708afc2b0032eeff625df78dcde1e741a",
@@ -2105,13 +2077,13 @@
     "side": "sell",
     "actual_size": 3.5,
     "actual_entry": 63423,
-    "unrealized_pnl": -2492,
+    "unrealized_pnl": -2600.5,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.184Z"
+    "ts": "2026-07-11T16:18:07.216Z"
   },
   {
     "wallet": "0x6e88dc3708afc2b0032eeff625df78dcde1e741a",
@@ -2119,13 +2091,13 @@
     "side": "buy",
     "actual_size": 710.48,
     "actual_entry": 78.997,
-    "unrealized_pnl": -844.76072,
+    "unrealized_pnl": -591.11936,
     "leverage": 12,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.184Z"
+    "ts": "2026-07-11T16:18:07.216Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2133,13 +2105,13 @@
     "side": "buy",
     "actual_size": 41.13883,
     "actual_entry": 70834.4,
-    "unrealized_pnl": -275606.058341,
+    "unrealized_pnl": -274330.754611,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2147,13 +2119,13 @@
     "side": "buy",
     "actual_size": 697.4459,
     "actual_entry": 1844.48,
-    "unrealized_pnl": -32906.717302,
+    "unrealized_pnl": -21329.115362,
     "leverage": 25,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2161,13 +2133,13 @@
     "side": "sell",
     "actual_size": 12091.83,
     "actual_entry": 42.1163,
-    "unrealized_pnl": 428211.565177,
+    "unrealized_pnl": 427692.82567,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2175,13 +2147,13 @@
     "side": "sell",
     "actual_size": 63739.9,
     "actual_entry": 2.31644,
-    "unrealized_pnl": 99996.292315,
+    "unrealized_pnl": 100300.969037,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2189,13 +2161,13 @@
     "side": "sell",
     "actual_size": 96500000,
     "actual_entry": 0.007044,
-    "unrealized_pnl": 414146.249137,
+    "unrealized_pnl": 411444.249137,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2203,13 +2175,13 @@
     "side": "sell",
     "actual_size": 441827.7,
     "actual_entry": 0.32045,
-    "unrealized_pnl": 50353.130003,
+    "unrealized_pnl": 49928.975411,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2217,13 +2189,13 @@
     "side": "sell",
     "actual_size": 98661.2,
     "actual_entry": 14.08033,
-    "unrealized_pnl": 599448.964645,
+    "unrealized_pnl": 594792.156005,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2231,13 +2203,13 @@
     "side": "sell",
     "actual_size": 690000,
     "actual_entry": 1.494361,
-    "unrealized_pnl": 268107.4156,
+    "unrealized_pnl": 263691.4156,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2245,13 +2217,13 @@
     "side": "sell",
     "actual_size": 8015.67,
     "actual_entry": 8.9921,
-    "unrealized_pnl": 67050.140423,
+    "unrealized_pnl": 66969.182156,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2259,13 +2231,13 @@
     "side": "buy",
     "actual_size": 36.74,
     "actual_entry": 152.6925,
-    "unrealized_pnl": -2121.388718,
+    "unrealized_pnl": -1904.696198,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2273,13 +2245,13 @@
     "side": "sell",
     "actual_size": 12000000,
     "actual_entry": 0.015504,
-    "unrealized_pnl": 133424.179476,
+    "unrealized_pnl": 133136.179476,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2287,13 +2259,13 @@
     "side": "sell",
     "actual_size": 723.1,
     "actual_entry": 3.40486,
-    "unrealized_pnl": 1827.788661,
+    "unrealized_pnl": 1826.443695,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2301,13 +2273,13 @@
     "side": "sell",
     "actual_size": 1086001,
     "actual_entry": 0.709813,
-    "unrealized_pnl": 589767.698528,
+    "unrealized_pnl": 584674.353838,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2315,13 +2287,13 @@
     "side": "sell",
     "actual_size": 155378,
     "actual_entry": 5.502951,
-    "unrealized_pnl": 614496.8401,
+    "unrealized_pnl": 611047.4485,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2329,13 +2301,13 @@
     "side": "sell",
     "actual_size": 399140,
     "actual_entry": 3.29351,
-    "unrealized_pnl": 554572.681601,
+    "unrealized_pnl": 557845.629601,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2343,13 +2315,13 @@
     "side": "sell",
     "actual_size": 143000,
     "actual_entry": 3.18908,
-    "unrealized_pnl": 343565.232378,
+    "unrealized_pnl": 342988.942378,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2357,13 +2329,13 @@
     "side": "sell",
     "actual_size": 4500000,
     "actual_entry": 0.13637,
-    "unrealized_pnl": 475499.884498,
+    "unrealized_pnl": 474959.884498,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2371,13 +2343,13 @@
     "side": "sell",
     "actual_size": 238431.2,
     "actual_entry": 2.86895,
-    "unrealized_pnl": 590478.974282,
+    "unrealized_pnl": 587326.913818,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2385,13 +2357,13 @@
     "side": "buy",
     "actual_size": 27128.51,
     "actual_entry": 27.1949,
-    "unrealized_pnl": 1064497.777691,
+    "unrealized_pnl": 1078523.217361,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2399,13 +2371,13 @@
     "side": "buy",
     "actual_size": 180000000,
     "actual_entry": 0.002052,
-    "unrealized_pnl": -110200,
+    "unrealized_pnl": -110740,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
@@ -2413,13 +2385,13 @@
     "side": "buy",
     "actual_size": 16002,
     "actual_entry": 400.125,
-    "unrealized_pnl": 1624442.338117,
+    "unrealized_pnl": 1665087.418117,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 328,
-    "ts": "2026-07-11T06:01:31.336Z"
+    "ts": "2026-07-11T16:18:07.355Z"
   },
   {
     "wallet": "0xc7d3f8b3ea83e808b0d91a554c130870e1302d7c",
@@ -2427,13 +2399,13 @@
     "side": "buy",
     "actual_size": 247.07,
     "actual_entry": 16.6761,
-    "unrealized_pnl": -1416.23746,
+    "unrealized_pnl": -1513.0889,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 326,
-    "ts": "2026-07-11T06:01:31.824Z"
+    "ts": "2026-07-11T16:18:07.626Z"
   },
   {
     "wallet": "0xc4a6312a5d5af3c03d546fa287fa1f883b3db749",
@@ -2441,13 +2413,13 @@
     "side": "buy",
     "actual_size": 0.7,
     "actual_entry": 1.04115,
-    "unrealized_pnl": -0.287784,
+    "unrealized_pnl": -0.305767,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 325,
-    "ts": "2026-07-11T06:01:31.960Z"
+    "ts": "2026-07-11T16:18:07.761Z"
   },
   {
     "wallet": "0xf97ad6704baec104d00b88e0c157e2b7b3a1ddd1",
@@ -2455,13 +2427,13 @@
     "side": "buy",
     "actual_size": 25,
     "actual_entry": 582.249,
-    "unrealized_pnl": -177.999999,
+    "unrealized_pnl": -62.999999,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.230Z"
+    "ts": "2026-07-11T16:18:08.052Z"
   },
   {
     "wallet": "0xf97ad6704baec104d00b88e0c157e2b7b3a1ddd1",
@@ -2469,41 +2441,41 @@
     "side": "buy",
     "actual_size": 3000,
     "actual_entry": 67.5701,
-    "unrealized_pnl": -3411.339419,
+    "unrealized_pnl": -1857.339419,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.230Z"
+    "ts": "2026-07-11T16:18:08.052Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
     "market": "BTC",
     "side": "buy",
-    "actual_size": 2.70863,
+    "actual_size": 2.70775,
     "actual_entry": 85761.2,
-    "unrealized_pnl": -58574.668639,
+    "unrealized_pnl": -58474.405961,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
     "market": "ETH",
     "side": "sell",
-    "actual_size": 344.7676,
+    "actual_size": 344.6553,
     "actual_entry": 2314.01,
-    "unrealized_pnl": 178144.94353,
+    "unrealized_pnl": 172365.638991,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2511,27 +2483,27 @@
     "side": "sell",
     "actual_size": 1336.57,
     "actual_entry": 3.6435,
-    "unrealized_pnl": 2742.913385,
+    "unrealized_pnl": 2738.636361,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
     "market": "SOL",
     "side": "sell",
-    "actual_size": 2175.82,
+    "actual_size": 2175.12,
     "actual_entry": 87.477,
-    "unrealized_pnl": 21038.135984,
+    "unrealized_pnl": 20254.849801,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2539,13 +2511,13 @@
     "side": "sell",
     "actual_size": 6.97,
     "actual_entry": 88.0395,
-    "unrealized_pnl": 300.52216,
+    "unrealized_pnl": 299.20483,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2553,13 +2525,13 @@
     "side": "sell",
     "actual_size": 8552,
     "actual_entry": 0.260623,
-    "unrealized_pnl": 1592.898544,
+    "unrealized_pnl": 1585.8688,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2567,27 +2539,27 @@
     "side": "sell",
     "actual_size": 138.8,
     "actual_entry": 11.63354,
-    "unrealized_pnl": 921.013821,
+    "unrealized_pnl": 919.598061,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
     "market": "SUI",
     "side": "sell",
-    "actual_size": 154674.9,
+    "actual_size": 154624.6,
     "actual_entry": 1.2567,
-    "unrealized_pnl": 78732.518508,
+    "unrealized_pnl": 79455.297898,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2595,13 +2567,13 @@
     "side": "sell",
     "actual_size": 48167,
     "actual_entry": 0.007877,
-    "unrealized_pnl": 246.849342,
+    "unrealized_pnl": 245.500666,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2609,27 +2581,27 @@
     "side": "sell",
     "actual_size": 2213.7,
     "actual_entry": 15.3664,
-    "unrealized_pnl": 16297.046809,
+    "unrealized_pnl": 16192.560169,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
     "market": "XRP",
     "side": "sell",
-    "actual_size": 105844,
+    "actual_size": 105810,
     "actual_entry": 1.883965,
-    "unrealized_pnl": 82374.764318,
+    "unrealized_pnl": 81660.538281,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2637,13 +2609,13 @@
     "side": "sell",
     "actual_size": 4.435,
     "actual_entry": 462.384,
-    "unrealized_pnl": 963.833485,
+    "unrealized_pnl": 953.100785,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2651,27 +2623,27 @@
     "side": "sell",
     "actual_size": 60.57,
     "actual_entry": 4.8184,
-    "unrealized_pnl": 253.86794,
+    "unrealized_pnl": 253.244069,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
     "market": "WLD",
     "side": "sell",
-    "actual_size": 595567.6,
+    "actual_size": 595373.6,
     "actual_entry": 0.52334,
-    "unrealized_pnl": 77964.555796,
+    "unrealized_pnl": 68687.053902,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2679,13 +2651,13 @@
     "side": "sell",
     "actual_size": 89006,
     "actual_entry": 0.013176,
-    "unrealized_pnl": 782.437358,
+    "unrealized_pnl": 780.301214,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2693,13 +2665,13 @@
     "side": "sell",
     "actual_size": 29472,
     "actual_entry": 0.279692,
-    "unrealized_pnl": 6780.678359,
+    "unrealized_pnl": 6762.405719,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2707,13 +2679,13 @@
     "side": "sell",
     "actual_size": 2395,
     "actual_entry": 1.74744,
-    "unrealized_pnl": 3218.138259,
+    "unrealized_pnl": 3192.655459,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2721,13 +2693,13 @@
     "side": "sell",
     "actual_size": 14405,
     "actual_entry": 0.650929,
-    "unrealized_pnl": 6974.601828,
+    "unrealized_pnl": 6907.042378,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2735,13 +2707,13 @@
     "side": "sell",
     "actual_size": 575,
     "actual_entry": 0.772185,
-    "unrealized_pnl": 356.244268,
+    "unrealized_pnl": 356.175268,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2749,13 +2721,13 @@
     "side": "sell",
     "actual_size": 26113,
     "actual_entry": 0.039881,
-    "unrealized_pnl": 870.907322,
+    "unrealized_pnl": 870.123932,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2763,13 +2735,13 @@
     "side": "sell",
     "actual_size": 715.9,
     "actual_entry": 0.25877,
-    "unrealized_pnl": 173.927841,
+    "unrealized_pnl": 173.849092,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2777,13 +2749,13 @@
     "side": "sell",
     "actual_size": 7570.1,
     "actual_entry": 0.07528,
-    "unrealized_pnl": 494.419862,
+    "unrealized_pnl": 494.041357,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2791,13 +2763,13 @@
     "side": "sell",
     "actual_size": 1765.6,
     "actual_entry": 0.13299,
-    "unrealized_pnl": 180.599294,
+    "unrealized_pnl": 180.387422,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2805,13 +2777,13 @@
     "side": "sell",
     "actual_size": 0.539,
     "actual_entry": 289.451,
-    "unrealized_pnl": 41.185678,
+    "unrealized_pnl": 41.487518,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2819,13 +2791,13 @@
     "side": "sell",
     "actual_size": 1698.5,
     "actual_entry": 1.1898,
-    "unrealized_pnl": 1290.787661,
+    "unrealized_pnl": 1293.012696,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2833,13 +2805,13 @@
     "side": "sell",
     "actual_size": 17313,
     "actual_entry": 0.250278,
-    "unrealized_pnl": 3117.918642,
+    "unrealized_pnl": 3129.604917,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2847,13 +2819,13 @@
     "side": "sell",
     "actual_size": 1686,
     "actual_entry": 0.396772,
-    "unrealized_pnl": 591.547846,
+    "unrealized_pnl": 589.231282,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2861,13 +2833,13 @@
     "side": "sell",
     "actual_size": 6451,
     "actual_entry": 0.051126,
-    "unrealized_pnl": 260.7729,
+    "unrealized_pnl": 261.076097,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2875,27 +2847,27 @@
     "side": "sell",
     "actual_size": 10873,
     "actual_entry": 0.460851,
-    "unrealized_pnl": 2939.309963,
+    "unrealized_pnl": 2927.675853,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
     "market": "HYPE",
     "side": "buy",
-    "actual_size": 33004.89,
+    "actual_size": 32994.14,
     "actual_entry": 34.0825,
-    "unrealized_pnl": 1067721.414815,
+    "unrealized_pnl": 1084464.612529,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2903,13 +2875,13 @@
     "side": "sell",
     "actual_size": 4260.6,
     "actual_entry": 1.74298,
-    "unrealized_pnl": 5850.001663,
+    "unrealized_pnl": 5809.525963,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2917,13 +2889,13 @@
     "side": "sell",
     "actual_size": 3606.8,
     "actual_entry": 7.99954,
-    "unrealized_pnl": 23063.123813,
+    "unrealized_pnl": 23030.301933,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2931,13 +2903,13 @@
     "side": "sell",
     "actual_size": 38552.8,
     "actual_entry": 0.14934,
-    "unrealized_pnl": 2623.234023,
+    "unrealized_pnl": 2602.415511,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2945,13 +2917,13 @@
     "side": "sell",
     "actual_size": 511,
     "actual_entry": 2.003118,
-    "unrealized_pnl": 710.079909,
+    "unrealized_pnl": 684.151769,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2959,13 +2931,13 @@
     "side": "sell",
     "actual_size": 261508,
     "actual_entry": 0.108975,
-    "unrealized_pnl": 26658.274694,
+    "unrealized_pnl": 26645.983818,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2973,13 +2945,13 @@
     "side": "sell",
     "actual_size": 483619,
     "actual_entry": 0.115912,
-    "unrealized_pnl": 27899.865001,
+    "unrealized_pnl": 28083.640221,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.396Z"
   },
   {
     "wallet": "0xac26cf5f3c46b5e102048c65b977d2551b72a9c7",
@@ -2987,13 +2959,13 @@
     "side": "sell",
     "actual_size": 19873,
     "actual_entry": 0.44241,
-    "unrealized_pnl": 7845.124576,
+    "unrealized_pnl": 7844.866227,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 324,
-    "ts": "2026-07-11T06:01:32.655Z"
+    "ts": "2026-07-11T16:18:08.397Z"
   },
   {
     "wallet": "0x325edd95bb016c36027ce3b9f7595af7094a9564",
@@ -3001,13 +2973,13 @@
     "side": "sell",
     "actual_size": 1.00454,
     "actual_entry": 63295.2,
-    "unrealized_pnl": -844.531151,
+    "unrealized_pnl": -874.667351,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 323,
-    "ts": "2026-07-11T06:01:32.927Z"
+    "ts": "2026-07-11T16:18:08.669Z"
   },
   {
     "wallet": "0x325edd95bb016c36027ce3b9f7595af7094a9564",
@@ -3015,13 +2987,13 @@
     "side": "sell",
     "actual_size": 50.6303,
     "actual_entry": 1781.65,
-    "unrealized_pnl": -792.265258,
+    "unrealized_pnl": -1632.728238,
     "leverage": 25,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 323,
-    "ts": "2026-07-11T06:01:32.927Z"
+    "ts": "2026-07-11T16:18:08.669Z"
   },
   {
     "wallet": "0x325edd95bb016c36027ce3b9f7595af7094a9564",
@@ -3029,13 +3001,13 @@
     "side": "sell",
     "actual_size": 34.74,
     "actual_entry": 490.1062,
-    "unrealized_pnl": -396.862194,
+    "unrealized_pnl": -488.923194,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 323,
-    "ts": "2026-07-11T06:01:32.927Z"
+    "ts": "2026-07-11T16:18:08.669Z"
   },
   {
     "wallet": "0x325edd95bb016c36027ce3b9f7595af7094a9564",
@@ -3043,13 +3015,13 @@
     "side": "sell",
     "actual_size": 10000,
     "actual_entry": 2.556306,
-    "unrealized_pnl": -619.934227,
+    "unrealized_pnl": -510.934227,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 323,
-    "ts": "2026-07-11T06:01:32.927Z"
+    "ts": "2026-07-11T16:18:08.669Z"
   },
   {
     "wallet": "0x5dda4ebdda7b02eb4c670b14148f07577681da98",
@@ -3057,13 +3029,13 @@
     "side": "buy",
     "actual_size": 3000,
     "actual_entry": 71.8333,
-    "unrealized_pnl": -16201,
+    "unrealized_pnl": -14647,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 323,
-    "ts": "2026-07-11T06:01:33.075Z"
+    "ts": "2026-07-11T16:18:08.804Z"
   },
   {
     "wallet": "0x031f72deb03c509af42624ddcd1f63fce5ecb220",
@@ -3071,13 +3043,13 @@
     "side": "buy",
     "actual_size": 10.35358,
     "actual_entry": 64123.3,
-    "unrealized_pnl": 131.21794,
+    "unrealized_pnl": 514.3004,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 322,
-    "ts": "2026-07-11T06:01:33.488Z"
+    "ts": "2026-07-11T16:18:09.256Z"
   },
   {
     "wallet": "0x031f72deb03c509af42624ddcd1f63fce5ecb220",
@@ -3085,13 +3057,13 @@
     "side": "buy",
     "actual_size": 3936.15,
     "actual_entry": 67.6888,
-    "unrealized_pnl": -4943.4099,
+    "unrealized_pnl": -2908.42035,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 322,
-    "ts": "2026-07-11T06:01:33.488Z"
+    "ts": "2026-07-11T16:18:09.256Z"
   },
   {
     "wallet": "0x031f72deb03c509af42624ddcd1f63fce5ecb220",
@@ -3099,13 +3071,13 @@
     "side": "buy",
     "actual_size": 1001.74,
     "actual_entry": 445.8174,
-    "unrealized_pnl": 55809.5339,
+    "unrealized_pnl": 58363.9709,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 322,
-    "ts": "2026-07-11T06:01:33.488Z"
+    "ts": "2026-07-11T16:18:09.256Z"
   },
   {
     "wallet": "0x054a01da80ee37d5220af5471b1eedbdcd2cdb2f",
@@ -3113,13 +3085,13 @@
     "side": "buy",
     "actual_size": 10,
     "actual_entry": 59267,
-    "unrealized_pnl": 48689.634063,
+    "unrealized_pnl": 49059.634063,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 322,
-    "ts": "2026-07-11T06:01:33.698Z"
+    "ts": "2026-07-11T16:18:09.391Z"
   },
   {
     "wallet": "0x054a01da80ee37d5220af5471b1eedbdcd2cdb2f",
@@ -3127,27 +3099,27 @@
     "side": "sell",
     "actual_size": 1020,
     "actual_entry": 36.3961,
-    "unrealized_pnl": -30637.63544,
+    "unrealized_pnl": -31164.97544,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 322,
-    "ts": "2026-07-11T06:01:33.698Z"
+    "ts": "2026-07-11T16:18:09.391Z"
   },
   {
     "wallet": "0x41c684cbde3e449cc67c70aacb6132e3eb25b06d",
     "market": "LIT",
     "side": "buy",
-    "actual_size": 227885,
+    "actual_size": 219247,
     "actual_entry": 2.497047,
-    "unrealized_pnl": 27631.686619,
+    "unrealized_pnl": 24238.362352,
     "leverage": 4,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.834Z"
+    "ts": "2026-07-11T16:18:09.526Z"
   },
   {
     "wallet": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
@@ -3155,13 +3127,13 @@
     "side": "buy",
     "actual_size": 578.7036,
     "actual_entry": 1727.59,
-    "unrealized_pnl": 40335.67991,
+    "unrealized_pnl": 50057.90039,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.992Z"
+    "ts": "2026-07-11T16:18:09.661Z"
   },
   {
     "wallet": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
@@ -3169,13 +3141,13 @@
     "side": "buy",
     "actual_size": 7714.48,
     "actual_entry": 78.5606,
-    "unrealized_pnl": -5806.5144,
+    "unrealized_pnl": -2998.44368,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.992Z"
+    "ts": "2026-07-11T16:18:09.661Z"
   },
   {
     "wallet": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
@@ -3183,13 +3155,13 @@
     "side": "buy",
     "actual_size": 378641.3,
     "actual_entry": 1.93843,
-    "unrealized_pnl": -13001.10628,
+    "unrealized_pnl": -15992.37255,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.992Z"
+    "ts": "2026-07-11T16:18:09.661Z"
   },
   {
     "wallet": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
@@ -3197,13 +3169,13 @@
     "side": "buy",
     "actual_size": 994558,
     "actual_entry": 0.44038,
-    "unrealized_pnl": -30757.109276,
+    "unrealized_pnl": -12218.548156,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.992Z"
+    "ts": "2026-07-11T16:18:09.661Z"
   },
   {
     "wallet": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
@@ -3211,13 +3183,13 @@
     "side": "buy",
     "actual_size": 1500000,
     "actual_entry": 0.08427,
-    "unrealized_pnl": -4503.519775,
+    "unrealized_pnl": -3110.019775,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.992Z"
+    "ts": "2026-07-11T16:18:09.661Z"
   },
   {
     "wallet": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
@@ -3225,13 +3197,13 @@
     "side": "buy",
     "actual_size": 510597.1,
     "actual_entry": 0.3611,
-    "unrealized_pnl": 15994.519208,
+    "unrealized_pnl": 22765.036754,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.992Z"
+    "ts": "2026-07-11T16:18:09.661Z"
   },
   {
     "wallet": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
@@ -3239,27 +3211,27 @@
     "side": "buy",
     "actual_size": 8793.43,
     "actual_entry": 66.0595,
-    "unrealized_pnl": 3283.860036,
+    "unrealized_pnl": 7830.063346,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.992Z"
+    "ts": "2026-07-11T16:18:09.661Z"
   },
   {
     "wallet": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
     "market": "SYRUP",
     "side": "buy",
-    "actual_size": 2908627,
+    "actual_size": 2398243,
     "actual_entry": 0.200382,
-    "unrealized_pnl": -35259.534404,
+    "unrealized_pnl": -14011.4902,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.992Z"
+    "ts": "2026-07-11T16:18:09.661Z"
   },
   {
     "wallet": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
@@ -3267,13 +3239,13 @@
     "side": "buy",
     "actual_size": 4120763,
     "actual_entry": 0.09231,
-    "unrealized_pnl": -3629.733046,
+    "unrealized_pnl": -2241.035915,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.992Z"
+    "ts": "2026-07-11T16:18:09.661Z"
   },
   {
     "wallet": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
@@ -3281,13 +3253,27 @@
     "side": "buy",
     "actual_size": 2819.31,
     "actual_entry": 437.0149,
-    "unrealized_pnl": 181888.0271,
+    "unrealized_pnl": 189077.2676,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:33.992Z"
+    "ts": "2026-07-11T16:18:09.661Z"
+  },
+  {
+    "wallet": "0xaf2c1206b22629915ff7a0fc98d171a1ef398a3f",
+    "market": "FARTCOIN",
+    "side": "sell",
+    "actual_size": 400000,
+    "actual_entry": 0.15284,
+    "unrealized_pnl": 409.848606,
+    "leverage": 5,
+    "size": 10,
+    "confidence": 100,
+    "action": "copy",
+    "score": 321,
+    "ts": "2026-07-11T16:18:09.798Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3295,13 +3281,13 @@
     "side": "sell",
     "actual_size": 104.66857,
     "actual_entry": 61787.7,
-    "unrealized_pnl": -245790.491,
+    "unrealized_pnl": -249663.22809,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3309,13 +3295,13 @@
     "side": "sell",
     "actual_size": 1551.8588,
     "actual_entry": 1757.92,
-    "unrealized_pnl": -61102.94307,
+    "unrealized_pnl": -87174.17091,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3323,13 +3309,13 @@
     "side": "sell",
     "actual_size": 32296.86,
     "actual_entry": 73.747,
-    "unrealized_pnl": -131157.152194,
+    "unrealized_pnl": -142913.209234,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3337,13 +3323,13 @@
     "side": "buy",
     "actual_size": 71886.42,
     "actual_entry": 6.4048,
-    "unrealized_pnl": 21439.502839,
+    "unrealized_pnl": 24501.864331,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3351,13 +3337,13 @@
     "side": "sell",
     "actual_size": 300,
     "actual_entry": 572.973,
-    "unrealized_pnl": -646.86226,
+    "unrealized_pnl": -2038.86226,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3365,13 +3351,13 @@
     "side": "buy",
     "actual_size": 996620,
     "actual_entry": 0.084106,
-    "unrealized_pnl": -9710.83778,
+    "unrealized_pnl": -8891.61614,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3379,13 +3365,13 @@
     "side": "buy",
     "actual_size": 443177.2,
     "actual_entry": 1.00424,
-    "unrealized_pnl": -113699.119679,
+    "unrealized_pnl": -115835.233783,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3393,13 +3379,13 @@
     "side": "sell",
     "actual_size": 9911.1,
     "actual_entry": 10.62167,
-    "unrealized_pnl": 25939.09465,
+    "unrealized_pnl": 25463.36185,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3407,13 +3393,13 @@
     "side": "buy",
     "actual_size": 704888,
     "actual_entry": 1.371665,
-    "unrealized_pnl": -187476.107088,
+    "unrealized_pnl": -182894.335088,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3421,13 +3407,13 @@
     "side": "sell",
     "actual_size": 1074501.4,
     "actual_entry": 0.55693,
-    "unrealized_pnl": 176746.588568,
+    "unrealized_pnl": 160038.091798,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3435,13 +3421,13 @@
     "side": "buy",
     "actual_size": 27057,
     "actual_entry": 0.318483,
-    "unrealized_pnl": 304.02848,
+    "unrealized_pnl": 342.71999,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3449,13 +3435,13 @@
     "side": "buy",
     "actual_size": 82310,
     "actual_entry": 0.051721,
-    "unrealized_pnl": -172.907035,
+    "unrealized_pnl": -121.545595,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3463,27 +3449,27 @@
     "side": "buy",
     "actual_size": 2395101,
     "actual_entry": 0.219537,
-    "unrealized_pnl": -126431.79912,
+    "unrealized_pnl": -115198.77543,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
     "market": "NEAR",
     "side": "sell",
-    "actual_size": 498231.7,
-    "actual_entry": 2.19055,
-    "unrealized_pnl": 142721.868975,
+    "actual_size": 505660.6,
+    "actual_entry": 2.1863,
+    "unrealized_pnl": 146695.645675,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3491,13 +3477,13 @@
     "side": "buy",
     "actual_size": 3848252,
     "actual_entry": 0.03614,
-    "unrealized_pnl": -20898.739834,
+    "unrealized_pnl": -20436.949594,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3505,13 +3491,13 @@
     "side": "sell",
     "actual_size": 789.82,
     "actual_entry": 288.282,
-    "unrealized_pnl": 59428.286832,
+    "unrealized_pnl": 59846.891432,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3519,13 +3505,13 @@
     "side": "buy",
     "actual_size": 523888,
     "actual_entry": 0.091266,
-    "unrealized_pnl": -6008.4174,
+    "unrealized_pnl": -6120.529432,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3533,13 +3519,13 @@
     "side": "buy",
     "actual_size": 439798.3,
     "actual_entry": 0.04496,
-    "unrealized_pnl": -829.815367,
+    "unrealized_pnl": -381.221101,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3547,27 +3533,27 @@
     "side": "buy",
     "actual_size": 419981,
     "actual_entry": 0.225272,
-    "unrealized_pnl": -14595.32201,
+    "unrealized_pnl": -14133.34291,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
     "market": "HYPE",
     "side": "buy",
-    "actual_size": 716.92,
+    "actual_size": 312.54,
     "actual_entry": 69.2818,
-    "unrealized_pnl": -2042.421655,
+    "unrealized_pnl": -728.806903,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3575,13 +3561,13 @@
     "side": "buy",
     "actual_size": 2733,
     "actual_entry": 0.36652,
-    "unrealized_pnl": -596.908736,
+    "unrealized_pnl": -586.796636,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3589,13 +3575,13 @@
     "side": "sell",
     "actual_size": 7115,
     "actual_entry": 0.033552,
-    "unrealized_pnl": 35.555209,
+    "unrealized_pnl": 34.886399,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3603,13 +3589,13 @@
     "side": "sell",
     "actual_size": 24557.1,
     "actual_entry": 17.6299,
-    "unrealized_pnl": 164186.982378,
+    "unrealized_pnl": 173764.251378,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3617,13 +3603,13 @@
     "side": "buy",
     "actual_size": 155461,
     "actual_entry": 0.003761,
-    "unrealized_pnl": -361.11035,
+    "unrealized_pnl": -361.265811,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3631,13 +3617,13 @@
     "side": "sell",
     "actual_size": 1493.09,
     "actual_entry": 505.4933,
-    "unrealized_pnl": 5917.57073,
+    "unrealized_pnl": 2110.19123,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3645,13 +3631,13 @@
     "side": "buy",
     "actual_size": 37216.8,
     "actual_entry": 2.24369,
-    "unrealized_pnl": 1645.19533,
+    "unrealized_pnl": 547.29973,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -3659,13 +3645,13 @@
     "side": "sell",
     "actual_size": 346449,
     "actual_entry": 2.552057,
-    "unrealized_pnl": -22949.7809,
+    "unrealized_pnl": -19242.7766,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 321,
-    "ts": "2026-07-11T06:01:34.266Z"
+    "ts": "2026-07-11T16:18:09.935Z"
   },
   {
     "wallet": "0x42bc06d636e9a9a93edb1ddf781ee97821a73946",
@@ -3673,13 +3659,13 @@
     "side": "sell",
     "actual_size": 100,
     "actual_entry": 64.3,
-    "unrealized_pnl": -209.1,
+    "unrealized_pnl": -265,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 320,
-    "ts": "2026-07-11T06:01:34.403Z"
+    "ts": "2026-07-11T16:18:10.071Z"
   },
   {
     "wallet": "0xd487e26c62ed8c28ce3cc70b5791e501c2934982",
@@ -3687,13 +3673,13 @@
     "side": "buy",
     "actual_size": 5000,
     "actual_entry": 470.5827,
-    "unrealized_pnl": 155136.321157,
+    "unrealized_pnl": 167486.321157,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 319,
-    "ts": "2026-07-11T06:01:34.575Z"
+    "ts": "2026-07-11T16:18:10.207Z"
   },
   {
     "wallet": "0xd487e26c62ed8c28ce3cc70b5791e501c2934982",
@@ -3701,13 +3687,13 @@
     "side": "buy",
     "actual_size": 1000,
     "actual_entry": 1.867277,
-    "unrealized_pnl": 751.922905,
+    "unrealized_pnl": 740.322905,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 319,
-    "ts": "2026-07-11T06:01:34.576Z"
+    "ts": "2026-07-11T16:18:10.207Z"
   },
   {
     "wallet": "0x90326fa293578c6c9ef945aaab0b57f886aca6ec",
@@ -3715,13 +3701,13 @@
     "side": "buy",
     "actual_size": 33035.26,
     "actual_entry": 65.4374,
-    "unrealized_pnl": 31502.05674,
+    "unrealized_pnl": 49968.76708,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 318,
-    "ts": "2026-07-11T06:01:34.750Z"
+    "ts": "2026-07-11T16:18:10.350Z"
   },
   {
     "wallet": "0x8ecec0c9367490d2044aaff4030ad0becc33218b",
@@ -3729,13 +3715,13 @@
     "side": "buy",
     "actual_size": 1.89213,
     "actual_entry": 76951.5,
-    "unrealized_pnl": -24248.603199,
+    "unrealized_pnl": -24178.594389,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 318,
-    "ts": "2026-07-11T06:01:35.062Z"
+    "ts": "2026-07-11T16:18:10.621Z"
   },
   {
     "wallet": "0x8ecec0c9367490d2044aaff4030ad0becc33218b",
@@ -3743,13 +3729,13 @@
     "side": "buy",
     "actual_size": 1225.29,
     "actual_entry": 79.2713,
-    "unrealized_pnl": -1794.286831,
+    "unrealized_pnl": -1347.055981,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 318,
-    "ts": "2026-07-11T06:01:35.062Z"
+    "ts": "2026-07-11T16:18:10.621Z"
   },
   {
     "wallet": "0x8ecec0c9367490d2044aaff4030ad0becc33218b",
@@ -3757,13 +3743,13 @@
     "side": "buy",
     "actual_size": 850.72,
     "actual_entry": 68.9376,
-    "unrealized_pnl": -2166.479787,
+    "unrealized_pnl": -1690.927307,
     "leverage": 8,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 318,
-    "ts": "2026-07-11T06:01:35.062Z"
+    "ts": "2026-07-11T16:18:10.621Z"
   },
   {
     "wallet": "0x8ecec0c9367490d2044aaff4030ad0becc33218b",
@@ -3771,13 +3757,13 @@
     "side": "buy",
     "actual_size": 112571566,
     "actual_entry": 0.002291,
-    "unrealized_pnl": -95987.478334,
+    "unrealized_pnl": -96100.0499,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 318,
-    "ts": "2026-07-11T06:01:35.062Z"
+    "ts": "2026-07-11T16:18:10.621Z"
   },
   {
     "wallet": "0xd21d931890d27b6e7e2e668f27931e17698e90f1",
@@ -3785,27 +3771,27 @@
     "side": "buy",
     "actual_size": 50000.2,
     "actual_entry": 61.2366,
-    "unrealized_pnl": 257718.375751,
+    "unrealized_pnl": 285668.487551,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 318,
-    "ts": "2026-07-11T06:01:35.198Z"
+    "ts": "2026-07-11T16:18:10.756Z"
   },
   {
     "wallet": "0xd21d931890d27b6e7e2e668f27931e17698e90f1",
     "market": "VVV",
     "side": "buy",
-    "actual_size": 60741.92,
-    "actual_entry": 12.8188,
-    "unrealized_pnl": -113882.88112,
+    "actual_size": 80100.92,
+    "actual_entry": 12.3033,
+    "unrealized_pnl": -140124.29279,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 318,
-    "ts": "2026-07-11T06:01:35.198Z"
+    "ts": "2026-07-11T16:18:10.756Z"
   },
   {
     "wallet": "0xd21d931890d27b6e7e2e668f27931e17698e90f1",
@@ -3813,13 +3799,13 @@
     "side": "buy",
     "actual_size": 200000,
     "actual_entry": 2.428883,
-    "unrealized_pnl": 38063.211678,
+    "unrealized_pnl": 35743.211678,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 318,
-    "ts": "2026-07-11T06:01:35.198Z"
+    "ts": "2026-07-11T16:18:10.756Z"
   },
   {
     "wallet": "0xd9ffc44a03241faafd27a702e0deb00d7b2cfdcf",
@@ -3827,13 +3813,13 @@
     "side": "buy",
     "actual_size": 1.4,
     "actual_entry": 75310.7,
-    "unrealized_pnl": -15644.6,
+    "unrealized_pnl": -15592.8,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 318,
-    "ts": "2026-07-11T06:01:35.351Z"
+    "ts": "2026-07-11T16:18:10.893Z"
   },
   {
     "wallet": "0xd9ffc44a03241faafd27a702e0deb00d7b2cfdcf",
@@ -3841,13 +3827,13 @@
     "side": "buy",
     "actual_size": 39.2,
     "actual_entry": 2041.25,
-    "unrealized_pnl": -9562.84,
+    "unrealized_pnl": -8904.28,
     "leverage": 25,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 318,
-    "ts": "2026-07-11T06:01:35.351Z"
+    "ts": "2026-07-11T16:18:10.893Z"
   },
   {
     "wallet": "0x5e0c78f6360514ac1d4ea4ab9a2a232284458e69",
@@ -3855,13 +3841,13 @@
     "side": "sell",
     "actual_size": 17,
     "actual_entry": 59033,
-    "unrealized_pnl": -86751,
+    "unrealized_pnl": -87380,
     "leverage": 33,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.505Z"
+    "ts": "2026-07-11T16:18:11.028Z"
   },
   {
     "wallet": "0x5e0c78f6360514ac1d4ea4ab9a2a232284458e69",
@@ -3869,13 +3855,13 @@
     "side": "buy",
     "actual_size": 80138,
     "actual_entry": 2.90037,
-    "unrealized_pnl": -79839.376028,
+    "unrealized_pnl": -80472.466228,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.505Z"
+    "ts": "2026-07-11T16:18:11.028Z"
   },
   {
     "wallet": "0x5e0c78f6360514ac1d4ea4ab9a2a232284458e69",
@@ -3883,13 +3869,13 @@
     "side": "buy",
     "actual_size": 5701.4,
     "actual_entry": 68.4598,
-    "unrealized_pnl": -11795.54698,
+    "unrealized_pnl": -8608.46438,
     "leverage": 8,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.505Z"
+    "ts": "2026-07-11T16:18:11.028Z"
   },
   {
     "wallet": "0x5e0c78f6360514ac1d4ea4ab9a2a232284458e69",
@@ -3897,97 +3883,83 @@
     "side": "buy",
     "actual_size": 239.47,
     "actual_entry": 638.6302,
-    "unrealized_pnl": -32812.2319,
+    "unrealized_pnl": -32220.741,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.505Z"
+    "ts": "2026-07-11T16:18:11.028Z"
   },
   {
     "wallet": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
     "market": "BTC",
     "side": "sell",
-    "actual_size": 9.57884,
-    "actual_entry": 64145,
-    "unrealized_pnl": 86.85138,
+    "actual_size": 31.17776,
+    "actual_entry": 64189.4,
+    "unrealized_pnl": 514.05653,
     "leverage": 30,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.644Z"
+    "ts": "2026-07-11T16:18:11.163Z"
   },
   {
     "wallet": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
     "market": "ETH",
     "side": "sell",
-    "actual_size": 1500,
+    "actual_size": 929.9425,
     "actual_entry": 1677.9,
-    "unrealized_pnl": -179099.961306,
+    "unrealized_pnl": -126658.144652,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.644Z"
+    "ts": "2026-07-11T16:18:11.163Z"
   },
   {
     "wallet": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
     "market": "SOL",
     "side": "buy",
-    "actual_size": 61308.83,
+    "actual_size": 51708.51,
     "actual_entry": 73.2257,
-    "unrealized_pnl": 280873.160284,
+    "unrealized_pnl": 255764.974511,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.644Z"
-  },
-  {
-    "wallet": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
-    "market": "AAVE",
-    "side": "buy",
-    "actual_size": 699.6,
-    "actual_entry": 87.4629,
-    "unrealized_pnl": 5239.345009,
-    "leverage": 10,
-    "size": 10,
-    "confidence": 100,
-    "action": "copy",
-    "score": 316,
-    "ts": "2026-07-11T06:01:35.644Z"
+    "ts": "2026-07-11T16:18:11.163Z"
   },
   {
     "wallet": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
     "market": "UNI",
     "side": "sell",
-    "actual_size": 12814.3,
-    "actual_entry": 3.48873,
-    "unrealized_pnl": -177.62536,
+    "actual_size": 42952.9,
+    "actual_entry": 3.53212,
+    "unrealized_pnl": -8928.73936,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.644Z"
+    "ts": "2026-07-11T16:18:11.163Z"
   },
   {
     "wallet": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
     "market": "NEAR",
     "side": "buy",
-    "actual_size": 160593,
+    "actual_size": 100000,
     "actual_entry": 1.91954,
-    "unrealized_pnl": -2481.08901,
+    "unrealized_pnl": -2334.954289,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.644Z"
+    "ts": "2026-07-11T16:18:11.163Z"
   },
   {
     "wallet": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
@@ -3995,41 +3967,41 @@
     "side": "buy",
     "actual_size": 250000,
     "actual_entry": 0.643445,
-    "unrealized_pnl": -4886.40054,
+    "unrealized_pnl": -4538.90054,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.644Z"
+    "ts": "2026-07-11T16:18:11.163Z"
   },
   {
     "wallet": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
     "market": "HYPE",
     "side": "sell",
-    "actual_size": 11312.94,
-    "actual_entry": 65.7175,
-    "unrealized_pnl": -7618.322522,
+    "actual_size": 18021.07,
+    "actual_entry": 66.0603,
+    "unrealized_pnl": -16031.736703,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.644Z"
+    "ts": "2026-07-11T16:18:11.163Z"
   },
   {
     "wallet": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
     "market": "LIT",
     "side": "sell",
-    "actual_size": 66601,
-    "actual_entry": 2.643727,
-    "unrealized_pnl": 1633.577,
+    "actual_size": 200000,
+    "actual_entry": 2.613108,
+    "unrealized_pnl": 1101.6842,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 316,
-    "ts": "2026-07-11T06:01:35.644Z"
+    "ts": "2026-07-11T16:18:11.163Z"
   },
   {
     "wallet": "0xba67690d19571752e0f845acd48b3349131b723b",
@@ -4037,13 +4009,13 @@
     "side": "buy",
     "actual_size": 129430,
     "actual_entry": 2.310689,
-    "unrealized_pnl": 39930.450515,
+    "unrealized_pnl": 38429.062515,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 315,
-    "ts": "2026-07-11T06:01:35.952Z"
+    "ts": "2026-07-11T16:18:11.621Z"
   },
   {
     "wallet": "0x1a19f1eb20023906accb989289645a5bf6300562",
@@ -4051,13 +4023,13 @@
     "side": "sell",
     "actual_size": 1.78,
     "actual_entry": 60363.3,
-    "unrealized_pnl": -6715.26919,
+    "unrealized_pnl": -6781.12919,
     "leverage": 7,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 314,
-    "ts": "2026-07-11T06:01:36.087Z"
+    "ts": "2026-07-11T16:18:11.757Z"
   },
   {
     "wallet": "0x1a19f1eb20023906accb989289645a5bf6300562",
@@ -4065,13 +4037,13 @@
     "side": "buy",
     "actual_size": 33,
     "actual_entry": 2572.15,
-    "unrealized_pnl": -25570.1,
+    "unrealized_pnl": -25015.7,
     "leverage": 2,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 314,
-    "ts": "2026-07-11T06:01:36.087Z"
+    "ts": "2026-07-11T16:18:11.757Z"
   },
   {
     "wallet": "0x1a19f1eb20023906accb989289645a5bf6300562",
@@ -4079,13 +4051,13 @@
     "side": "buy",
     "actual_size": 125300,
     "actual_entry": 0.40573,
-    "unrealized_pnl": -34868.725,
+    "unrealized_pnl": -34765.979,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 314,
-    "ts": "2026-07-11T06:01:36.087Z"
+    "ts": "2026-07-11T16:18:11.757Z"
   },
   {
     "wallet": "0x1a19f1eb20023906accb989289645a5bf6300562",
@@ -4093,13 +4065,13 @@
     "side": "buy",
     "actual_size": 357,
     "actual_entry": 130.07,
-    "unrealized_pnl": -18657.891,
+    "unrealized_pnl": -18527.586,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 314,
-    "ts": "2026-07-11T06:01:36.087Z"
+    "ts": "2026-07-11T16:18:11.757Z"
   },
   {
     "wallet": "0x1a19f1eb20023906accb989289645a5bf6300562",
@@ -4107,13 +4079,13 @@
     "side": "buy",
     "actual_size": 75333,
     "actual_entry": 0.17777,
-    "unrealized_pnl": -6599.1708,
+    "unrealized_pnl": -6021.36669,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 314,
-    "ts": "2026-07-11T06:01:36.087Z"
+    "ts": "2026-07-11T16:18:11.757Z"
   },
   {
     "wallet": "0x1a19f1eb20023906accb989289645a5bf6300562",
@@ -4121,13 +4093,13 @@
     "side": "buy",
     "actual_size": 753,
     "actual_entry": 3.117,
-    "unrealized_pnl": -1138.3101,
+    "unrealized_pnl": -1131.5331,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 314,
-    "ts": "2026-07-11T06:01:36.087Z"
+    "ts": "2026-07-11T16:18:11.757Z"
   },
   {
     "wallet": "0x1a19f1eb20023906accb989289645a5bf6300562",
@@ -4135,27 +4107,27 @@
     "side": "buy",
     "actual_size": 1.3,
     "actual_entry": 305.77,
-    "unrealized_pnl": 23.582,
+    "unrealized_pnl": 19.253,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 314,
-    "ts": "2026-07-11T06:01:36.087Z"
+    "ts": "2026-07-11T16:18:11.757Z"
   },
   {
     "wallet": "0xf9705511f4d0ae48aa128f73518c776fbda27ba7",
     "market": "LIT",
     "side": "buy",
-    "actual_size": 234158,
+    "actual_size": 231539,
     "actual_entry": 2.598769,
-    "unrealized_pnl": 4783.909113,
+    "unrealized_pnl": 2090.857659,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 312,
-    "ts": "2026-07-11T06:01:36.373Z"
+    "ts": "2026-07-11T16:18:12.050Z"
   },
   {
     "wallet": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
@@ -4163,13 +4135,13 @@
     "side": "sell",
     "actual_size": 2400,
     "actual_entry": 1695.35,
-    "unrealized_pnl": -244675.170316,
+    "unrealized_pnl": -284755.170316,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 311,
-    "ts": "2026-07-11T06:01:36.732Z"
+    "ts": "2026-07-11T16:18:12.186Z"
   },
   {
     "wallet": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
@@ -4177,13 +4149,13 @@
     "side": "buy",
     "actual_size": 200000,
     "actual_entry": 2.03763,
-    "unrealized_pnl": -26706.26925,
+    "unrealized_pnl": -28346.26925,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 311,
-    "ts": "2026-07-11T06:01:36.732Z"
+    "ts": "2026-07-11T16:18:12.186Z"
   },
   {
     "wallet": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
@@ -4191,13 +4163,13 @@
     "side": "buy",
     "actual_size": 26000000,
     "actual_entry": 0.085591,
-    "unrealized_pnl": -112405.477549,
+    "unrealized_pnl": -88251.477549,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 311,
-    "ts": "2026-07-11T06:01:36.732Z"
+    "ts": "2026-07-11T16:18:12.186Z"
   },
   {
     "wallet": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
@@ -4205,13 +4177,13 @@
     "side": "buy",
     "actual_size": 4100000,
     "actual_entry": 0.40591,
-    "unrealized_pnl": -55274.332777,
+    "unrealized_pnl": -1523.332777,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 311,
-    "ts": "2026-07-11T06:01:36.732Z"
+    "ts": "2026-07-11T16:18:12.186Z"
   },
   {
     "wallet": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
@@ -4219,13 +4191,13 @@
     "side": "buy",
     "actual_size": 22000,
     "actual_entry": 48.0945,
-    "unrealized_pnl": 402522.928241,
+    "unrealized_pnl": 414908.928241,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 311,
-    "ts": "2026-07-11T06:01:36.732Z"
+    "ts": "2026-07-11T16:18:12.186Z"
   },
   {
     "wallet": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
@@ -4233,13 +4205,13 @@
     "side": "buy",
     "actual_size": 4300000,
     "actual_entry": 0.39911,
-    "unrealized_pnl": 569444.904952,
+    "unrealized_pnl": 567380.904952,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 311,
-    "ts": "2026-07-11T06:01:36.732Z"
+    "ts": "2026-07-11T16:18:12.186Z"
   },
   {
     "wallet": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
@@ -4247,13 +4219,13 @@
     "side": "buy",
     "actual_size": 29606,
     "actual_entry": 1.234807,
-    "unrealized_pnl": 40986.324125,
+    "unrealized_pnl": 40648.815725,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 311,
-    "ts": "2026-07-11T06:01:36.732Z"
+    "ts": "2026-07-11T16:18:12.186Z"
   },
   {
     "wallet": "0x2322f8e13d25e1c997b060bc5cebc9634f8a895a",
@@ -4261,13 +4233,13 @@
     "side": "buy",
     "actual_size": 8.52636,
     "actual_entry": 72413.5,
-    "unrealized_pnl": -70577.601024,
+    "unrealized_pnl": -70270.652064,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 310,
-    "ts": "2026-07-11T06:01:37.003Z"
+    "ts": "2026-07-11T16:18:12.464Z"
   },
   {
     "wallet": "0x2322f8e13d25e1c997b060bc5cebc9634f8a895a",
@@ -4275,13 +4247,13 @@
     "side": "buy",
     "actual_size": 1.01,
     "actual_entry": 47.9468,
-    "unrealized_pnl": 18.628563,
+    "unrealized_pnl": 19.197193,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 310,
-    "ts": "2026-07-11T06:01:37.003Z"
+    "ts": "2026-07-11T16:18:12.464Z"
   },
   {
     "wallet": "0x5d9d19a3e5005225f13780fa10c198f87816670d",
@@ -4289,13 +4261,13 @@
     "side": "buy",
     "actual_size": 33557,
     "actual_entry": 2.137598,
-    "unrealized_pnl": 16191.289837,
+    "unrealized_pnl": 15778.538737,
     "leverage": 2,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 310,
-    "ts": "2026-07-11T06:01:37.144Z"
+    "ts": "2026-07-11T16:18:12.600Z"
   },
   {
     "wallet": "0x913b6bfaffcc18db65dc9a6bdde6cd5365e0ef92",
@@ -4303,13 +4275,13 @@
     "side": "buy",
     "actual_size": 7000,
     "actual_entry": 77.7539,
-    "unrealized_pnl": 420.30426,
+    "unrealized_pnl": 2947.30426,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 307,
-    "ts": "2026-07-11T06:01:37.287Z"
+    "ts": "2026-07-11T16:18:12.734Z"
   },
   {
     "wallet": "0xfd4d5ceef928efe7e7f6dcebc609342ac85787c0",
@@ -4317,55 +4289,55 @@
     "side": "sell",
     "actual_size": 676.17,
     "actual_entry": 504.17,
-    "unrealized_pnl": 1676.9016,
+    "unrealized_pnl": 87.9021,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 307,
-    "ts": "2026-07-11T06:01:37.425Z"
+    "ts": "2026-07-11T16:18:12.871Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "SOL",
     "side": "buy",
-    "actual_size": 11254.62,
-    "actual_entry": 78.0113,
-    "unrealized_pnl": -2220.729398,
+    "actual_size": 9109.25,
+    "actual_entry": 78.0199,
+    "unrealized_pnl": 1412.581291,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "INJ",
     "side": "buy",
-    "actual_size": 5.7,
-    "actual_entry": 4.58946,
-    "unrealized_pnl": 2.336637,
+    "actual_size": 840.9,
+    "actual_entry": 5.08996,
+    "unrealized_pnl": -68.759373,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "SUI",
     "side": "buy",
-    "actual_size": 19428,
-    "actual_entry": 0.72032,
-    "unrealized_pnl": 531.787979,
+    "actual_size": 109385.7,
+    "actual_entry": 0.74055,
+    "unrealized_pnl": 248.339816,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
@@ -4373,83 +4345,97 @@
     "side": "buy",
     "actual_size": 63582.8,
     "actual_entry": 0.20923,
-    "unrealized_pnl": -173.077361,
+    "unrealized_pnl": -113.309529,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
+  },
+  {
+    "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
+    "market": "LINK",
+    "side": "buy",
+    "actual_size": 4424.5,
+    "actual_entry": 8.01444,
+    "unrealized_pnl": 167.06413,
+    "leverage": 10,
+    "size": 10,
+    "confidence": 100,
+    "action": "copy",
+    "score": 306,
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "AAVE",
     "side": "buy",
-    "actual_size": 1.98,
-    "actual_entry": 87.736,
-    "unrealized_pnl": 14.287629,
+    "actual_size": 649.97,
+    "actual_entry": 97.1474,
+    "unrealized_pnl": 2400.058139,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "WLD",
     "side": "buy",
-    "actual_size": 38151.6,
-    "actual_entry": 0.38236,
-    "unrealized_pnl": 384.047904,
+    "actual_size": 133928.6,
+    "actual_entry": 0.39828,
+    "unrealized_pnl": 1298.629162,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "UNI",
     "side": "buy",
-    "actual_size": 3434.8,
-    "actual_entry": 3.53314,
-    "unrealized_pnl": -106.623053,
+    "actual_size": 5421.5,
+    "actual_entry": 3.53291,
+    "unrealized_pnl": 1122.690517,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "NEAR",
     "side": "buy",
-    "actual_size": 6904.2,
-    "actual_entry": 1.93147,
-    "unrealized_pnl": -188.322273,
+    "actual_size": 36538.7,
+    "actual_entry": 1.90769,
+    "unrealized_pnl": -430.847323,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "JUP",
     "side": "buy",
-    "actual_size": 79905,
-    "actual_entry": 0.2065,
-    "unrealized_pnl": -75.929747,
+    "actual_size": 260285,
+    "actual_entry": 0.20708,
+    "unrealized_pnl": 400.618693,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
@@ -4457,13 +4443,27 @@
     "side": "buy",
     "actual_size": 17789,
     "actual_entry": 0.633083,
-    "unrealized_pnl": -162.830669,
+    "unrealized_pnl": -138.637629,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
+  },
+  {
+    "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
+    "market": "ENA",
+    "side": "buy",
+    "actual_size": 241824,
+    "actual_entry": 0.081892,
+    "unrealized_pnl": 73.629412,
+    "leverage": 10,
+    "size": 10,
+    "confidence": 100,
+    "action": "copy",
+    "score": 306,
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
@@ -4471,41 +4471,55 @@
     "side": "buy",
     "actual_size": 99944.4,
     "actual_entry": 0.2436,
-    "unrealized_pnl": -1179.756019,
+    "unrealized_pnl": -430.173019,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "HYPE",
     "side": "buy",
-    "actual_size": 51.35,
-    "actual_entry": 67.2691,
-    "unrealized_pnl": -45.039629,
+    "actual_size": 365.03,
+    "actual_entry": 66.7333,
+    "unrealized_pnl": 80.561391,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
+  },
+  {
+    "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
+    "market": "VIRTUAL",
+    "side": "buy",
+    "actual_size": 1000,
+    "actual_entry": 0.60434,
+    "unrealized_pnl": 0.05,
+    "leverage": 5,
+    "size": 10,
+    "confidence": 100,
+    "action": "copy",
+    "score": 306,
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "PUMP",
     "side": "buy",
-    "actual_size": 20105239,
-    "actual_entry": 0.001502,
-    "unrealized_pnl": -1277.952367,
+    "actual_size": 58369750,
+    "actual_entry": 0.001458,
+    "unrealized_pnl": -1219.16426,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
@@ -4513,27 +4527,27 @@
     "side": "buy",
     "actual_size": 65768,
     "actual_entry": 0.095377,
-    "unrealized_pnl": -260.358024,
+    "unrealized_pnl": -237.47076,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
     "market": "ZEC",
     "side": "buy",
-    "actual_size": 0.26,
-    "actual_entry": 459.8854,
-    "unrealized_pnl": 10.869175,
+    "actual_size": 14.48,
+    "actual_entry": 501.8526,
+    "unrealized_pnl": 31.672575,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
@@ -4541,41 +4555,55 @@
     "side": "buy",
     "actual_size": 1.858,
     "actual_entry": 315.247,
-    "unrealized_pnl": 16.112796,
+    "unrealized_pnl": 9.907076,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.722Z"
+    "ts": "2026-07-11T16:18:13.141Z"
+  },
+  {
+    "wallet": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
+    "market": "CASHCAT",
+    "side": "buy",
+    "actual_size": 2093,
+    "actual_entry": 0.199635,
+    "unrealized_pnl": -38.64828,
+    "leverage": 3,
+    "size": 10,
+    "confidence": 100,
+    "action": "copy",
+    "score": 306,
+    "ts": "2026-07-11T16:18:13.141Z"
   },
   {
     "wallet": "0x368fa5b8582c72ca0ecfbc8469f1cbc13c7e2162",
     "market": "HYPE",
     "side": "buy",
-    "actual_size": 6315.55,
+    "actual_size": 5873.47,
     "actual_entry": 66.5479,
-    "unrealized_pnl": -985.002,
+    "unrealized_pnl": 2384.836967,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.860Z"
+    "ts": "2026-07-11T16:18:13.318Z"
   },
   {
     "wallet": "0xb40da15b8cc492fff87d9b1e06bb45769d7e75d9",
     "market": "WLD",
     "side": "sell",
-    "actual_size": 225000,
-    "actual_entry": 0.40352,
-    "unrealized_pnl": 2496.069709,
+    "actual_size": 250000,
+    "actual_entry": 0.40435,
+    "unrealized_pnl": -905.44383,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.998Z"
+    "ts": "2026-07-11T16:18:13.453Z"
   },
   {
     "wallet": "0xb40da15b8cc492fff87d9b1e06bb45769d7e75d9",
@@ -4583,13 +4611,13 @@
     "side": "sell",
     "actual_size": 900000,
     "actual_entry": 0.157439,
-    "unrealized_pnl": -8379.793008,
+    "unrealized_pnl": -12600.793008,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.998Z"
+    "ts": "2026-07-11T16:18:13.453Z"
   },
   {
     "wallet": "0xb40da15b8cc492fff87d9b1e06bb45769d7e75d9",
@@ -4597,41 +4625,41 @@
     "side": "buy",
     "actual_size": 70000,
     "actual_entry": 0.738738,
-    "unrealized_pnl": -8036.627587,
+    "unrealized_pnl": -7941.427587,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.998Z"
+    "ts": "2026-07-11T16:18:13.453Z"
   },
   {
     "wallet": "0xb40da15b8cc492fff87d9b1e06bb45769d7e75d9",
     "market": "HYPE",
     "side": "buy",
-    "actual_size": 17500,
+    "actual_size": 16000,
     "actual_entry": 66.2562,
-    "unrealized_pnl": 2376.021187,
+    "unrealized_pnl": 11164.362229,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.998Z"
+    "ts": "2026-07-11T16:18:13.453Z"
   },
   {
     "wallet": "0xb40da15b8cc492fff87d9b1e06bb45769d7e75d9",
     "market": "LIT",
     "side": "buy",
-    "actual_size": 145000,
-    "actual_entry": 2.374626,
-    "unrealized_pnl": 35593.648323,
+    "actual_size": 150000,
+    "actual_entry": 2.382784,
+    "unrealized_pnl": 33752.352023,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 306,
-    "ts": "2026-07-11T06:01:37.998Z"
+    "ts": "2026-07-11T16:18:13.453Z"
   },
   {
     "wallet": "0x107a3e62969957f4c0be0340f457f1298acfe78e",
@@ -4639,13 +4667,13 @@
     "side": "sell",
     "actual_size": 10.17614,
     "actual_entry": 62424.6,
-    "unrealized_pnl": -17455.650789,
+    "unrealized_pnl": -17781.287269,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 305,
-    "ts": "2026-07-11T06:01:38.287Z"
+    "ts": "2026-07-11T16:18:13.724Z"
   },
   {
     "wallet": "0x5f1055597a652a50c67e62bcf2912dc621bfd49d",
@@ -4653,13 +4681,13 @@
     "side": "buy",
     "actual_size": 994.405,
     "actual_entry": 205,
-    "unrealized_pnl": 8044.73645,
+    "unrealized_pnl": 7458.0375,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 304,
-    "ts": "2026-07-11T06:01:38.423Z"
+    "ts": "2026-07-11T16:18:13.866Z"
   },
   {
     "wallet": "0x5f1055597a652a50c67e62bcf2912dc621bfd49d",
@@ -4667,13 +4695,13 @@
     "side": "buy",
     "actual_size": 6000,
     "actual_entry": 63,
-    "unrealized_pnl": 20352,
+    "unrealized_pnl": 23724,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 304,
-    "ts": "2026-07-11T06:01:38.423Z"
+    "ts": "2026-07-11T16:18:13.866Z"
   },
   {
     "wallet": "0xb69eec8fea0081343c3b09e652ba1fa7dcf7033a",
@@ -4681,13 +4709,13 @@
     "side": "sell",
     "actual_size": 25.63227,
     "actual_entry": 61470.3,
-    "unrealized_pnl": -68428.25657,
+    "unrealized_pnl": -69248.48921,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 304,
-    "ts": "2026-07-11T06:01:38.561Z"
+    "ts": "2026-07-11T16:18:14.001Z"
   },
   {
     "wallet": "0xb69eec8fea0081343c3b09e652ba1fa7dcf7033a",
@@ -4695,13 +4723,13 @@
     "side": "sell",
     "actual_size": 281.2306,
     "actual_entry": 1777.9,
-    "unrealized_pnl": -5512.11976,
+    "unrealized_pnl": -10152.42466,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 304,
-    "ts": "2026-07-11T06:01:38.561Z"
+    "ts": "2026-07-11T16:18:14.001Z"
   },
   {
     "wallet": "0x7ff59a95c9e0b908adfc374139008ecb9a1d126b",
@@ -4709,13 +4737,13 @@
     "side": "buy",
     "actual_size": 1,
     "actual_entry": 61132.7,
-    "unrealized_pnl": 3007.211173,
+    "unrealized_pnl": 3039.211173,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 303,
-    "ts": "2026-07-11T06:01:38.696Z"
+    "ts": "2026-07-11T16:18:14.137Z"
   },
   {
     "wallet": "0x7ff59a95c9e0b908adfc374139008ecb9a1d126b",
@@ -4723,13 +4751,13 @@
     "side": "sell",
     "actual_size": 400000,
     "actual_entry": 0.086487,
-    "unrealized_pnl": 4848.102805,
+    "unrealized_pnl": 4524.902805,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 303,
-    "ts": "2026-07-11T06:01:38.696Z"
+    "ts": "2026-07-11T16:18:14.137Z"
   },
   {
     "wallet": "0x7ff59a95c9e0b908adfc374139008ecb9a1d126b",
@@ -4737,13 +4765,13 @@
     "side": "sell",
     "actual_size": 300,
     "actual_entry": 224.893,
-    "unrealized_pnl": 3541.102397,
+    "unrealized_pnl": 3718.102397,
     "leverage": 5,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 303,
-    "ts": "2026-07-11T06:01:38.696Z"
+    "ts": "2026-07-11T16:18:14.137Z"
   },
   {
     "wallet": "0x7ff59a95c9e0b908adfc374139008ecb9a1d126b",
@@ -4751,13 +4779,13 @@
     "side": "sell",
     "actual_size": 1309766.8,
     "actual_entry": 0.04054,
-    "unrealized_pnl": 10340.608885,
+    "unrealized_pnl": 10563.269241,
     "leverage": 3,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 303,
-    "ts": "2026-07-11T06:01:38.696Z"
+    "ts": "2026-07-11T16:18:14.137Z"
   },
   {
     "wallet": "0x7ff59a95c9e0b908adfc374139008ecb9a1d126b",
@@ -4765,13 +4793,13 @@
     "side": "buy",
     "actual_size": 5000,
     "actual_entry": 45.991,
-    "unrealized_pnl": 102004.545455,
+    "unrealized_pnl": 104814.545455,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 303,
-    "ts": "2026-07-11T06:01:38.696Z"
+    "ts": "2026-07-11T16:18:14.137Z"
   },
   {
     "wallet": "0x1003d8c532e5178673668e5f3aa48dc399ee940c",
@@ -4779,13 +4807,13 @@
     "side": "sell",
     "actual_size": 0.62379,
     "actual_entry": 64124,
-    "unrealized_pnl": -9.98064,
+    "unrealized_pnl": -29.94192,
     "leverage": 40,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 301,
-    "ts": "2026-07-11T06:01:38.866Z"
+    "ts": "2026-07-11T16:18:14.273Z"
   },
   {
     "wallet": "0x1003d8c532e5178673668e5f3aa48dc399ee940c",
@@ -4793,13 +4821,13 @@
     "side": "sell",
     "actual_size": 28.4262,
     "actual_entry": 1758.79,
-    "unrealized_pnl": -1100.3442,
+    "unrealized_pnl": -1569.3765,
     "leverage": 25,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 301,
-    "ts": "2026-07-11T06:01:38.866Z"
+    "ts": "2026-07-11T16:18:14.273Z"
   },
   {
     "wallet": "0x1003d8c532e5178673668e5f3aa48dc399ee940c",
@@ -4807,13 +4835,13 @@
     "side": "sell",
     "actual_size": 914.44,
     "actual_entry": 60.1344,
-    "unrealized_pnl": -5722.13811,
+    "unrealized_pnl": -6236.05339,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 301,
-    "ts": "2026-07-11T06:01:38.866Z"
+    "ts": "2026-07-11T16:18:14.273Z"
   },
   {
     "wallet": "0x24a44aef48aeb27c7708dabfccda14b41fbf0ae1",
@@ -4821,13 +4849,13 @@
     "side": "buy",
     "actual_size": 1000,
     "actual_entry": 43.3003,
-    "unrealized_pnl": 23091.695494,
+    "unrealized_pnl": 23653.695494,
     "leverage": 10,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 294,
-    "ts": "2026-07-11T06:01:39.145Z"
+    "ts": "2026-07-11T16:18:14.544Z"
   },
   {
     "wallet": "0x24a44aef48aeb27c7708dabfccda14b41fbf0ae1",
@@ -4835,13 +4863,13 @@
     "side": "sell",
     "actual_size": 350000,
     "actual_entry": 0.018226,
-    "unrealized_pnl": 5521.95,
+    "unrealized_pnl": 5520.55,
     "leverage": 1,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 294,
-    "ts": "2026-07-11T06:01:39.145Z"
+    "ts": "2026-07-11T16:18:14.544Z"
   },
   {
     "wallet": "0x6bea81d7a0c5939a5ce5552e125ab57216cc597f",
@@ -4849,13 +4877,13 @@
     "side": "sell",
     "actual_size": 3.42853,
     "actual_entry": 63143.7,
-    "unrealized_pnl": -3415.795331,
+    "unrealized_pnl": -3525.508291,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 288,
-    "ts": "2026-07-11T06:01:39.281Z"
+    "ts": "2026-07-11T16:18:14.680Z"
   },
   {
     "wallet": "0x6bea81d7a0c5939a5ce5552e125ab57216cc597f",
@@ -4863,13 +4891,13 @@
     "side": "sell",
     "actual_size": 67.0941,
     "actual_entry": 1633.22,
-    "unrealized_pnl": -11021.757139,
+    "unrealized_pnl": -12128.809789,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 288,
-    "ts": "2026-07-11T06:01:39.281Z"
+    "ts": "2026-07-11T16:18:14.680Z"
   },
   {
     "wallet": "0x6bea81d7a0c5939a5ce5552e125ab57216cc597f",
@@ -4877,12 +4905,12 @@
     "side": "sell",
     "actual_size": 9072.37,
     "actual_entry": 84.1577,
-    "unrealized_pnl": 57553.000415,
+    "unrealized_pnl": 54277.874845,
     "leverage": 20,
     "size": 10,
     "confidence": 100,
     "action": "copy",
     "score": 288,
-    "ts": "2026-07-11T06:01:39.281Z"
+    "ts": "2026-07-11T16:18:14.680Z"
   }
 ]

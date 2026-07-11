@@ -194,20 +194,6 @@ function classifyRegime(sym) {
   return 'CHOPPY';
 }
 
-// ── Regime classifier (EMA50 slope + ATR%) ───────────────────────────────
-function classifyRegime(sym) {
-  const c = candles[sym]; const n = c.closes.length;
-  if (n < 70) return 'CHOPPY';
-  const e50 = EMA.calculate({ values: c.closes, period: 50 });
-  const slope = (e50[n-1] - e50[n-21]) / e50[n-21] * 100;
-  let atr = 0; for (let i = n-20; i < n; i++) atr += Math.max(c.highs[i]-c.lows[i], Math.abs(c.highs[i]-c.closes[i-1]), Math.abs(c.lows[i]-c.closes[i-1]));
-  atr /= 20; const vol = atr / c.closes[n-1] * 100;
-  if (vol > 0.8) return 'CHOPPY';
-  if (slope > 0.3) return 'BULL';
-  if (slope < -0.3) return 'BEAR';
-  return 'CHOPPY';
-}
-
 // ── Signal Engine (live) — matches backtester ─────────────────────────────────
 async function ruleBasedSignal(symbol) {
   const c = candles[symbol];

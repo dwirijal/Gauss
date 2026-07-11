@@ -1,13 +1,13 @@
 {
-  "LTCUSDT": {
-    "symbol": "LTCUSDT",
+  "BCHUSDT": {
+    "symbol": "BCHUSDT",
     "side": "SHORT",
-    "qty": 2.22,
-    "entry": 45.11,
-    "tp": 44.658899999999996,
-    "sl": 45.5611,
+    "qty": 0.27,
+    "entry": 248.19,
+    "tp": 244.46715,
+    "sl": 251.91284999999996,
     "trailed": false,
     "closeSide": "BUY",
-    "ts": 1783770348391
+    "ts": 1783786517716
   }
 }

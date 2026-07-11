@@ -1,5 +1,5 @@
 {
-  "_comment": "KalAI bot config — RR 1:1 + trailing TP, breakout signal. Validated on 400d Binance data (TimescaleDB: dwizzyos_ts.market_data).",
+  "_comment": "KalAI bot config — RR 1:1 + trailing TP, counter-trend mean-reversion signal. NOTE: 'validated' WR below are backtest_v3-method numbers (HTF-bias + fib + LTF stochRSI + buyRatio on 5m), NOT the live engine. Live engine is counter-trend on 1m and does NOT reproduce them (HTF-bias filtering yields 0 trades). See 'live_measured'. Bot runs 1m candles per index.js MODE_CFG, NOT the 'interval' fields here.",
   "capital": 20,
   "risk_per_trade": 1,
   "fee_maker": 0.0002,
@@ -22,6 +22,13 @@
     "trailing": "TRAILING_STOP_MARKET callbackRate=trail_dist%, activationPrice=+sl_pct"
   },
   "circuit_breaker": "3 consecutive losses -> pause 1h",
+  "live_measured": {
+    "_comment": "Actual measured live performance (testnet, counter-trend engine on 1m). Source: eval_trades.js (real fills) + backtest_live.js replay gate @1000x1m.",
+    "replay_gate_wr": "20.8% (167 trades, gate=2) — local optimum, no config beat it",
+    "eval_trades_wr": "16.5% (265 fills) — BTC 16.5% / ETH 50% (n=4) / SOL 11.8%",
+    "interval_mismatch": "WARN: modes.*.interval (15m/1h/4h) is NOT used by index.js; bot trades 1m candles regardless. Config intervals are decorative.",
+    "note": "Do NOT gate live optimizations against the 'validated' WR above — those are backtest_v3-method and unreproducible by the live engine."
+  },
   "db": {
     "host": "172.23.0.2:5432 (DOS-tpg internal)",
     "dsn": "postgres://dwizzy:kalai_tdb_2026@172.23.0.2:5432/dwizzyos_ts",
