@@ -1,0 +1,86 @@
+fetching BTCUSDT...
+BTCUSDT: using 4500 cached bars
+BTCUSDT done: 159 trades
+fetching ETHUSDT...
+ETHUSDT: using 4500 cached bars
+ETHUSDT done: 204 trades
+fetching SOLUSDT...
+SOLUSDT: using 4500 cached bars
+SOLUSDT done: 180 trades
+{
+  "baseline": {
+    "t": 543,
+    "w": 97,
+    "l": 446,
+    "pnl": -1.762,
+    "wr": 17.9,
+    "retained": 100
+  },
+  "a": {
+    "t": 402,
+    "w": 89,
+    "l": 313,
+    "pnl": -1.278,
+    "wr": 22.1,
+    "retained": 74
+  },
+  "b": {
+    "t": 204,
+    "w": 29,
+    "l": 175,
+    "pnl": -0.99,
+    "wr": 14.2,
+    "retained": 37.6
+  },
+  "c": {
+    "t": 543,
+    "w": 97,
+    "l": 446,
+    "pnl": -1.762,
+    "wr": 17.9,
+    "retained": 100
+  },
+  "d": {
+    "t": 20,
+    "w": 9,
+    "l": 11,
+    "pnl": 0.177,
+    "wr": 45,
+    "retained": 3.7
+  },
+  "e": {
+    "t": 458,
+    "w": 84,
+    "l": 374,
+    "pnl": -1.594,
+    "wr": 18.3,
+    "retained": 84.3
+  },
+  "delta": {
+    "a": {
+      "retained_pct": 74,
+      "wr_pp": 4.2,
+      "pnl_delta": 0.484
+    },
+    "b": {
+      "retained_pct": 37.6,
+      "wr_pp": -3.7,
+      "pnl_delta": 0.772
+    },
+    "c": {
+      "retained_pct": 100,
+      "wr_pp": 0,
+      "pnl_delta": 0
+    },
+    "d": {
+      "retained_pct": 3.7,
+      "wr_pp": 27.1,
+      "pnl_delta": 1.939
+    },
+    "e": {
+      "retained_pct": 84.3,
+      "wr_pp": 0.4,
+      "pnl_delta": 0.168
+    }
+  }
+}

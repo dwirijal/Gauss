@@ -1,0 +1,3668 @@
+{
+  "generatedAt": "2026-07-11T16:32:24.825Z",
+  "data": {
+    "range": {
+      "start": "2026-07-07T16:32:00.000Z",
+      "end": "2026-07-11T16:31:00.000Z",
+      "bars": 5760
+    },
+    "symbols": [
+      "BTCUSDT",
+      "ETHUSDT",
+      "SOLUSDT"
+    ]
+  },
+  "feeModel": "taker 0.04% round-trip; capital $20 risk $1 lev 5; notional=risk/(SL%)",
+  "caveat": "Depth/orderbook trigger (live 4th signal) omitted — no historical L2. Entry=close at signal bar. Horizon=720 bars (12h).",
+  "totalCombos": 80,
+  "top5ByNetPnl": [
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.5,
+      "trades": 5,
+      "win": 2,
+      "loss": 3,
+      "open": 0,
+      "wr": 40,
+      "netPnl": 1.5,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": 0.2
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 2.4
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.25,
+      "trades": 4,
+      "win": 2,
+      "loss": 2,
+      "open": 1,
+      "wr": 50,
+      "netPnl": -0.1,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.5
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.45
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.5,
+      "trades": 4,
+      "win": 2,
+      "loss": 2,
+      "open": 1,
+      "wr": 50,
+      "netPnl": -0.1,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.5
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.45
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.5,
+      "trades": 4,
+      "win": 2,
+      "loss": 2,
+      "open": 1,
+      "wr": 50,
+      "netPnl": -0.16,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": -0.08
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.04
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.96
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.4,
+      "trail": 0.25,
+      "trades": 5,
+      "win": 2,
+      "loss": 3,
+      "open": 0,
+      "wr": 40,
+      "netPnl": -0.3,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": -0.1
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.9
+        }
+      }
+    }
+  ],
+  "top5ByWR": [
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.25,
+      "trades": 4,
+      "win": 2,
+      "loss": 2,
+      "open": 1,
+      "wr": 50,
+      "netPnl": -0.1,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.5
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.45
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.5,
+      "trades": 4,
+      "win": 2,
+      "loss": 2,
+      "open": 1,
+      "wr": 50,
+      "netPnl": -0.1,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.5
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.45
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.5,
+      "trades": 4,
+      "win": 2,
+      "loss": 2,
+      "open": 1,
+      "wr": 50,
+      "netPnl": -0.16,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": -0.08
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.04
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.96
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.5,
+      "trades": 5,
+      "win": 2,
+      "loss": 3,
+      "open": 0,
+      "wr": 40,
+      "netPnl": 1.5,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": 0.2
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 2.4
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.4,
+      "trail": 0.25,
+      "trades": 5,
+      "win": 2,
+      "loss": 3,
+      "open": 0,
+      "wr": 40,
+      "netPnl": -0.3,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": -0.1
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.9
+        }
+      }
+    }
+  ],
+  "verdict": {
+    "anyConfigProfitable": true,
+    "anyConfigWRgt50": false,
+    "liveCompatibleProfitable": false,
+    "liveCompatibleWRgt50": false,
+    "bestLiveConfig": {
+      "gate": 2,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.1,
+      "trades": 1673,
+      "win": 11,
+      "loss": 1662,
+      "open": 48,
+      "wr": 0.7,
+      "netPnl": -38.45,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 0,
+          "loss": 581,
+          "open": 33,
+          "wr": 0,
+          "pnl": 2.06
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 2,
+          "loss": 545,
+          "open": 15,
+          "wr": 0.4,
+          "pnl": -19.56
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 9,
+          "loss": 536,
+          "open": 0,
+          "wr": 1.7,
+          "pnl": -20.95
+        }
+      }
+    },
+    "bestOverallConfig": {
+      "gate": 3,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.5,
+      "trades": 5,
+      "win": 2,
+      "loss": 3,
+      "open": 0,
+      "wr": 40,
+      "netPnl": 1.5,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": 0.2
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 2.4
+        }
+      }
+    },
+    "bestWrConfig": {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.25,
+      "trades": 4,
+      "win": 2,
+      "loss": 2,
+      "open": 1,
+      "wr": 50,
+      "netPnl": -0.1,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.5
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.45
+        }
+      }
+    },
+    "noteGate3Noise": "gate=3 profitable only on N=5 trades (noise, not deployable)",
+    "pipelineNote": "reference backtest_live.js uses 30-bar forward window (unresolved trades excluded); this sweep uses 720-bar (12h) hold mirroring live continuous monitoring, more faithful to live bot which runs until exit.",
+    "bestLiveByPnlJustified": {
+      "gate": 2,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.5,
+      "wr": 33.5,
+      "n": 1647,
+      "netPnl": -86.65
+    }
+  },
+  "allResults": [
+    {
+      "gate": 2,
+      "tp": 0.2,
+      "sl": 0.2,
+      "trail": 0.1,
+      "trades": 1721,
+      "win": 440,
+      "loss": 1281,
+      "open": 0,
+      "wr": 25.6,
+      "netPnl": -383.4,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 149,
+          "loss": 465,
+          "open": 0,
+          "wr": 24.3,
+          "pnl": -162.13
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 167,
+          "loss": 395,
+          "open": 0,
+          "wr": 29.7,
+          "pnl": -98.71
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 124,
+          "loss": 421,
+          "open": 0,
+          "wr": 22.8,
+          "pnl": -122.55
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.2,
+      "sl": 0.2,
+      "trail": 0.15,
+      "trades": 1721,
+      "win": 452,
+      "loss": 1269,
+      "open": 0,
+      "wr": 26.3,
+      "netPnl": -378.6,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 154,
+          "loss": 460,
+          "open": 0,
+          "wr": 25.1,
+          "pnl": -160
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 174,
+          "loss": 388,
+          "open": 0,
+          "wr": 31,
+          "pnl": -95.4
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 124,
+          "loss": 421,
+          "open": 0,
+          "wr": 22.8,
+          "pnl": -123.2
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.2,
+      "sl": 0.2,
+      "trail": 0.25,
+      "trades": 1721,
+      "win": 452,
+      "loss": 1269,
+      "open": 0,
+      "wr": 26.3,
+      "netPnl": -378.6,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 154,
+          "loss": 460,
+          "open": 0,
+          "wr": 25.1,
+          "pnl": -160
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 174,
+          "loss": 388,
+          "open": 0,
+          "wr": 31,
+          "pnl": -95.4
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 124,
+          "loss": 421,
+          "open": 0,
+          "wr": 22.8,
+          "pnl": -123.2
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.2,
+      "sl": 0.2,
+      "trail": 0.5,
+      "trades": 1721,
+      "win": 452,
+      "loss": 1269,
+      "open": 0,
+      "wr": 26.3,
+      "netPnl": -378.6,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 154,
+          "loss": 460,
+          "open": 0,
+          "wr": 25.1,
+          "pnl": -160
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 174,
+          "loss": 388,
+          "open": 0,
+          "wr": 31,
+          "pnl": -95.4
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 124,
+          "loss": 421,
+          "open": 0,
+          "wr": 22.8,
+          "pnl": -123.2
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.3,
+      "sl": 0.3,
+      "trail": 0.1,
+      "trades": 1721,
+      "win": 306,
+      "loss": 1415,
+      "open": 0,
+      "wr": 17.8,
+      "netPnl": -263.98,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 98,
+          "loss": 516,
+          "open": 0,
+          "wr": 16,
+          "pnl": -110
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 113,
+          "loss": 449,
+          "open": 0,
+          "wr": 20.1,
+          "pnl": -68.39
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 95,
+          "loss": 450,
+          "open": 0,
+          "wr": 17.4,
+          "pnl": -85.59
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.3,
+      "sl": 0.3,
+      "trail": 0.15,
+      "trades": 1721,
+      "win": 428,
+      "loss": 1293,
+      "open": 0,
+      "wr": 24.9,
+      "netPnl": -293.34,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 146,
+          "loss": 468,
+          "open": 0,
+          "wr": 23.8,
+          "pnl": -119.33
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 141,
+          "loss": 421,
+          "open": 0,
+          "wr": 25.1,
+          "pnl": -97.32
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 141,
+          "loss": 404,
+          "open": 0,
+          "wr": 25.9,
+          "pnl": -76.68
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.3,
+      "sl": 0.3,
+      "trail": 0.25,
+      "trades": 1721,
+      "win": 445,
+      "loss": 1276,
+      "open": 0,
+      "wr": 25.9,
+      "netPnl": -303,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 149,
+          "loss": 465,
+          "open": 0,
+          "wr": 24.3,
+          "pnl": -125.53
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 153,
+          "loss": 409,
+          "open": 0,
+          "wr": 27.2,
+          "pnl": -96.6
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 143,
+          "loss": 402,
+          "open": 0,
+          "wr": 26.2,
+          "pnl": -80.87
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.3,
+      "sl": 0.3,
+      "trail": 0.5,
+      "trades": 1721,
+      "win": 445,
+      "loss": 1276,
+      "open": 0,
+      "wr": 25.9,
+      "netPnl": -303,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 149,
+          "loss": 465,
+          "open": 0,
+          "wr": 24.3,
+          "pnl": -125.53
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 153,
+          "loss": 409,
+          "open": 0,
+          "wr": 27.2,
+          "pnl": -96.6
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 143,
+          "loss": 402,
+          "open": 0,
+          "wr": 26.2,
+          "pnl": -80.87
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.4,
+      "sl": 0.4,
+      "trail": 0.1,
+      "trades": 1718,
+      "win": 167,
+      "loss": 1551,
+      "open": 3,
+      "wr": 9.7,
+      "netPnl": -196.38,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 51,
+          "loss": 560,
+          "open": 3,
+          "wr": 8.3,
+          "pnl": -68.25
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 63,
+          "loss": 499,
+          "open": 0,
+          "wr": 11.2,
+          "pnl": -52.26
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 53,
+          "loss": 492,
+          "open": 0,
+          "wr": 9.7,
+          "pnl": -75.87
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.4,
+      "sl": 0.4,
+      "trail": 0.15,
+      "trades": 1714,
+      "win": 288,
+      "loss": 1426,
+      "open": 7,
+      "wr": 16.8,
+      "netPnl": -234.14,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 96,
+          "loss": 511,
+          "open": 7,
+          "wr": 15.8,
+          "pnl": -80.47
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 101,
+          "loss": 461,
+          "open": 0,
+          "wr": 18,
+          "pnl": -72.28
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 91,
+          "loss": 454,
+          "open": 0,
+          "wr": 16.7,
+          "pnl": -81.39
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.4,
+      "sl": 0.4,
+      "trail": 0.25,
+      "trades": 1706,
+      "win": 435,
+      "loss": 1271,
+      "open": 15,
+      "wr": 25.5,
+      "netPnl": -274.62,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 140,
+          "loss": 459,
+          "open": 15,
+          "wr": 23.4,
+          "pnl": -95
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 151,
+          "loss": 411,
+          "open": 0,
+          "wr": 26.9,
+          "pnl": -82.1
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 144,
+          "loss": 401,
+          "open": 0,
+          "wr": 26.4,
+          "pnl": -97.52
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.4,
+      "sl": 0.4,
+      "trail": 0.5,
+      "trades": 1706,
+      "win": 443,
+      "loss": 1263,
+      "open": 15,
+      "wr": 26,
+      "netPnl": -277.8,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 141,
+          "loss": 458,
+          "open": 15,
+          "wr": 23.5,
+          "pnl": -97.3
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 152,
+          "loss": 410,
+          "open": 0,
+          "wr": 27,
+          "pnl": -83.8
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 150,
+          "loss": 395,
+          "open": 0,
+          "wr": 27.5,
+          "pnl": -96.7
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.5,
+      "sl": 0.5,
+      "trail": 0.1,
+      "trades": 1707,
+      "win": 98,
+      "loss": 1609,
+      "open": 14,
+      "wr": 5.7,
+      "netPnl": -125.33,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 36,
+          "loss": 564,
+          "open": 14,
+          "wr": 6,
+          "pnl": -23.38
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 32,
+          "loss": 530,
+          "open": 0,
+          "wr": 5.7,
+          "pnl": -49.47
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 30,
+          "loss": 515,
+          "open": 0,
+          "wr": 5.5,
+          "pnl": -52.49
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.5,
+      "sl": 0.5,
+      "trail": 0.15,
+      "trades": 1700,
+      "win": 171,
+      "loss": 1529,
+      "open": 21,
+      "wr": 10.1,
+      "netPnl": -151.75,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 68,
+          "loss": 525,
+          "open": 21,
+          "wr": 11.5,
+          "pnl": -23.4
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 53,
+          "loss": 509,
+          "open": 0,
+          "wr": 9.4,
+          "pnl": -69.75
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 50,
+          "loss": 495,
+          "open": 0,
+          "wr": 9.2,
+          "pnl": -58.6
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.5,
+      "sl": 0.5,
+      "trail": 0.25,
+      "trades": 1687,
+      "win": 390,
+      "loss": 1297,
+      "open": 34,
+      "wr": 23.1,
+      "netPnl": -229.64,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 113,
+          "loss": 467,
+          "open": 34,
+          "wr": 19.5,
+          "pnl": -80.87
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 125,
+          "loss": 437,
+          "open": 0,
+          "wr": 22.2,
+          "pnl": -109.94
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 152,
+          "loss": 393,
+          "open": 0,
+          "wr": 27.9,
+          "pnl": -38.83
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.5,
+      "sl": 0.5,
+      "trail": 0.5,
+      "trades": 1687,
+      "win": 423,
+      "loss": 1264,
+      "open": 34,
+      "wr": 25.1,
+      "netPnl": -253.28,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 117,
+          "loss": 463,
+          "open": 34,
+          "wr": 20.2,
+          "pnl": -96.6
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 140,
+          "loss": 422,
+          "open": 0,
+          "wr": 24.9,
+          "pnl": -111.2
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 166,
+          "loss": 379,
+          "open": 0,
+          "wr": 30.5,
+          "pnl": -45.48
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.75,
+      "sl": 0.75,
+      "trail": 0.1,
+      "trades": 1688,
+      "win": 19,
+      "loss": 1669,
+      "open": 33,
+      "wr": 1.1,
+      "netPnl": -61.59,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 4,
+          "loss": 580,
+          "open": 30,
+          "wr": 0.7,
+          "pnl": 3.71
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 6,
+          "loss": 553,
+          "open": 3,
+          "wr": 1.1,
+          "pnl": -35.65
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 9,
+          "loss": 536,
+          "open": 0,
+          "wr": 1.7,
+          "pnl": -29.65
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.75,
+      "sl": 0.75,
+      "trail": 0.15,
+      "trades": 1676,
+      "win": 40,
+      "loss": 1636,
+      "open": 45,
+      "wr": 2.4,
+      "netPnl": -82.9,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 14,
+          "loss": 558,
+          "open": 42,
+          "wr": 2.4,
+          "pnl": 2.57
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 8,
+          "loss": 551,
+          "open": 3,
+          "wr": 1.4,
+          "pnl": -54.47
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 18,
+          "loss": 527,
+          "open": 0,
+          "wr": 3.3,
+          "pnl": -31.01
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.75,
+      "sl": 0.75,
+      "trail": 0.25,
+      "trades": 1631,
+      "win": 151,
+      "loss": 1480,
+      "open": 90,
+      "wr": 9.3,
+      "netPnl": -148.57,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 25,
+          "loss": 523,
+          "open": 66,
+          "wr": 4.6,
+          "pnl": -54.69
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 75,
+          "loss": 465,
+          "open": 22,
+          "wr": 13.9,
+          "pnl": -69.39
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 51,
+          "loss": 492,
+          "open": 2,
+          "wr": 9.4,
+          "pnl": -24.5
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.75,
+      "sl": 0.75,
+      "trail": 0.5,
+      "trades": 1560,
+      "win": 380,
+      "loss": 1180,
+      "open": 161,
+      "wr": 24.4,
+      "netPnl": -195.49,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 76,
+          "loss": 446,
+          "open": 92,
+          "wr": 14.6,
+          "pnl": -96.23
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 151,
+          "loss": 365,
+          "open": 46,
+          "wr": 29.3,
+          "pnl": -65.57
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 153,
+          "loss": 369,
+          "open": 23,
+          "wr": 29.3,
+          "pnl": -33.69
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.1,
+      "trades": 1673,
+      "win": 11,
+      "loss": 1662,
+      "open": 48,
+      "wr": 0.7,
+      "netPnl": -38.45,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 0,
+          "loss": 581,
+          "open": 33,
+          "wr": 0,
+          "pnl": 2.06
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 2,
+          "loss": 545,
+          "open": 15,
+          "wr": 0.4,
+          "pnl": -19.56
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 9,
+          "loss": 536,
+          "open": 0,
+          "wr": 1.7,
+          "pnl": -20.95
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.15,
+      "trades": 1657,
+      "win": 16,
+      "loss": 1641,
+      "open": 64,
+      "wr": 1,
+      "netPnl": -52.27,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 2,
+          "loss": 567,
+          "open": 45,
+          "wr": 0.4,
+          "pnl": -1.8
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 2,
+          "loss": 542,
+          "open": 18,
+          "wr": 0.4,
+          "pnl": -31.84
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 12,
+          "loss": 532,
+          "open": 1,
+          "wr": 2.2,
+          "pnl": -18.63
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.25,
+      "trades": 1601,
+      "win": 78,
+      "loss": 1523,
+      "open": 120,
+      "wr": 4.9,
+      "netPnl": -98.81,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 6,
+          "loss": 539,
+          "open": 69,
+          "wr": 1.1,
+          "pnl": -63.41
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 31,
+          "loss": 490,
+          "open": 41,
+          "wr": 6,
+          "pnl": -38.83
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 41,
+          "loss": 494,
+          "open": 10,
+          "wr": 7.7,
+          "pnl": 3.43
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.5,
+      "trades": 1449,
+      "win": 302,
+      "loss": 1147,
+      "open": 272,
+      "wr": 20.8,
+      "netPnl": -182.33,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 32,
+          "loss": 454,
+          "open": 128,
+          "wr": 6.6,
+          "pnl": -171.73
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 97,
+          "loss": 368,
+          "open": 97,
+          "wr": 20.9,
+          "pnl": -46.95
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 173,
+          "loss": 325,
+          "open": 47,
+          "wr": 34.7,
+          "pnl": 36.35
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.5,
+      "sl": 0.25,
+      "trail": 0.1,
+      "trades": 1721,
+      "win": 84,
+      "loss": 1637,
+      "open": 0,
+      "wr": 4.9,
+      "netPnl": -263.45,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 30,
+          "loss": 584,
+          "open": 0,
+          "wr": 4.9,
+          "pnl": -113.89
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 26,
+          "loss": 536,
+          "open": 0,
+          "wr": 4.6,
+          "pnl": -66.16
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 28,
+          "loss": 517,
+          "open": 0,
+          "wr": 5.1,
+          "pnl": -83.4
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.5,
+      "sl": 0.25,
+      "trail": 0.15,
+      "trades": 1721,
+      "win": 133,
+      "loss": 1588,
+      "open": 0,
+      "wr": 7.7,
+      "netPnl": -347.7,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 47,
+          "loss": 567,
+          "open": 0,
+          "wr": 7.7,
+          "pnl": -150.68
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 43,
+          "loss": 519,
+          "open": 0,
+          "wr": 7.7,
+          "pnl": -107.69
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 43,
+          "loss": 502,
+          "open": 0,
+          "wr": 7.9,
+          "pnl": -89.33
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.5,
+      "sl": 0.25,
+      "trail": 0.25,
+      "trades": 1721,
+      "win": 276,
+      "loss": 1445,
+      "open": 0,
+      "wr": 16,
+      "netPnl": -463.88,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 79,
+          "loss": 535,
+          "open": 0,
+          "wr": 12.9,
+          "pnl": -213.15
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 95,
+          "loss": 467,
+          "open": 0,
+          "wr": 16.9,
+          "pnl": -132.43
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 102,
+          "loss": 443,
+          "open": 0,
+          "wr": 18.7,
+          "pnl": -118.3
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.5,
+      "sl": 0.25,
+      "trail": 0.5,
+      "trades": 1721,
+      "win": 307,
+      "loss": 1414,
+      "open": 0,
+      "wr": 17.8,
+      "netPnl": -493.24,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 83,
+          "loss": 531,
+          "open": 0,
+          "wr": 13.5,
+          "pnl": -236.2
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 110,
+          "loss": 452,
+          "open": 0,
+          "wr": 19.6,
+          "pnl": -131.84
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 114,
+          "loss": 431,
+          "open": 0,
+          "wr": 20.9,
+          "pnl": -125.2
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.1,
+      "trades": 1718,
+      "win": 7,
+      "loss": 1711,
+      "open": 3,
+      "wr": 0.4,
+      "netPnl": -163.66,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 0,
+          "loss": 611,
+          "open": 3,
+          "wr": 0,
+          "pnl": -58.81
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 2,
+          "loss": 560,
+          "open": 0,
+          "wr": 0.4,
+          "pnl": -40.06
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 5,
+          "loss": 540,
+          "open": 0,
+          "wr": 0.9,
+          "pnl": -64.79
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.15,
+      "trades": 1714,
+      "win": 10,
+      "loss": 1704,
+      "open": 7,
+      "wr": 0.6,
+      "netPnl": -220.76,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 2,
+          "loss": 605,
+          "open": 7,
+          "wr": 0.3,
+          "pnl": -77.17
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 2,
+          "loss": 560,
+          "open": 0,
+          "wr": 0.4,
+          "pnl": -69.25
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 6,
+          "loss": 539,
+          "open": 0,
+          "wr": 1.1,
+          "pnl": -74.34
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.25,
+      "trades": 1702,
+      "win": 54,
+      "loss": 1648,
+      "open": 19,
+      "wr": 3.2,
+      "netPnl": -321.48,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 6,
+          "loss": 589,
+          "open": 19,
+          "wr": 1,
+          "pnl": -145.33
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 27,
+          "loss": 535,
+          "open": 0,
+          "wr": 4.8,
+          "pnl": -93.61
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 21,
+          "loss": 524,
+          "open": 0,
+          "wr": 3.9,
+          "pnl": -82.54
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.5,
+      "trades": 1687,
+      "win": 195,
+      "loss": 1492,
+      "open": 34,
+      "wr": 11.6,
+      "netPnl": -537.59,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 29,
+          "loss": 559,
+          "open": 26,
+          "wr": 4.9,
+          "pnl": -314.23
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 82,
+          "loss": 473,
+          "open": 7,
+          "wr": 14.8,
+          "pnl": -111.96
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 84,
+          "loss": 460,
+          "open": 1,
+          "wr": 15.4,
+          "pnl": -111.41
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.1,
+      "trades": 1684,
+      "win": 200,
+      "loss": 1484,
+      "open": 37,
+      "wr": 11.9,
+      "netPnl": -69.95,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 63,
+          "loss": 521,
+          "open": 30,
+          "wr": 10.8,
+          "pnl": -4.52
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 68,
+          "loss": 487,
+          "open": 7,
+          "wr": 12.3,
+          "pnl": -37.42
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 69,
+          "loss": 476,
+          "open": 0,
+          "wr": 12.7,
+          "pnl": -28.01
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.15,
+      "trades": 1672,
+      "win": 346,
+      "loss": 1326,
+      "open": 49,
+      "wr": 20.7,
+      "netPnl": -82.26,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 120,
+          "loss": 452,
+          "open": 42,
+          "wr": 21,
+          "pnl": -4.15
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 113,
+          "loss": 442,
+          "open": 7,
+          "wr": 20.4,
+          "pnl": -51.78
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 113,
+          "loss": 432,
+          "open": 0,
+          "wr": 20.7,
+          "pnl": -26.33
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.25,
+      "trades": 1647,
+      "win": 543,
+      "loss": 1104,
+      "open": 74,
+      "wr": 33,
+      "netPnl": -84.53,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 178,
+          "loss": 378,
+          "open": 58,
+          "wr": 32,
+          "pnl": -12.53
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 171,
+          "loss": 375,
+          "open": 16,
+          "wr": 31.3,
+          "pnl": -54.79
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 194,
+          "loss": 351,
+          "open": 0,
+          "wr": 35.6,
+          "pnl": -17.21
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.5,
+      "trades": 1647,
+      "win": 551,
+      "loss": 1096,
+      "open": 74,
+      "wr": 33.5,
+      "netPnl": -86.65,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 179,
+          "loss": 377,
+          "open": 58,
+          "wr": 32.2,
+          "pnl": -13.9
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 172,
+          "loss": 374,
+          "open": 16,
+          "wr": 31.5,
+          "pnl": -55.7
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 200,
+          "loss": 345,
+          "open": 0,
+          "wr": 36.7,
+          "pnl": -17.05
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.3,
+      "sl": 0.6,
+      "trail": 0.1,
+      "trades": 1701,
+      "win": 358,
+      "loss": 1343,
+      "open": 20,
+      "wr": 21,
+      "netPnl": -119.95,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 117,
+          "loss": 477,
+          "open": 20,
+          "wr": 19.7,
+          "pnl": -15.73
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 119,
+          "loss": 443,
+          "open": 0,
+          "wr": 21.2,
+          "pnl": -52.43
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 122,
+          "loss": 423,
+          "open": 0,
+          "wr": 22.4,
+          "pnl": -51.8
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.3,
+      "sl": 0.6,
+      "trail": 0.15,
+      "trades": 1692,
+      "win": 519,
+      "loss": 1173,
+      "open": 29,
+      "wr": 30.7,
+      "netPnl": -116.13,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 186,
+          "loss": 399,
+          "open": 29,
+          "wr": 31.8,
+          "pnl": -5.46
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 158,
+          "loss": 404,
+          "open": 0,
+          "wr": 28.1,
+          "pnl": -65.13
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 175,
+          "loss": 370,
+          "open": 0,
+          "wr": 32.1,
+          "pnl": -45.54
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.3,
+      "sl": 0.6,
+      "trail": 0.25,
+      "trades": 1692,
+      "win": 540,
+      "loss": 1152,
+      "open": 29,
+      "wr": 31.9,
+      "netPnl": -122.13,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 189,
+          "loss": 396,
+          "open": 29,
+          "wr": 32.3,
+          "pnl": -9.57
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 173,
+          "loss": 389,
+          "open": 0,
+          "wr": 30.8,
+          "pnl": -64.57
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 178,
+          "loss": 367,
+          "open": 0,
+          "wr": 32.7,
+          "pnl": -48
+        }
+      }
+    },
+    {
+      "gate": 2,
+      "tp": 0.3,
+      "sl": 0.6,
+      "trail": 0.5,
+      "trades": 1692,
+      "win": 540,
+      "loss": 1152,
+      "open": 29,
+      "wr": 31.9,
+      "netPnl": -122.13,
+      "liveCompatible": true,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 614,
+          "win": 189,
+          "loss": 396,
+          "open": 29,
+          "wr": 32.3,
+          "pnl": -9.57
+        },
+        "ETHUSDT": {
+          "trades": 562,
+          "win": 173,
+          "loss": 389,
+          "open": 0,
+          "wr": 30.8,
+          "pnl": -64.57
+        },
+        "SOLUSDT": {
+          "trades": 545,
+          "win": 178,
+          "loss": 367,
+          "open": 0,
+          "wr": 32.7,
+          "pnl": -48
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.2,
+      "sl": 0.2,
+      "trail": 0.1,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -3.2,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -2.2
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.2
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.2
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.2,
+      "sl": 0.2,
+      "trail": 0.15,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -3.2,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -2.2
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.2
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.2
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.2,
+      "sl": 0.2,
+      "trail": 0.25,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -3.2,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -2.2
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.2
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.2
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.2,
+      "sl": 0.2,
+      "trail": 0.5,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -3.2,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -2.2
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.2
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.2
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.3,
+      "sl": 0.3,
+      "trail": 0.1,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.41,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.41
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.13
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.13
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.3,
+      "sl": 0.3,
+      "trail": 0.15,
+      "trades": 5,
+      "win": 1,
+      "loss": 4,
+      "open": 0,
+      "wr": 20,
+      "netPnl": -0.98,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": 0.02
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.13
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.13
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.3,
+      "sl": 0.3,
+      "trail": 0.25,
+      "trades": 5,
+      "win": 1,
+      "loss": 4,
+      "open": 0,
+      "wr": 20,
+      "netPnl": -1.13,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": -0.13
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.13
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.13
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.3,
+      "sl": 0.3,
+      "trail": 0.5,
+      "trades": 5,
+      "win": 1,
+      "loss": 4,
+      "open": 0,
+      "wr": 20,
+      "netPnl": -1.13,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": -0.13
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.13
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.13
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.4,
+      "trail": 0.1,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.59,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.56
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.07
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.4,
+      "trail": 0.15,
+      "trades": 5,
+      "win": 1,
+      "loss": 4,
+      "open": 0,
+      "wr": 20,
+      "netPnl": -1.14,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": 0.02
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.06
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.4,
+      "trail": 0.25,
+      "trades": 5,
+      "win": 2,
+      "loss": 3,
+      "open": 0,
+      "wr": 40,
+      "netPnl": -0.3,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": -0.1
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.9
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.4,
+      "trail": 0.5,
+      "trades": 5,
+      "win": 2,
+      "loss": 3,
+      "open": 0,
+      "wr": 40,
+      "netPnl": -0.3,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": -0.1
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.9
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.5,
+      "sl": 0.5,
+      "trail": 0.1,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.67,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.65
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.08
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.06
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.5,
+      "sl": 0.5,
+      "trail": 0.15,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.56,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.43
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.08
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.04
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.5,
+      "sl": 0.5,
+      "trail": 0.25,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.43,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.72
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.08
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.37
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.5,
+      "sl": 0.5,
+      "trail": 0.5,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.92,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.92
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.08
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.08
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.75,
+      "sl": 0.75,
+      "trail": 0.1,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -0.73,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.29
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.04
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.75,
+      "sl": 0.75,
+      "trail": 0.15,
+      "trades": 4,
+      "win": 0,
+      "loss": 4,
+      "open": 1,
+      "wr": 0,
+      "netPnl": -0.65,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 2,
+          "open": 1,
+          "wr": 0,
+          "pnl": 0.43
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.03
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.75,
+      "sl": 0.75,
+      "trail": 0.25,
+      "trades": 4,
+      "win": 0,
+      "loss": 4,
+      "open": 1,
+      "wr": 0,
+      "netPnl": -0.64,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 2,
+          "open": 1,
+          "wr": 0,
+          "pnl": 0.17
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.25
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.75,
+      "sl": 0.75,
+      "trail": 0.5,
+      "trades": 4,
+      "win": 0,
+      "loss": 4,
+      "open": 1,
+      "wr": 0,
+      "netPnl": -0.89,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 2,
+          "open": 1,
+          "wr": 0,
+          "pnl": 0.11
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.05
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.1,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -0.8,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.22
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.04
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.03
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.15,
+      "trades": 4,
+      "win": 0,
+      "loss": 4,
+      "open": 1,
+      "wr": 0,
+      "netPnl": -0.74,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 2,
+          "open": 1,
+          "wr": 0,
+          "pnl": 0.32
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.04
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.02
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.25,
+      "trades": 4,
+      "win": 0,
+      "loss": 4,
+      "open": 1,
+      "wr": 0,
+      "netPnl": -0.73,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 2,
+          "open": 1,
+          "wr": 0,
+          "pnl": 0.12
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.04
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.19
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 1,
+      "trail": 0.5,
+      "trades": 4,
+      "win": 2,
+      "loss": 2,
+      "open": 1,
+      "wr": 50,
+      "netPnl": -0.16,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": -0.08
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.04
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.96
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.5,
+      "sl": 0.25,
+      "trail": 0.1,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.34,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.29
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.16
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.11
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.5,
+      "sl": 0.25,
+      "trail": 0.15,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.11,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.14
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.16
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.09
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.5,
+      "sl": 0.25,
+      "trail": 0.25,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -0.86,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.45
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.16
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.75
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.5,
+      "sl": 0.25,
+      "trail": 0.5,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.84,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.84
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.16
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.16
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.1,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.59,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.56
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.07
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.15,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.44,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.29
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.06
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.25,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -1.42,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.79
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.47
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 1,
+      "sl": 0.4,
+      "trail": 0.5,
+      "trades": 5,
+      "win": 2,
+      "loss": 3,
+      "open": 0,
+      "wr": 40,
+      "netPnl": 1.5,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 2,
+          "open": 0,
+          "wr": 33.3,
+          "pnl": 0.2
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.1
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 2.4
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.1,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -0.74,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.27
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.03
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.15,
+      "trades": 4,
+      "win": 1,
+      "loss": 3,
+      "open": 1,
+      "wr": 25,
+      "netPnl": -0.52,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.56
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -0.03
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.25,
+      "trades": 4,
+      "win": 2,
+      "loss": 2,
+      "open": 1,
+      "wr": 50,
+      "netPnl": -0.1,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.5
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.45
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.4,
+      "sl": 0.8,
+      "trail": 0.5,
+      "trades": 4,
+      "win": 2,
+      "loss": 2,
+      "open": 1,
+      "wr": 50,
+      "netPnl": -0.1,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.5
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.05
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 1,
+          "loss": 0,
+          "open": 0,
+          "wr": 100,
+          "pnl": 0.45
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.3,
+      "sl": 0.6,
+      "trail": 0.1,
+      "trades": 5,
+      "win": 0,
+      "loss": 5,
+      "open": 0,
+      "wr": 0,
+      "netPnl": -0.64,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 0,
+          "loss": 3,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.36
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.07
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.07
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.3,
+      "sl": 0.6,
+      "trail": 0.15,
+      "trades": 4,
+      "win": 1,
+      "loss": 3,
+      "open": 1,
+      "wr": 25,
+      "netPnl": -0.42,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.58
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.07
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.07
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.3,
+      "sl": 0.6,
+      "trail": 0.25,
+      "trades": 4,
+      "win": 1,
+      "loss": 3,
+      "open": 1,
+      "wr": 25,
+      "netPnl": -0.5,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.5
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.07
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.07
+        }
+      }
+    },
+    {
+      "gate": 3,
+      "tp": 0.3,
+      "sl": 0.6,
+      "trail": 0.5,
+      "trades": 4,
+      "win": 1,
+      "loss": 3,
+      "open": 1,
+      "wr": 25,
+      "netPnl": -0.5,
+      "liveCompatible": false,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 3,
+          "win": 1,
+          "loss": 1,
+          "open": 1,
+          "wr": 50,
+          "pnl": 0.5
+        },
+        "ETHUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": -1.07
+        },
+        "SOLUSDT": {
+          "trades": 1,
+          "win": 0,
+          "loss": 1,
+          "open": 0,
+          "wr": 0,
+          "pnl": 0.07
+        }
+      }
+    }
+  ]
+}

@@ -1,13 +1,25 @@
 {
-  "BCHUSDT": {
-    "symbol": "BCHUSDT",
+  "BTCUSDT": {
+    "symbol": "BTCUSDT",
     "side": "SHORT",
-    "qty": 0.27,
-    "entry": 248.19,
-    "tp": 244.46715,
-    "sl": 251.91284999999996,
+    "qty": 0.003,
+    "entry": 64133.9,
+    "tp": 63749.096600000004,
+    "sl": 64326.301699999996,
     "trailed": false,
     "closeSide": "BUY",
-    "ts": 1783786517716
+    "ts": 1783797721404,
+    "bestPx": 64133.9
+  },
+  "ATOMUSDT": {
+    "symbol": "ATOMUSDT",
+    "side": "SHORT",
+    "qty": 208.2,
+    "entry": 1.601,
+    "tp": 1.591394,
+    "sl": 1.6058029999999999,
+    "trailed": false,
+    "closeSide": "BUY",
+    "ts": 1783797723643
   }
 }

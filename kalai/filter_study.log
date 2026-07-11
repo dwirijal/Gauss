@@ -1,0 +1,5 @@
+fetching BTCUSDT...
+TypeError: Cannot create property 't' on number '0'
+    at runSymbol (/home/dwizzy/dwizzyOS/gauss/kalai/filter_study.js:158:23)
+    at /home/dwizzy/dwizzyOS/gauss/kalai/filter_study.js:191:133
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)

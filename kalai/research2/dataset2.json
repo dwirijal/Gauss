@@ -1,0 +1,57 @@
+{
+  "generated": "2026-07-11T18:34:00.722Z",
+  "range": {
+    "from": 1782714840000,
+    "to": 1783794780000,
+    "fromISO": "2026-06-29T06:34:00.000Z",
+    "toISO": "2026-07-11T18:33:00.000Z"
+  },
+  "perSymbol": {
+    "BTCUSDT": {
+      "bars1m": 18000,
+      "bars5m": 3601,
+      "bars15m": 1201,
+      "bars1h": 301,
+      "from": 1782714840000,
+      "to": 1783794780000
+    },
+    "ETHUSDT": {
+      "bars1m": 18000,
+      "bars5m": 3601,
+      "bars15m": 1201,
+      "bars1h": 301,
+      "from": 1782714840000,
+      "to": 1783794780000
+    },
+    "SOLUSDT": {
+      "bars1m": 18000,
+      "bars5m": 3601,
+      "bars15m": 1201,
+      "bars1h": 301,
+      "from": 1782714840000,
+      "to": 1783794780000
+    }
+  },
+  "files": {
+    "raw": [
+      "research2/raw_BTCUSDT.json",
+      "research2/raw_ETHUSDT.json",
+      "research2/raw_SOLUSDT.json"
+    ],
+    "m5": [
+      "research2/m5_BTCUSDT.json",
+      "research2/m5_ETHUSDT.json",
+      "research2/m5_SOLUSDT.json"
+    ],
+    "m15": [
+      "research2/m15_BTCUSDT.json",
+      "research2/m15_ETHUSDT.json",
+      "research2/m15_SOLUSDT.json"
+    ],
+    "h1": [
+      "research2/h1_BTCUSDT.json",
+      "research2/h1_ETHUSDT.json",
+      "research2/h1_SOLUSDT.json"
+    ]
+  }
+}

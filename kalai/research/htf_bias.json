@@ -1,0 +1,61 @@
+{
+  "design": "HTF-bias mean-reversion: 1h EMA50 slope bias (BULL>0.3%/BEAR<-0.3%); LONG only in BULL, SHORT only in BEAR. 5m entry: StochRSI(14) turn + fib-near(0.382/0.5/0.618 of last 1h swing) + buyRatio proxy(close pos in bar>0.5). Confluence>=2. Exit RR1:1 TP=SL, trail0.15%, BE@50%TP.",
+  "params": {
+    "capital": 20,
+    "risk": 1,
+    "leverage": 5,
+    "feeRoundTrip": 0.0004,
+    "tpOptions": [
+      0.4,
+      0.5,
+      0.75
+    ],
+    "trail": 0.15,
+    "fibTol": 0.0015
+  },
+  "perSymbol": [
+    {
+      "sym": "BTCUSDT",
+      "trades": 13,
+      "wr": 61.5,
+      "netPnl": 2.48,
+      "ci95": [
+        64.4,
+        88.2
+      ]
+    },
+    {
+      "sym": "ETHUSDT",
+      "trades": 36,
+      "wr": 38.9,
+      "netPnl": -9.44,
+      "ci95": [
+        36.5,
+        52
+      ]
+    },
+    {
+      "sym": "SOLUSDT",
+      "trades": 36,
+      "wr": 11.1,
+      "netPnl": -29.44,
+      "ci95": [
+        11.1,
+        21.8
+      ]
+    }
+  ],
+  "best": {
+    "tp": 0.4
+  },
+  "total": {
+    "trades": 85,
+    "wr": 30.6,
+    "netPnl": -36.4,
+    "ci95": [
+      27.9,
+      37.8
+    ]
+  },
+  "note": "HTF bias gated trades; OPEN-at-series-end counted as loss. One position per symbol at a time."
+}

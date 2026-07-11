@@ -1,0 +1,35 @@
+{
+  "generated": "2026-07-11T19:12:38.571Z",
+  "range": {
+    "fromISO": "2026-04-12T19:15:00.000Z",
+    "toISO": "2026-07-11T19:10:00.000Z"
+  },
+  "perSymbol": {
+    "BTCUSDT": {
+      "bars5m": 25920,
+      "bars1h": 2160,
+      "gaps5m": 0,
+      "gaps1h": 0
+    },
+    "ETHUSDT": {
+      "bars5m": 25920,
+      "bars1h": 2160,
+      "gaps5m": 0,
+      "gaps1h": 0
+    },
+    "SOLUSDT": {
+      "bars5m": 25920,
+      "bars1h": 2160,
+      "gaps5m": 0,
+      "gaps1h": 0
+    }
+  },
+  "files": [
+    "m5_BTCUSDT.json",
+    "h1_BTCUSDT.json",
+    "m5_ETHUSDT.json",
+    "h1_ETHUSDT.json",
+    "m5_SOLUSDT.json",
+    "h1_SOLUSDT.json"
+  ]
+}

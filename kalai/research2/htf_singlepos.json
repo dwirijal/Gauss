@@ -1,0 +1,68 @@
+{
+  "design": "HTF-bias mean-reversion, SINGLE-POSITION (fixes Proto C overlap). 1h EMA50 slope (BULL>+0.15%/BEAR<-0.15%); 5m entry StochRSI(14) turn OR fib-near OR barPos proxy, confluence>=1. Max ONE open position/symbol: open at 5m close, exit model ii (TP0.6/SL0.3/trail0.15/BE@50%TP) on 5m bars, no new entry until closed. Cap$20 lev5 risk$1 fee0.04%rt. Same money/entry/exit as Proto C — only position-count differs.",
+  "window": {
+    "from": 1782714600000,
+    "to": 1783794600000,
+    "bars": 3601,
+    "approxDays": 12.5
+  },
+  "perSymbol": [
+    {
+      "sym": "BTCUSDT",
+      "independentTrades": 156,
+      "wr": 64.1,
+      "netPnl": 17.44,
+      "ci95": [
+        61.5,
+        69.1
+      ],
+      "medianBars": 8
+    },
+    {
+      "sym": "ETHUSDT",
+      "independentTrades": 192,
+      "wr": 65.1,
+      "netPnl": 41.44,
+      "ci95": [
+        62.7,
+        69.5
+      ],
+      "medianBars": 7
+    },
+    {
+      "sym": "SOLUSDT",
+      "independentTrades": 202,
+      "wr": 56.4,
+      "netPnl": 24.17,
+      "ci95": [
+        53.9,
+        60.8
+      ],
+      "medianBars": 6
+    }
+  ],
+  "total": {
+    "independentTrades": 550,
+    "wr": 61.6,
+    "netPnl": 83.05,
+    "ci95": [
+      59.9,
+      64.1
+    ]
+  },
+  "protoC_compare": {
+    "BTCUSDT": {
+      "protoC_trades": 1484,
+      "protoC_wr": 66.7
+    },
+    "ETHUSDT": {
+      "protoC_trades": 1352,
+      "protoC_wr": 67.2
+    },
+    "SOLUSDT": {
+      "protoC_trades": 1126,
+      "protoC_wr": 60.6
+    }
+  },
+  "note": "Proto C (overlapping) vs Proto D (independent) on identical signals. Single-position cuts trade count ~95%+. Holding bars median drives how many independent trades a window yields."
+}

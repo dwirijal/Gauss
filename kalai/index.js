@@ -42,7 +42,12 @@ const TRADE_CAPITAL = parseFloat(process.env.KALAI_CAPITAL   || '20'); // only $
 
 // ── Mode params (from MODE_CFG) ─────────────────────────────────────────────
 const EMA_FAST = MC.emaF, EMA_SLOW = MC.emaS;
-const TP_PCT = MC.tp, SL_PCT = MC.sl;  // RR 1:1 (tp == sl), validated on 400d
+const TP_PCT = parseFloat(process.env.KALAI_TP_PCT || String(MC.tp));   // asymmetric exit override
+const SL_PCT = parseFloat(process.env.KALAI_SL_PCT || String(MC.sl));
+const STRATEGY = process.env.KALAI_STRATEGY || 'counter';  // 'counter' | 'hft'
+// ponytail: hft = HTF-bias mean-reversion (validated 60% WR / +$975 on 90d, research3/SIGNAL_REDESIGN_STUDY4.md)
+const HTF_SLOPE_TH = parseFloat(process.env.KALAI_HTF_SLOPE || '0.15');
+const CONFLUENCE_MIN = parseInt(process.env.KALAI_CONFLUENCE || '1');
 const PSEUDO_CAPITAL = null;  // scaled to real testnet equity (2% risk), no pseudo override
 const RISK_PCT      = parseFloat(process.env.KALAI_RISK_PCT  || '2');  // % per trade
 const MIN_RISK      = parseFloat(process.env.KALAI_MIN_RISK  || '1');  // min $1 per trade
@@ -196,6 +201,7 @@ function classifyRegime(sym) {
 
 // ── Signal Engine (live) — matches backtester ─────────────────────────────────
 async function ruleBasedSignal(symbol) {
+  if (STRATEGY === 'hft') return hftSignal(symbol);
   const c = candles[symbol];
   if (!c || c.closes.length < 50) return { signal: 'SKIP', confidence: 0, reason: 'insufficient_data' };
   const regime = classifyRegime(symbol);
@@ -217,6 +223,54 @@ async function ruleBasedSignal(symbol) {
   return { signal, confidence, reason: res.reasons };
 }
 async function aiScore(symbol) { return ruleBasedSignal(symbol); }
+
+// ── HTF-bias mean-reversion (validated 60% WR / +$975 on 90d; research3/SIGNAL_REDESIGN_STUDY4.md) ──
+// ponytail: downsamples the live 1m buffer to 1h (bias) + approximates 5m entries via 1m eval.
+// Faithful to proto_d90.js logic: 1h EMA50 slope gate + StochRSI cross/fib/barPos confluence.
+function emaSlope1h(closes1m) {
+  // downsample 1m -> 1h (60 bars), need >=72 1h bars for EMA50 + lookback
+  const need = 72 * 60;
+  if (closes1m.length < need) return null;
+  const h = [];
+  for (let i = 0; i + 60 <= closes1m.length; i += 60) h.push(closes1m[i + 59]);
+  const e = EMA.calculate({ values: h, period: 50 });
+  const slope = (e[e.length - 1] - e[e.length - 21]) / e[e.length - 21] * 100;
+  return slope;
+}
+function hftSignal(symbol) {
+  const c = candles[symbol];
+  if (!c || c.closes.length < 72 * 60) return { signal: 'SKIP', confidence: 0, reason: 'warming_1h' };
+  const slope = emaSlope1h(c.closes);
+  if (slope === null) return { signal: 'SKIP', confidence: 0, reason: 'warming_1h' };
+  const bias = slope > HTF_SLOPE_TH ? 'BULL' : (slope < -HTF_SLOPE_TH ? 'BEAR' : 'FLAT');
+  if (bias === 'FLAT') return { signal: 'SKIP', confidence: 0, reason: `1h slope ${slope.toFixed(2)}% FLAT` };
+  // 5m-ish StochRSI cross on trailing 1m closes
+  const closes = c.closes, n = closes.length;
+  const sr = Strategy.stochRSI(closes.slice(Math.max(0, n - 70)));
+  const prev = Strategy.stochRSI(closes.slice(Math.max(0, n - 71), n - 1));
+  const o = c.opens[n - 1], h = c.highs[n - 1], l = c.lows[n - 1], price = c.closes[n - 1];
+  const barPos = h > l ? (price - l) / (h - l) : 0.5;
+  let longHit = false, shortHit = false, reasons = [];
+  if (sr && prev) {
+    if (prev.k < 25 && prev.k <= prev.d && sr.k > sr.d) { longHit = true; reasons.push(`StochRSI cross-up(${sr.k}/${sr.d})`); }
+    if (prev.k > 75 && prev.k >= prev.d && sr.k < sr.d) { shortHit = true; reasons.push(`StochRSI cross-dn(${sr.k}/${sr.d})`); }
+  }
+  // 1h swing fib-near
+  const h1bars = [];
+  for (let i = 0; i + 60 <= n; i += 60) h1bars.push({ h: Math.max(...c.highs.slice(i, i + 60)), l: Math.min(...c.lows.slice(i, i + 60)) });
+  const swing = h1bars.slice(-20);
+  const sH = Math.max(...swing.map(x => x.h)), sL = Math.min(...swing.map(x => x.l));
+  const rng = sH - sL;
+  if (rng > 0) [0.382, 0.5, 0.618].forEach(f => { if (Math.abs(price - (sL + rng * f)) / price < 0.0015) reasons.push('fib-near'); });
+  const buyProxy = barPos > 0.5;
+  const aligned = [longHit || shortHit, (rng > 0 && [0.382,0.5,0.618].some(f => Math.abs(price-(sL+rng*f))/price<0.0015)), bias==='BULL'?buyProxy:!buyProxy].filter(Boolean).length;
+  if (aligned < CONFLUENCE_MIN) return { signal: 'SKIP', confidence: 0, reason: `confluence ${aligned}<${CONFLUENCE_MIN} | slope ${slope.toFixed(2)}%` };
+  let signal = null;
+  if (bias === 'BULL' && longHit && buyProxy) signal = 'LONG';
+  else if (bias === 'BEAR' && shortHit && !buyProxy) signal = 'SHORT';
+  if (!signal) return { signal: 'SKIP', confidence: 0, reason: `no dir-aligned entry | slope ${slope.toFixed(2)}%` };
+  return { signal, confidence: 75, reason: reasons.join(' | ') + ` | 1h ${bias} ${slope.toFixed(2)}%` };
+}
 
 // ── Journal ───────────────────────────────────────────────────────────────────// ── Journal ───────────────────────────────────────────────────────────────────
 function appendJournal(record) {
@@ -396,11 +450,21 @@ async function placeOrderRaw(symbol, side, qty, price) {
 
 // ── Seed historical candles via REST ─────────────────────────────────────────
 async function seedCandles(symbol) {
-  console.log(`[SEED] Fetching ${CANDLES_NEEDED} candles for ${symbol}...`);
-  const res = await axios.get(`${BASE_URL}/fapi/v1/klines`, {
-    params: { symbol, interval: INTERVAL, limit: CANDLES_NEEDED }
-  });
-  for (const k of res.data) {
+  const need = STRATEGY === 'hft' ? 4500 : CANDLES_NEEDED;  // hft needs ~72*60 1m bars for 1h downsample
+  console.log(`[SEED] Fetching ${need} candles for ${symbol}...`);
+  let collected = [];
+  let endTime = Date.now();
+  while (collected.length < need) {
+    const res = await axios.get(`${BASE_URL}/fapi/v1/klines`, {
+      params: { symbol, interval: INTERVAL, limit: 1500, endTime }
+    });
+    if (!res.data.length) break;
+    collected = res.data.concat(collected);  // earliest first
+    endTime = res.data[0][0] - 1;
+    if (res.data.length < 1500) break;
+  }
+  collected = collected.slice(-need);
+  for (const k of collected) {
     const c = candles[symbol];
     c.opens.push(parseFloat(k[1]));
     c.highs.push(parseFloat(k[2]));

@@ -1,0 +1,108 @@
+{
+  "design": "Counter-trend fires LONG(>=+2)/SHORT(<=-2) on oversold/overbought+VWAP+vol. Fix: block entries unless 1m classifyRegime()===CHOPPY; variant(c) adds 15m EMA50 slope confluence (LONG -0.3..+0.1, SHORT -0.1..+0.3). gate=2, TP=SL=0.4%, trail=0.15%, 1m, forward 30 bars.",
+  "variants": {
+    "a": {
+      "trades": 363,
+      "wins": 65,
+      "losses": 298,
+      "netPnl": -93.2,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 102,
+          "wins": 15,
+          "losses": 87,
+          "netPnl": -28.8,
+          "wr": 14.7
+        },
+        "ETHUSDT": {
+          "trades": 133,
+          "wins": 27,
+          "losses": 106,
+          "netPnl": -31.6,
+          "wr": 20.3
+        },
+        "SOLUSDT": {
+          "trades": 128,
+          "wins": 23,
+          "losses": 105,
+          "netPnl": -32.8,
+          "wr": 18
+        }
+      },
+      "wr": 17.9,
+      "ci95": [
+        14,
+        21.9
+      ]
+    },
+    "b": {
+      "trades": 363,
+      "wins": 65,
+      "losses": 298,
+      "netPnl": -93.2,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 102,
+          "wins": 15,
+          "losses": 87,
+          "netPnl": -28.8,
+          "wr": 14.7
+        },
+        "ETHUSDT": {
+          "trades": 133,
+          "wins": 27,
+          "losses": 106,
+          "netPnl": -31.6,
+          "wr": 20.3
+        },
+        "SOLUSDT": {
+          "trades": 128,
+          "wins": 23,
+          "losses": 105,
+          "netPnl": -32.8,
+          "wr": 18
+        }
+      },
+      "wr": 17.9,
+      "ci95": [
+        14,
+        21.9
+      ]
+    },
+    "c": {
+      "trades": 128,
+      "wins": 27,
+      "losses": 101,
+      "netPnl": -29.6,
+      "perSymbol": {
+        "BTCUSDT": {
+          "trades": 32,
+          "wins": 8,
+          "losses": 24,
+          "netPnl": -6.4,
+          "wr": 25
+        },
+        "ETHUSDT": {
+          "trades": 52,
+          "wins": 11,
+          "losses": 41,
+          "netPnl": -12,
+          "wr": 21.2
+        },
+        "SOLUSDT": {
+          "trades": 44,
+          "wins": 8,
+          "losses": 36,
+          "netPnl": -11.2,
+          "wr": 18.2
+        }
+      },
+      "wr": 21.1,
+      "ci95": [
+        14,
+        28.2
+      ]
+    }
+  },
+  "note": "OPEN trades (no TP/SL within 30 bars) excluded from counts — faithful to live replay. CI95 = normal approx half-width on WR proportion."
+}
