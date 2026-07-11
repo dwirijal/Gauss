@@ -1,0 +1,7 @@
+tunnel: c3accb3e-20ef-4075-98b4-29dc8e994a13
+ingress:
+  - hostname: gauss.karepmuwes.my.id
+    service: http://host.docker.internal:3777
+  - hostname: kalai.karepmuwes.my.id
+    service: http://host.docker.internal:3777
+  - service: http_status:404

@@ -1,0 +1,99 @@
+{
+  "_comment": "KalAI v2 \u2014 adaptive regime research on 400d DB. Rule: risk max 2% or $1 min. RR 1:1 + trailing TP, breakout signal. Scalp priority. Wider SL (0.8%) wins all regimes.",
+  "capital": 20,
+  "risk_rule": "max(equity * 2%, $1)  -> flat $1 at $20 equity",
+  "risk_per_trade": 1,
+  "fee_maker": 0.0002,
+  "fee_taker": 0.0005,
+  "order_type": "maker_limit_gtx",
+  "signal": "breakout_20bar",
+  "risk_model": "notional = risk / sl_pct",
+  "regime_filter": {
+    "method": "EMA50 slope + ATR% volatility",
+    "BULL": "ema50 slope > 0.3%",
+    "BEAR": "ema50 slope < -0.3%",
+    "CHOPPY": "ATR% > 0.8% or flat",
+    "finding": "breakout+RR1:1+trail profitable in ALL regimes; no skip needed. CHOPPY=most trades, BEAR=highest WR."
+  },
+  "adaptive_sl": "uniform 0.8% best across all regimes (wider SL -> higher WR + PnL). No per-regime split required.",
+  "modes": {
+    "scalping": {
+      "interval": "15m",
+      "leverage": 20,
+      "sl_pct": 1.0,
+      "tp_pct": 1.0,
+      "trail_dist": 0.15,
+      "validated_15m": {
+        "BTC": {
+          "BULL": "WR77.6% +$83",
+          "BEAR": "WR74.2% +$127",
+          "CHOPPY": "WR66.9% +$157"
+        },
+        "ETH": {
+          "BULL": "WR70% +$60",
+          "BEAR": "WR72% +$90",
+          "CHOPPY": "WR71% +$159"
+        },
+        "SOL": {
+          "BULL": "WR70.7% +$64",
+          "BEAR": "WR72.2% +$80",
+          "CHOPPY": "WR70.7% +$154"
+        }
+      }
+    },
+    "intraday": {
+      "interval": "1h",
+      "leverage": 20,
+      "sl_pct": 1.0,
+      "tp_pct": 1.0,
+      "trail_dist": 0.25,
+      "validated": {
+        "BTC": "WR72.1% +$268",
+        "ETH": "WR70.3% +$219",
+        "SOL": "WR71.3% +$268"
+      }
+    },
+    "swing": {
+      "interval": "4h",
+      "leverage": 10,
+      "sl_pct": 1.5,
+      "tp_pct": 1.5,
+      "trail_dist": 0.25,
+      "validated": {
+        "BTC": "WR72.2% +$103",
+        "ETH": "WR68.1% +$97",
+        "SOL": "WR61.6% +$87"
+      }
+    }
+  },
+  "execution": {
+    "entry": "LIMIT GTX (maker)",
+    "tp1": "TAKE_PROFIT_MARKET at +sl_pct (RR 1:1)",
+    "sl": "STOP_MARKET at -sl_pct",
+    "trailing": "TRAILING_STOP_MARKET callbackRate=trail_dist%, activationPrice=+sl_pct"
+  },
+  "circuit_breaker": "3 consecutive losses -> pause 1h",
+  "db": {
+    "dsn": "postgres://dwizzy:kalai_tdb_2026@172.23.0.2:5432/dwizzyos_ts",
+    "tables": {
+      "market_data": "hypertable 532k candles",
+      "fred_events": "hypertable 19.9k"
+    }
+  },
+  "account": {
+    "type": "Binance Futures Testnet Demo2",
+    "funded": 5000,
+    "as_of": "2026-07-10"
+  },
+  "pairs": [
+    "BTCUSDT",
+    "ETHUSDT",
+    "SOLUSDT"
+  ],
+  "live_status": "STOPPED (user not yet approved live). Bots offline. Backtest complete.",
+  "optimized": {
+    "best_params": "sl=1.0 td=0.15",
+    "gain_vs_v2": "BTC +$456 (was $284), SOL +$352 (was $284)",
+    "method": "tighter trailing 0.15% captures more momentum"
+  }
+}

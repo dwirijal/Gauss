@@ -1,0 +1,50 @@
+[
+  {
+    "wallet": "0x2d99fe0f36c1aebd28a1a2c0e82e8ca13c2ea351",
+    "trades": 1,
+    "pnl": 28770.456545,
+    "wins": 1,
+    "losses": 0,
+    "winrate": 1
+  },
+  {
+    "wallet": "0xe2f86feccb1207710a442bc4e27a0701a290275a",
+    "trades": 1,
+    "pnl": 496.268155,
+    "wins": 1,
+    "losses": 0,
+    "winrate": 1
+  },
+  {
+    "wallet": "0xa4add8273d7f47318675bdfbcce3e9648cdb4509",
+    "trades": 2,
+    "pnl": 13.787052000000001,
+    "wins": 1,
+    "losses": 1,
+    "winrate": 0.5
+  },
+  {
+    "wallet": "0x8bae3527e5a33fa0cf184f37bc112d071463ab6d",
+    "trades": 1,
+    "pnl": 0.054821,
+    "wins": 1,
+    "losses": 0,
+    "winrate": 1
+  },
+  {
+    "wallet": "0xe24166173f1e956845a0660c8b26db334dced71a",
+    "trades": 1,
+    "pnl": -69.919511,
+    "wins": 0,
+    "losses": 1,
+    "winrate": 0
+  },
+  {
+    "wallet": "0xa445a0a15b1d50fa0c4bfe6796d9447e0da5329d",
+    "trades": 4,
+    "pnl": -3148.569186,
+    "wins": 0,
+    "losses": 4,
+    "winrate": 0
+  }
+]

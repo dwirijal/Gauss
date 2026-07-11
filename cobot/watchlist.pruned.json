@@ -1,0 +1,1910 @@
+[
+  {
+    "address": "0x8bae3527e5a33fa0cf184f37bc112d071463ab6d",
+    "displayName": "0x8bae3527e5a33fa0cf184f37bc112d071463ab6d",
+    "groupId": "copytraders",
+    "recency": "117H AGO",
+    "roi30d": 706849.480798,
+    "perpEquity": 7979689.36301719,
+    "copyScore": 94.69298366452527,
+    "leverage": 1,
+    "sumUpnl": 706849.480798,
+    "winrate": 66.66666666666666,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 133,
+    "totalWinningTrades": 87,
+    "totalLosingTrades": 46,
+    "drawdown": 0.00440019694108284,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "GAS",
+        "volume": 19472081.06764997,
+        "pnl": 1123751.736745998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "BTC",
+        "volume": 15638927.600329999,
+        "pnl": 528890.756562,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "cash:INTC",
+        "volume": 15212721.598803002,
+        "pnl": 1220597.179154,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:BRENTOIL",
+        "volume": 13447279.990000017,
+        "pnl": 68443.18156299998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:CL",
+        "volume": 12212824.838442003,
+        "pnl": 317530.441788,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xa4add8273d7f47318675bdfbcce3e9648cdb4509",
+    "displayName": "dead",
+    "groupId": "copytraders",
+    "recency": "17H AGO",
+    "roi30d": 787358.575101,
+    "perpEquity": 5323966.02954044,
+    "copyScore": 94.26116431679131,
+    "leverage": 1,
+    "sumUpnl": 787358.575101,
+    "winrate": 95.23809523809523,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 149,
+    "totalWinningTrades": 127,
+    "totalLosingTrades": 22,
+    "drawdown": 0.007036558583545031,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 189550372.0372299,
+        "pnl": 637517.7457260024,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 125743832.72815059,
+        "pnl": 1282241.5279650027,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 118234406.0563102,
+        "pnl": 80751.07843699981,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ENA",
+        "volume": 82173283.64345458,
+        "pnl": 875425.3040539987,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "FARTCOIN",
+        "volume": 39216125.40364506,
+        "pnl": 244454.93782199986,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x2d99fe0f36c1aebd28a1a2c0e82e8ca13c2ea351",
+    "displayName": "0x2d99fe0f36c1aebd28a1a2c0e82e8ca13c2ea351",
+    "groupId": "copytraders",
+    "recency": "561H AGO",
+    "roi30d": 512811.85248,
+    "perpEquity": 15375948.713426,
+    "copyScore": 93.48961812272118,
+    "leverage": 1,
+    "sumUpnl": 512811.85248,
+    "winrate": 100,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 51,
+    "totalWinningTrades": 38,
+    "totalLosingTrades": 13,
+    "drawdown": 0.0034862419326547015,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 134265301.5667399,
+        "pnl": 3447964.4530879986,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ASTER",
+        "volume": 50246804.716499954,
+        "pnl": 3729230.1303189998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ZEC",
+        "volume": 42557985.740800045,
+        "pnl": 1365895.2589419966,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "BNB",
+        "volume": 37722262.15380007,
+        "pnl": 1463624.0966230016,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 29614768.906569935,
+        "pnl": 789551.6577300017,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xe2f86feccb1207710a442bc4e27a0701a290275a",
+    "displayName": "0xe2f86feccb1207710a442bc4e27a0701a290275a",
+    "groupId": "copytraders",
+    "recency": "344H AGO",
+    "roi30d": 399049.475603,
+    "perpEquity": 6026425.48110356,
+    "copyScore": 92.41033213722699,
+    "leverage": 1,
+    "sumUpnl": 399049.475603,
+    "winrate": 100,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 48,
+    "totalWinningTrades": 36,
+    "totalLosingTrades": 12,
+    "drawdown": 0.000516839506353396,
+    "tag": "position",
+    "topAssets": [
+      {
+        "coin": "HYPE",
+        "volume": 42111905.65311002,
+        "pnl": 4057043.12989097,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ENA",
+        "volume": 19097105.545810025,
+        "pnl": 260520.27150599885,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "XPL",
+        "volume": 9731066.397639986,
+        "pnl": 430680.5623820006,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "LIT",
+        "volume": 4857416.372799995,
+        "pnl": 723751.7291519998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:CBRS",
+        "volume": 4032860.0731000043,
+        "pnl": 900808.125628,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x41c684cbde3e449cc67c70aacb6132e3eb25b06d",
+    "displayName": "0x41c684cbde3e449cc67c70aacb6132e3eb25b06d",
+    "groupId": "copytraders",
+    "recency": "108H AGO",
+    "roi30d": 225662.25249,
+    "perpEquity": 529415.43245908,
+    "copyScore": 90.40684201702098,
+    "leverage": 1,
+    "sumUpnl": 225662.25249,
+    "winrate": 75,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 30,
+    "totalWinningTrades": 16,
+    "totalLosingTrades": 14,
+    "drawdown": 1.0754152505726338,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 12668311.404630002,
+        "pnl": 56695.546013999985,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "LIT",
+        "volume": 4660528.2714,
+        "pnl": 134183.120395,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:NBIS",
+        "volume": 3336935.9385999986,
+        "pnl": 23326.085834000005,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 2874552.425100006,
+        "pnl": 18411.722167999993,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SPCX",
+        "volume": 1183143.5698000002,
+        "pnl": 17155.241264000004,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x3a122449de235a40481689442271c0731b805d69",
+    "displayName": "0x3a122449de235a40481689442271c0731b805d69",
+    "groupId": "copytraders",
+    "recency": "258H AGO",
+    "roi30d": 197994.726501,
+    "perpEquity": 2238088.38592,
+    "copyScore": 90.38958746362424,
+    "leverage": 1,
+    "sumUpnl": 197994.726501,
+    "winrate": 100,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Whale",
+    "totalTrades": 65,
+    "totalWinningTrades": 38,
+    "totalLosingTrades": 27,
+    "drawdown": 0.00506050862585729,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 144739351.7573302,
+        "pnl": 1059388.9781919997,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 57005003.75970001,
+        "pnl": 358529.37414599943,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 7510506.91258,
+        "pnl": 499583.79646,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "PUMP",
+        "volume": 2362510.1909189993,
+        "pnl": -37358.253363000025,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "PENDLE",
+        "volume": 2128738.9426999995,
+        "pnl": -70392.7581860001,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xf62edeee17968d4c55d1c74936d2110333342f30",
+    "displayName": "0xf62edeee17968d4c55d1c74936d2110333342f30",
+    "groupId": "copytraders",
+    "recency": "373H AGO",
+    "roi30d": 28709.12179,
+    "perpEquity": 1833915.27122026,
+    "copyScore": 90.07170861324788,
+    "leverage": 1,
+    "sumUpnl": 28709.12179,
+    "winrate": 0,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Whale",
+    "totalTrades": 23,
+    "totalWinningTrades": 17,
+    "totalLosingTrades": 6,
+    "drawdown": 0.2211163397119297,
+    "tag": "position",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 25973683.661409985,
+        "pnl": 2058775.4779420001,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 15573912.531640016,
+        "pnl": 1689692.169920002,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SP500",
+        "volume": 2536594.1243000003,
+        "pnl": 9960.730499999998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 1794921.392840002,
+        "pnl": -776908.2378099991,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "FARTCOIN",
+        "volume": 929505.8704180003,
+        "pnl": 343820.600654,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x0526345bf8e09eb32256008c2844c8949ee3bb9a",
+    "displayName": "0x0526345bf8e09eb32256008c2844c8949ee3bb9a",
+    "groupId": "copytraders",
+    "recency": "15H AGO",
+    "roi30d": 176314.581594,
+    "perpEquity": 188539.51330599998,
+    "copyScore": 89.84892379448866,
+    "leverage": 1,
+    "sumUpnl": 176314.581594,
+    "winrate": 87.2768192048012,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 29588,
+    "totalWinningTrades": 21353,
+    "totalLosingTrades": 8235,
+    "drawdown": 0,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "ZEC",
+        "volume": 40354126.70709999,
+        "pnl": 62101.42892999996,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "WLD",
+        "volume": 21387507.02481,
+        "pnl": 41612.58471899999,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "XPL",
+        "volume": 12008763.113059003,
+        "pnl": 29261.602563000004,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "TON",
+        "volume": 8532731.67205,
+        "pnl": 12136.752864999995,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 7453407.23397,
+        "pnl": 3336.7104820000004,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x90326fa293578c6c9ef945aaab0b57f886aca6ec",
+    "displayName": "0x90326fa293578c6c9ef945aaab0b57f886aca6ec",
+    "groupId": "copytraders",
+    "recency": "1197H AGO",
+    "roi30d": 265558.634499,
+    "perpEquity": 2869964.36264274,
+    "copyScore": 89.74735283083646,
+    "leverage": 1,
+    "sumUpnl": 265558.634499,
+    "winrate": 0,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Whale",
+    "totalTrades": 2156,
+    "totalWinningTrades": 1199,
+    "totalLosingTrades": 957,
+    "drawdown": 0.5402259305889296,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 36190291.563100025,
+        "pnl": -73886.40167400002,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 34293242.53520011,
+        "pnl": 1210866.4492219992,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 11135889.906630026,
+        "pnl": 1266.572515999999,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 8109436.095299996,
+        "pnl": -1292.1753680000002,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "S",
+        "volume": 1665785.4637699998,
+        "pnl": 203.3375759999997,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x4f24303e0af2e4a94abcd516a3c80d38262bde6a",
+    "displayName": "0x4f24303e0af2e4a94abcd516a3c80d38262bde6a",
+    "groupId": "copytraders",
+    "recency": "9H AGO",
+    "roi30d": 452059.318477,
+    "perpEquity": 3628561.25570908,
+    "copyScore": 89.33020027580154,
+    "leverage": 1,
+    "sumUpnl": 452059.318477,
+    "winrate": 65.78947368421053,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Whale",
+    "totalTrades": 346,
+    "totalWinningTrades": 195,
+    "totalLosingTrades": 151,
+    "drawdown": 0.02352713860619735,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 48885433.260229975,
+        "pnl": -57853.703921999986,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 47806051.727349974,
+        "pnl": 79254.10318299998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 9159599.687700003,
+        "pnl": 1017687.493217,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SPCX",
+        "volume": 7251262.013300004,
+        "pnl": -96992.00166800003,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 7178529.99823,
+        "pnl": -27091.784605,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xae58db322be15464c1831b29540e42264cff2b23",
+    "displayName": "0xae58db322be15464c1831b29540e42264cff2b23",
+    "groupId": "copytraders",
+    "recency": "204H AGO",
+    "roi30d": 158995.931763,
+    "perpEquity": 1218822.868504,
+    "copyScore": 89.2407888327629,
+    "leverage": 1,
+    "sumUpnl": 158995.931763,
+    "winrate": 50,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Whale",
+    "totalTrades": 415,
+    "totalWinningTrades": 231,
+    "totalLosingTrades": 184,
+    "drawdown": 0.0970804116115556,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "xyz:SPCX",
+        "volume": 17296433.25599997,
+        "pnl": 151179.67884699992,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 4704664.00319,
+        "pnl": 35607.15836000001,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SEI",
+        "volume": 3929470.3452870008,
+        "pnl": 25167.17945699998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "PAXG",
+        "volume": 2232026.999400001,
+        "pnl": 151.8709290000013,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "VIRTUAL",
+        "volume": 1829222.4995490012,
+        "pnl": 63457.61865099999,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
+    "displayName": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
+    "groupId": "copytraders",
+    "recency": "260H AGO",
+    "roi30d": 198269.771189,
+    "perpEquity": 12931819.205423,
+    "copyScore": 88.61791578587899,
+    "leverage": 1,
+    "sumUpnl": 198269.771189,
+    "winrate": 100,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 4,
+    "totalWinningTrades": 4,
+    "totalLosingTrades": 0,
+    "drawdown": 0.23834151390963446,
+    "tag": "position",
+    "topAssets": [
+      {
+        "coin": "HYPE",
+        "volume": 570521729.7586001,
+        "pnl": 5487910.640077006,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "MERL",
+        "volume": 395115.3760820001,
+        "pnl": -52254.486152,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "NEAR",
+        "volume": 387206.5867499999,
+        "pnl": -47470.79516999998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "BLAST",
+        "volume": 375027.31759800005,
+        "pnl": 152205.903766,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ONDO",
+        "volume": 355241.24674,
+        "pnl": 76752.48632,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xa38157f31371eec73fd878097c249f16472b066c",
+    "displayName": "0xa38157f31371eec73fd878097c249f16472b066c",
+    "groupId": "copytraders",
+    "recency": "257H AGO",
+    "roi30d": 5297.35,
+    "perpEquity": 269479.024014,
+    "copyScore": 88.54011282806715,
+    "leverage": 1,
+    "sumUpnl": 5297.35,
+    "winrate": 85.71428571428571,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 443,
+    "totalWinningTrades": 373,
+    "totalLosingTrades": 70,
+    "drawdown": 0.00033342855214912843,
+    "tag": "scalp",
+    "topAssets": [
+      {
+        "coin": "xyz:CL",
+        "volume": 8615816.230746001,
+        "pnl": 19818.054194999997,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 8524435.112510001,
+        "pnl": 68511.69482600002,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:BRENTOIL",
+        "volume": 5913355.1290799985,
+        "pnl": 15165.225452999995,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 5805709.586760005,
+        "pnl": 3574.7703130000036,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ZEC",
+        "volume": 4921585.505100004,
+        "pnl": 20678.41748299999,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xf5a523b171032c060d49c39fbf2e9bec473e1286",
+    "displayName": "0xf5a523b171032c060d49c39fbf2e9bec473e1286",
+    "groupId": "copytraders",
+    "recency": "7H AGO",
+    "roi30d": 55617.565215,
+    "perpEquity": 3271477.15813,
+    "copyScore": 88.53648331040249,
+    "leverage": 1,
+    "sumUpnl": 55617.565215,
+    "winrate": 55.88235294117647,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Whale",
+    "totalTrades": 253,
+    "totalWinningTrades": 193,
+    "totalLosingTrades": 60,
+    "drawdown": 0.06949417766689918,
+    "tag": "scalp",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 197457486.69466054,
+        "pnl": 328500.4253849992,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "XRP",
+        "volume": 185940862.75910032,
+        "pnl": 543769.6128460008,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "LINK",
+        "volume": 35837508.396579966,
+        "pnl": 62001.048463000014,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ASTER",
+        "volume": 14056018.255730007,
+        "pnl": 1091460.4440949992,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "kSHIB",
+        "volume": 7497855.872460997,
+        "pnl": 29754.3165720001,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xfb941d2344b72ea9101400392b818173772d0ddf",
+    "displayName": "RTB 2",
+    "groupId": "copytraders",
+    "recency": "156H AGO",
+    "roi30d": 796477.327529,
+    "perpEquity": 11021648.17674882,
+    "copyScore": 88.51752137037113,
+    "leverage": 1,
+    "sumUpnl": 796477.327529,
+    "winrate": 75,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 33,
+    "totalWinningTrades": 19,
+    "totalLosingTrades": 14,
+    "drawdown": 1.553983210526383,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "HYPE",
+        "volume": 49233200.89826037,
+        "pnl": 4405087.287273004,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "NEAR",
+        "volume": 17641668.35795002,
+        "pnl": -46239.5298600001,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 11136255.42112,
+        "pnl": 402478.921199,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SPCX",
+        "volume": 10692126.892799994,
+        "pnl": 110658.59003100006,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "XPL",
+        "volume": 8857905.055303998,
+        "pnl": 224038.353299,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x54dbc1fbf6b1cd59807db61109b1d9eb91fd1a04",
+    "displayName": "0x54dbc1fbf6b1cd59807db61109b1d9eb91fd1a04",
+    "groupId": "copytraders",
+    "recency": "825H AGO",
+    "roi30d": 572060.128035,
+    "perpEquity": 5233971.26806194,
+    "copyScore": 88.14719639853855,
+    "leverage": 1,
+    "sumUpnl": 572060.128035,
+    "winrate": 0,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 575,
+    "totalWinningTrades": 275,
+    "totalLosingTrades": 300,
+    "drawdown": 0.0014453187678318347,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "HYPE",
+        "volume": 626661737.9390491,
+        "pnl": 1879428.892050996,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "BTC",
+        "volume": 477680065.58140993,
+        "pnl": -94864.77122300031,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 36290098.59019999,
+        "pnl": -4114.291039999993,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:XYZ100",
+        "volume": 33861129.27879998,
+        "pnl": -4638.4761810000555,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 21664507.267299984,
+        "pnl": -39297.647537000026,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x69b05701f8175c276ecd0138387a197948e240bb",
+    "displayName": "0x69b05701f8175c276ecd0138387a197948e240bb",
+    "groupId": "copytraders",
+    "recency": "258H AGO",
+    "roi30d": 93920.679503,
+    "perpEquity": 884675.781745,
+    "copyScore": 87.8218350983725,
+    "leverage": 1,
+    "sumUpnl": 93920.679503,
+    "winrate": 100,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 112,
+    "totalWinningTrades": 61,
+    "totalLosingTrades": 51,
+    "drawdown": 0.23695949147945905,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 74386827.7314,
+        "pnl": 264654.0070299998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 27822584.93080003,
+        "pnl": 144376.73094700006,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 8377638.732350001,
+        "pnl": 371954.7884310001,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "PUMP",
+        "volume": 2344175.3596910005,
+        "pnl": -48297.65228599997,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "PENDLE",
+        "volume": 1705382.6826000004,
+        "pnl": -11902.529222999987,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xba67690d19571752e0f845acd48b3349131b723b",
+    "displayName": "0xba67690d19571752e0f845acd48b3349131b723b",
+    "groupId": "copytraders",
+    "recency": "156H AGO",
+    "roi30d": 257563.578884,
+    "perpEquity": 498092.85161538,
+    "copyScore": 87.78344638145008,
+    "leverage": 1,
+    "sumUpnl": 257563.578884,
+    "winrate": 88.88888888888889,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 45,
+    "totalWinningTrades": 33,
+    "totalLosingTrades": 12,
+    "drawdown": 6.870018521040337,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 21412816.519859992,
+        "pnl": 81413.19244200001,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 4206794.653509999,
+        "pnl": 15548.462337999998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:HIMS",
+        "volume": 2624484.251340008,
+        "pnl": 30688.379075999987,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "LIT",
+        "volume": 1988411.4850999995,
+        "pnl": 70337.596098,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:MSTR",
+        "volume": 1697029.2023999996,
+        "pnl": 5360.309539000012,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
+    "displayName": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
+    "groupId": "copytraders",
+    "recency": "87H AGO",
+    "roi30d": 154580.625324,
+    "perpEquity": 6777491.966536,
+    "copyScore": 87.7670427447322,
+    "leverage": 1,
+    "sumUpnl": 154580.625324,
+    "winrate": 75,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 241,
+    "totalWinningTrades": 137,
+    "totalLosingTrades": 104,
+    "drawdown": 0.000697066104221564,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "SOL",
+        "volume": 27729483.034369983,
+        "pnl": 1500800.9746200007,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 19626301.64999999,
+        "pnl": 2002424.5489099983,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "BTC",
+        "volume": 14300961.981889995,
+        "pnl": 515925.36760000023,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ZEC",
+        "volume": 13634983.94510001,
+        "pnl": 434471.3056660007,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "XRP",
+        "volume": 11539276.160999987,
+        "pnl": 827782.8576000005,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x52a1ac3717f8173bd175a4c1923594ed6110142d",
+    "displayName": "0x52a1ac3717f8173bd175a4c1923594ed6110142d",
+    "groupId": "copytraders",
+    "recency": "87H AGO",
+    "roi30d": 104723.678622,
+    "perpEquity": 1055722.22479672,
+    "copyScore": 87.38312021266493,
+    "leverage": 1,
+    "sumUpnl": 104723.678622,
+    "winrate": 94.44444444444444,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Whale",
+    "totalTrades": 289,
+    "totalWinningTrades": 200,
+    "totalLosingTrades": 89,
+    "drawdown": 0.07042779684947442,
+    "tag": "intraday",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 54010724.67515994,
+        "pnl": 202314.96306900002,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 12486525.564020004,
+        "pnl": -1808.8187870000004,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 2841300.4944199994,
+        "pnl": -915.6141140000004,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 2202418.337129999,
+        "pnl": 1143.5070699999997,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "XRP",
+        "volume": 1402170.5699,
+        "pnl": -8080.690665000002,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xb3b60a1fd4d8241bfd7b285c3560d75135350582",
+    "displayName": "0xb3b60a1fd4d8241bfd7b285c3560d75135350582",
+    "groupId": "copytraders",
+    "recency": "116H AGO",
+    "roi30d": 96792.296418,
+    "perpEquity": 866954.62427964,
+    "copyScore": 87.32098421497406,
+    "leverage": 1,
+    "sumUpnl": 96792.296418,
+    "winrate": 100,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 64,
+    "totalWinningTrades": 43,
+    "totalLosingTrades": 21,
+    "drawdown": 0.18707270362665746,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 30605982.185420007,
+        "pnl": 142816.12672099998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 21119266.614289995,
+        "pnl": 7096.74384799978,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 13651732.725100003,
+        "pnl": 153753.72554099996,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 6269518.2527600005,
+        "pnl": 162759.37627600002,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:GOLD",
+        "volume": 4739105.1762,
+        "pnl": -21843.799211,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x7625dc67deab1864570ad816f59a9b867f280e49",
+    "displayName": "天才宝宝",
+    "groupId": "copytraders",
+    "recency": "163H AGO",
+    "roi30d": 2758.501807,
+    "perpEquity": 463478.23392532,
+    "copyScore": 87.29196343483505,
+    "leverage": 1,
+    "sumUpnl": 2758.501807,
+    "winrate": 50,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 48,
+    "totalWinningTrades": 30,
+    "totalLosingTrades": 18,
+    "drawdown": 0.003559287934098318,
+    "tag": "scalp",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 31027292.293949995,
+        "pnl": 602258.0421269998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 13447910.465760006,
+        "pnl": 559691.8931059996,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SILVER",
+        "volume": 4856739.116849996,
+        "pnl": 45405.69041100002,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "XPL",
+        "volume": 3485082.6801700015,
+        "pnl": 11853.454281000006,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:BRENTOIL",
+        "volume": 3034631.529950013,
+        "pnl": 1535.0353820000084,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x325edd95bb016c36027ce3b9f7595af7094a9564",
+    "displayName": "0x325edd95bb016c36027ce3b9f7595af7094a9564",
+    "groupId": "copytraders",
+    "recency": "17H AGO",
+    "roi30d": 647076.941638,
+    "perpEquity": 12558660.96022308,
+    "copyScore": 86.95287406978989,
+    "leverage": 1,
+    "sumUpnl": 647076.941638,
+    "winrate": 72,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 744,
+    "totalWinningTrades": 495,
+    "totalLosingTrades": 249,
+    "drawdown": 0.5442050854386802,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 285650636.48477983,
+        "pnl": 724456.5291080007,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 160152906.13539028,
+        "pnl": 378316.50081099867,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 158791356.91377982,
+        "pnl": -5991.164238002304,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 66232275.21365007,
+        "pnl": 58221.78800399995,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ZEC",
+        "volume": 62796217.95839997,
+        "pnl": 363940.0824110001,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xd487e26c62ed8c28ce3cc70b5791e501c2934982",
+    "displayName": "0xd487e26c62ed8c28ce3cc70b5791e501c2934982",
+    "groupId": "copytraders",
+    "recency": "88H AGO",
+    "roi30d": 658494.405482,
+    "perpEquity": 3808085.49281738,
+    "copyScore": 86.87210769363075,
+    "leverage": 1,
+    "sumUpnl": 658494.405482,
+    "winrate": 63.33333333333333,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Whale",
+    "totalTrades": 320,
+    "totalWinningTrades": 186,
+    "totalLosingTrades": 134,
+    "drawdown": 0.6006145978670739,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 213627848.62670976,
+        "pnl": 1140808.6591549998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 204066538.72615004,
+        "pnl": 1297089.258896008,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 83284127.70687997,
+        "pnl": 421468.91783599975,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 20559759.74477004,
+        "pnl": -842898.0592409997,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ENA",
+        "volume": 17396727.978841983,
+        "pnl": -265130.18885899987,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x5d9d19a3e5005225f13780fa10c198f87816670d",
+    "displayName": "0x5d9d19a3e5005225f13780fa10c198f87816670d",
+    "groupId": "copytraders",
+    "recency": "40H AGO",
+    "roi30d": 153565.736522,
+    "perpEquity": 621188.33356506,
+    "copyScore": 86.66878415004469,
+    "leverage": 1,
+    "sumUpnl": 153565.736522,
+    "winrate": 87.5,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 96,
+    "totalWinningTrades": 79,
+    "totalLosingTrades": 17,
+    "drawdown": 0.37903524579851156,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "HYPE",
+        "volume": 8909003.44448,
+        "pnl": 115555.48754199997,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SNDK",
+        "volume": 3141071.9588200003,
+        "pnl": 49037.48030200001,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "BTC",
+        "volume": 3114235.74107,
+        "pnl": 15094.514217999997,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:LLY",
+        "volume": 1511406.8033099999,
+        "pnl": 11514.902409,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:MU",
+        "volume": 1407415.3445000001,
+        "pnl": 20139.146172999994,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x6e88dc3708afc2b0032eeff625df78dcde1e741a",
+    "displayName": "0x6e88dc3708afc2b0032eeff625df78dcde1e741a",
+    "groupId": "copytraders",
+    "recency": "102H AGO",
+    "roi30d": 28617.401968,
+    "perpEquity": 544042.83198436,
+    "copyScore": 86.39238719923739,
+    "leverage": 1,
+    "sumUpnl": 28617.401968,
+    "winrate": 100,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 159,
+    "totalWinningTrades": 95,
+    "totalLosingTrades": 64,
+    "drawdown": 0.028402910002826003,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 8657543.8116,
+        "pnl": 164606.17590900004,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 2478159.6661,
+        "pnl": 9019.852432999998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 1835014.1551100004,
+        "pnl": 61765.054325000005,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 408523.36087999993,
+        "pnl": -2165.971648,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SPCX",
+        "volume": 239305.75029999996,
+        "pnl": 22755.081565,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xe928927c0a4086909a753a6a85a5f9296d9826e8",
+    "displayName": "0xe928927c0a4086909a753a6a85a5f9296d9826e8",
+    "groupId": "copytraders",
+    "recency": "12H AGO",
+    "roi30d": 40736.404292,
+    "perpEquity": 1026490.9609356599,
+    "copyScore": 86.26775225726723,
+    "leverage": 1,
+    "sumUpnl": 40736.404292,
+    "winrate": 93.33333333333333,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Whale",
+    "totalTrades": 587,
+    "totalWinningTrades": 441,
+    "totalLosingTrades": 146,
+    "drawdown": 0.004844029542615368,
+    "tag": "scalp",
+    "topAssets": [
+      {
+        "coin": "xyz:CL",
+        "volume": 21630012.660653003,
+        "pnl": 20915.133601999976,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:BRENTOIL",
+        "volume": 8462851.112290002,
+        "pnl": -1960.2561649999911,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 6875719.801429992,
+        "pnl": 26759.097193999838,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:GOLD",
+        "volume": 5361352.761239999,
+        "pnl": 11334.102052999995,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "XRP",
+        "volume": 4486654.939300001,
+        "pnl": 31660.59975399996,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
+    "displayName": "0x6807f127eaf85e3d0b9dbc7971bbed2afd041f8d",
+    "groupId": "copytraders",
+    "recency": "19H AGO",
+    "roi30d": 97365.24362,
+    "perpEquity": 203513.64175644,
+    "copyScore": 86.17916693082587,
+    "leverage": 1,
+    "sumUpnl": 97365.24362,
+    "winrate": 77.24137931034483,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 202,
+    "totalWinningTrades": 144,
+    "totalLosingTrades": 58,
+    "drawdown": 1.4249959619762105,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "xyz:SPCX",
+        "volume": 13464202.5864,
+        "pnl": 49094.232839000004,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SKHX",
+        "volume": 10678763.782399999,
+        "pnl": 19370.785329999995,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "BTC",
+        "volume": 7453309.074660001,
+        "pnl": 10821.815103999994,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SILVER",
+        "volume": 1761917.5632499997,
+        "pnl": 183.675685999998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:CL",
+        "volume": 1485545.162187,
+        "pnl": 1971.853962,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xaf2c1206b22629915ff7a0fc98d171a1ef398a3f",
+    "displayName": "0xaf2c1206b22629915ff7a0fc98d171a1ef398a3f",
+    "groupId": "copytraders",
+    "recency": "16H AGO",
+    "roi30d": 14209.277511,
+    "perpEquity": 111226.651629,
+    "copyScore": 86.12329324554862,
+    "leverage": 1,
+    "sumUpnl": 14209.277511,
+    "winrate": 100,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 165,
+    "totalWinningTrades": 162,
+    "totalLosingTrades": 3,
+    "drawdown": 0.011562480585045365,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "FARTCOIN",
+        "volume": 18262423.11691001,
+        "pnl": 141992.05033799988,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 2102768.7154400004,
+        "pnl": 10131.307010000004,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x15b325660a1c4a9582a7d834c31119c0cb9e3a42",
+    "displayName": "0x15b325660a1c4a9582a7d834c31119c0cb9e3a42",
+    "groupId": "copytraders",
+    "recency": "2171H AGO",
+    "roi30d": 129769.250525,
+    "perpEquity": 7865775.136595101,
+    "copyScore": 85.91422760763237,
+    "leverage": 1,
+    "sumUpnl": 129769.250525,
+    "winrate": 0,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 66,
+    "totalWinningTrades": 21,
+    "totalLosingTrades": 45,
+    "drawdown": 0.01360303528516866,
+    "tag": null,
+    "topAssets": [
+      {
+        "coin": "ETH",
+        "volume": 180465646.76324028,
+        "pnl": 13258184.302649982,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "BTC",
+        "volume": 174875672.73914015,
+        "pnl": 1890238.3061350011,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 102740040.08736002,
+        "pnl": 5566422.412518997,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 57974075.310180016,
+        "pnl": 1372474.7456099975,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "LTC",
+        "volume": 24278107.11381998,
+        "pnl": 1281630.6411599976,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x5f1055597a652a50c67e62bcf2912dc621bfd49d",
+    "displayName": "0x5f1055597a652a50c67e62bcf2912dc621bfd49d",
+    "groupId": "copytraders",
+    "recency": "232H AGO",
+    "roi30d": 69217.59317,
+    "perpEquity": 302439.515356,
+    "copyScore": 85.80973234170519,
+    "leverage": 1,
+    "sumUpnl": 69217.59317,
+    "winrate": 50,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 84,
+    "totalWinningTrades": 30,
+    "totalLosingTrades": 54,
+    "drawdown": 0.5799765707429553,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "xyz:XYZ100",
+        "volume": 4643497.695200002,
+        "pnl": 19547.329998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "HYPE",
+        "volume": 2709154.0438599987,
+        "pnl": 93311.75514200001,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SUI",
+        "volume": 2352470.803073,
+        "pnl": 5432.31148300002,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 577164.83554,
+        "pnl": 3161.1296940000016,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:CL",
+        "volume": 421564.467631,
+        "pnl": 816.4882530000001,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x7ff59a95c9e0b908adfc374139008ecb9a1d126b",
+    "displayName": "0x7ff59a95c9e0b908adfc374139008ecb9a1d126b",
+    "groupId": "copytraders",
+    "recency": "13H AGO",
+    "roi30d": 137640.409673,
+    "perpEquity": 307711.31496428,
+    "copyScore": 85.61446984897614,
+    "leverage": 1,
+    "sumUpnl": 137640.409673,
+    "winrate": 82.35294117647058,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 22,
+    "totalWinningTrades": 16,
+    "totalLosingTrades": 6,
+    "drawdown": 0.5117497831512664,
+    "tag": "intraday",
+    "topAssets": [
+      {
+        "coin": "ZEC",
+        "volume": 4735664.361299999,
+        "pnl": 92716.54288100002,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SNDK",
+        "volume": 1975395.0238999997,
+        "pnl": 1404.9761000000003,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SPCX",
+        "volume": 1312304.0777000012,
+        "pnl": 2995.4820090000003,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "TAO",
+        "volume": 598490.5120700002,
+        "pnl": 8721.6,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "XPL",
+        "volume": 352627.400295,
+        "pnl": 9828.199704999999,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x117a7c349b953d54154312d97a20c9a2769adbd4",
+    "displayName": "0x117a7c349b953d54154312d97a20c9a2769adbd4",
+    "groupId": "copytraders",
+    "recency": "11H AGO",
+    "roi30d": 7837.18,
+    "perpEquity": 136738.25438670002,
+    "copyScore": 85.52285789938745,
+    "leverage": 1,
+    "sumUpnl": 7837.18,
+    "winrate": 36.89320388349515,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 3550,
+    "totalWinningTrades": 1679,
+    "totalLosingTrades": 1871,
+    "drawdown": 0.4404894138639692,
+    "tag": "scalp",
+    "topAssets": [
+      {
+        "coin": "xyz:NVDA",
+        "volume": 7661712.519330003,
+        "pnl": 5687.883544999998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:BRENTOIL",
+        "volume": 5841604.274209996,
+        "pnl": 3524.218414999997,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:SNDK",
+        "volume": 5163069.810750005,
+        "pnl": 5391.304390000005,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:MU",
+        "volume": 5019995.648900008,
+        "pnl": 4130.2681470000025,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:CL",
+        "volume": 4072098.1731819985,
+        "pnl": 3633.260151999997,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x02fbbf39d1e3c142994b383af5ac3f2ad744cda9",
+    "displayName": "0x02fbbf39d1e3c142994b383af5ac3f2ad744cda9",
+    "groupId": "copytraders",
+    "recency": "13H AGO",
+    "roi30d": 8599.728435,
+    "perpEquity": 592064.380195,
+    "copyScore": 85.52248378174468,
+    "leverage": 1,
+    "sumUpnl": 8599.728435,
+    "winrate": 72.15189873417721,
+    "pnlCohort": "Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 450,
+    "totalWinningTrades": 351,
+    "totalLosingTrades": 99,
+    "drawdown": 0.1452593631315473,
+    "tag": "scalp",
+    "topAssets": [
+      {
+        "coin": "TIA",
+        "volume": 16113107.073483992,
+        "pnl": 22399.415808000034,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "kBONK",
+        "volume": 14259055.679594997,
+        "pnl": 12629.035418000003,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SEI",
+        "volume": 12934318.900272995,
+        "pnl": 17052.678606999998,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "APT",
+        "volume": 10325279.399865001,
+        "pnl": 26443.159437000028,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "OP",
+        "volume": 9947150.751647998,
+        "pnl": 22371.919289999998,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
+    "displayName": "0xe09726ff25f5001f37b15049f54116cb83d7d0fe",
+    "groupId": "copytraders",
+    "recency": "45H AGO",
+    "roi30d": 1300281.832805,
+    "perpEquity": 8648800.65727658,
+    "copyScore": 85.47920411570207,
+    "leverage": 1,
+    "sumUpnl": 1300281.832805,
+    "winrate": 53.333333333333336,
+    "pnlCohort": "Extremely Profitable",
+    "sizeCohort": "Apex",
+    "totalTrades": 31,
+    "totalWinningTrades": 18,
+    "totalLosingTrades": 13,
+    "drawdown": 1.728590699079418,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "HYPE",
+        "volume": 13597102.601720003,
+        "pnl": 492439.3290129999,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "BTC",
+        "volume": 13090611.67644,
+        "pnl": 55527.998440999974,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 7301891.32994,
+        "pnl": 46694.92378399997,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "LIT",
+        "volume": 3712462.485700001,
+        "pnl": 848625.11652,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "SOL",
+        "volume": 3165313.262550001,
+        "pnl": -211970.02555199998,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xb40da15b8cc492fff87d9b1e06bb45769d7e75d9",
+    "displayName": "0xb40da15b8cc492fff87d9b1e06bb45769d7e75d9",
+    "groupId": "copytraders",
+    "recency": "186H AGO",
+    "roi30d": 257320.05603,
+    "perpEquity": 543402.21528236,
+    "copyScore": 85.32491673075697,
+    "leverage": 1,
+    "sumUpnl": 257320.05603,
+    "winrate": 72.72727272727273,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Large",
+    "totalTrades": 36,
+    "totalWinningTrades": 26,
+    "totalLosingTrades": 10,
+    "drawdown": 1.8161043936581869,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "HYPE",
+        "volume": 9892541.521249998,
+        "pnl": 442786.2100279999,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "LIT",
+        "volume": 3376282.144600002,
+        "pnl": 73997.46900000001,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ZEC",
+        "volume": 2200200.8124999995,
+        "pnl": -1087.6508000000013,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:CBRS",
+        "volume": 1505756.7345999994,
+        "pnl": -56245.40510699999,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "NEAR",
+        "volume": 1311215.38822,
+        "pnl": 30884.021179999992,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0xb947763b6e64b4441b02562a63fda94f6b805162",
+    "displayName": "0xb947763b6e64b4441b02562a63fda94f6b805162",
+    "groupId": "copytraders",
+    "recency": "306H AGO",
+    "roi30d": 110961.774602,
+    "perpEquity": 1189214.03549696,
+    "copyScore": 85.13768056010319,
+    "leverage": 1,
+    "sumUpnl": 110961.774602,
+    "winrate": 75,
+    "pnlCohort": "Very Profitable",
+    "sizeCohort": "Whale",
+    "totalTrades": 63,
+    "totalWinningTrades": 38,
+    "totalLosingTrades": 25,
+    "drawdown": 0.32680050935787586,
+    "tag": "swing",
+    "topAssets": [
+      {
+        "coin": "BTC",
+        "volume": 8121746.835650001,
+        "pnl": -8195.15260999999,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 6885202.95392,
+        "pnl": 59308.760938999956,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "XRP",
+        "volume": 3035988.4828000003,
+        "pnl": 55807.802934,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "AXS",
+        "volume": 1467064.0520499994,
+        "pnl": 51681.840836,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "xyz:BRENTOIL",
+        "volume": 1286692.9959699998,
+        "pnl": 52447.445395999996,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  },
+  {
+    "address": "0x6bea81d7a0c5939a5ce5552e125ab57216cc597f",
+    "displayName": "0x6bea81d7a0c5939a5ce5552e125ab57216cc597f",
+    "groupId": "copytraders",
+    "recency": "684H AGO",
+    "roi30d": -138239.168773,
+    "perpEquity": 131549.114244,
+    "copyScore": 85.10754073048233,
+    "leverage": 1,
+    "sumUpnl": -138239.168773,
+    "winrate": 40,
+    "pnlCohort": "Very Unprofitable",
+    "sizeCohort": "Large",
+    "totalTrades": 6,
+    "totalWinningTrades": 3,
+    "totalLosingTrades": 3,
+    "drawdown": 0.5112743022170839,
+    "tag": "intraday",
+    "topAssets": [
+      {
+        "coin": "SOL",
+        "volume": 72627568.02396002,
+        "pnl": 6216993.500341004,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "BTC",
+        "volume": 32088998.421850007,
+        "pnl": 984271.8480679996,
+        "__typename": "TraderTopAsset"
+      },
+      {
+        "coin": "ETH",
+        "volume": 21484888.445439987,
+        "pnl": 844742.9229959999,
+        "__typename": "TraderTopAsset"
+      }
+    ]
+  }
+]

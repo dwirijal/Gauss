@@ -1,0 +1,31 @@
+{
+  "_comment": "KalAI bot config — RR 1:1 + trailing TP, breakout signal. Validated on 400d Binance data (TimescaleDB: dwizzyos_ts.market_data).",
+  "capital": 20,
+  "risk_per_trade": 1,
+  "fee_maker": 0.0002,
+  "fee_taker": 0.0005,
+  "order_type": "maker_limit_gtx",
+  "signal": "breakout_20bar",
+  "risk_model": "notional = risk / sl_pct  (leverage only affects margin)",
+  "modes": {
+    "scalping": { "interval": "15m", "leverage": 20, "sl_pct": 0.5, "tp_pct": 0.5, "trail_dist": 0.25,
+                  "validated": { "BTC": "WR 68% +$284", "ETH": "WR 69% +$227", "SOL": "WR 66% +$169" } },
+    "intraday": { "interval": "1h",   "leverage": 20, "sl_pct": 0.8, "tp_pct": 0.8, "trail_dist": 0.25,
+                  "validated": { "BTC": "WR 63% +$162", "ETH": "WR 62% +$138", "SOL": "WR 62% +$176" } },
+    "swing":    { "interval": "4h",   "leverage": 10, "sl_pct": 1.5, "tp_pct": 1.5, "trail_dist": 0.25,
+                  "validated": { "BTC": "WR 56% +$41", "ETH": "WR 48% +$24", "SOL": "WR 45% -$12 (exclude)" } }
+  },
+  "execution": {
+    "entry": "LIMIT GTX (maker)",
+    "tp1": "TAKE_PROFIT_MARKET at +sl_pct (RR 1:1)",
+    "sl": "STOP_MARKET at -sl_pct",
+    "trailing": "TRAILING_STOP_MARKET callbackRate=trail_dist%, activationPrice=+sl_pct"
+  },
+  "circuit_breaker": "3 consecutive losses -> pause 1h",
+  "db": {
+    "host": "172.23.0.2:5432 (DOS-tpg internal)",
+    "dsn": "postgres://dwizzy:kalai_tdb_2026@172.23.0.2:5432/dwizzyos_ts",
+    "tables": { "market_data": "hypertable (532k candles)", "fred_events": "hypertable (19.9k rows)" }
+  },
+  "pairs": ["BTCUSDT", "ETHUSDT", "SOLUSDT"]
+}
