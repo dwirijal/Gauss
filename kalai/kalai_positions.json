@@ -1,1 +1,13 @@
-{}
+{
+  "LTCUSDT": {
+    "symbol": "LTCUSDT",
+    "side": "SHORT",
+    "qty": 2.22,
+    "entry": 45.11,
+    "tp": 44.658899999999996,
+    "sl": 45.5611,
+    "trailed": false,
+    "closeSide": "BUY",
+    "ts": 1783770348391
+  }
+}

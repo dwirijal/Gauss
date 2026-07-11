@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-10T18:47:44.461Z",
-  "totalTrades": 22,
-  "wins": 4,
-  "losses": 18,
-  "wr": 18.2,
-  "netPnl": -61.26,
+  "ts": "2026-07-11T10:59:25.701Z",
+  "totalTrades": 72,
+  "wins": 12,
+  "losses": 60,
+  "wr": 16.7,
+  "netPnl": -338.56,
   "perSymbol": [
     {
       "sym": "BTCUSDT",
-      "trades": 55,
-      "wins": 2,
-      "losses": 10,
-      "pnl": -23.86
+      "trades": 150,
+      "wins": 9,
+      "losses": 45,
+      "pnl": -41.15
     },
     {
       "sym": "ETHUSDT",
-      "trades": 13,
-      "wins": 1,
+      "trades": 15,
+      "wins": 2,
       "losses": 2,
-      "pnl": -5.24
+      "pnl": -5.15
     },
     {
       "sym": "SOLUSDT",
-      "trades": 66,
+      "trades": 84,
       "wins": 1,
-      "losses": 6,
-      "pnl": -32.17
+      "losses": 13,
+      "pnl": -292.25
     }
   ]
 }

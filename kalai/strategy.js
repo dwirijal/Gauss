@@ -9,27 +9,13 @@ for (const l of fs.readFileSync(process.env.HOME + '/.hermes/.env', 'utf8').spli
 }
 const KEY = ENV.BINANCE_DEMO2_API_KEY, SEC = ENV.BINANCE_DEMO2_SECRET, BASE = 'https://testnet.binancefuture.com';
 
+const { StochasticRSI } = require('technicalindicators');
 function stochRSI(closes, period = 14, k = 3, d = 3) {
-  if (closes.length < period + k) return null;
-  const rsi = [];
-  for (let i = 1; i <= period; i++) {
-    let g = 0, l = 0;
-    for (let j = i; j < i + period; j++) {
-      const ch = closes[j] - closes[j-1];
-      if (ch >= 0) g += ch; else l -= ch;
-    }
-    const rs = l === 0 ? 100 : g / l;
-    rsi.push(100 - 100 / (1 + rs));
-  }
-  const stoch = [];
-  for (let i = period; i < rsi.length; i++) {
-    const win = rsi.slice(i - k + 1, i + 1);
-    const hi = Math.max(...win), lo = Math.min(...win);
-    stoch.push(hi === lo ? 50 : ((rsi[i] - lo) / (hi - lo)) * 100);
-  }
-  const last = stoch[stoch.length - 1] || 50;
-  const sig = stoch.length >= d ? stoch.slice(-d).reduce((a,b)=>a+b,0)/d : last;
-  return { k: +last.toFixed(1), d: +sig.toFixed(1) };
+  if (closes.length < period * 2 + k) return null;
+  const r = StochasticRSI.calculate({ values: closes, rsiPeriod: period, stochasticPeriod: period, kPeriod: k, dPeriod: d });
+  const last = r[r.length - 1];
+  if (!last) return null;
+  return { k: +last.k.toFixed(1), d: +last.d.toFixed(1) };
 }
 
 function vwap(closes, volumes) {
@@ -100,10 +86,10 @@ async function analyze(symbol, candles, regime) {
     else if (depth.imbalance < 0.44) { score -= 1; reasons.push(`ask-heavy(${(depth.imbalance*100).toFixed(0)}%)→SHORT`); }
   }
 
-  // Fast scalp trigger: score >= 1 long, <= -1 short
+  // ponytail: confluence gate |score|>=2 (was >=1 fired on single noise trigger, WR 16.7%). Backtest_v3 needs HTF+fib+stoch+buyRatio; require 2+ aligned triggers here. Raise to 3 if still overtrading.
   let side = null;
-  if (score >= 1) side = 'LONG';
-  else if (score <= -1) side = 'SHORT';
+  if (score >= 2) side = 'LONG';
+  else if (score <= -2) side = 'SHORT';
 
   return { side, score, reasons: reasons.join(' | '), depth, vwap: dev, stoch: sr ? sr.k : null };
 }
