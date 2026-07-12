@@ -39,3 +39,68 @@
 2026-07-11T19:10:03Z WARN learning_log stale 216m — scalping may be stuck
 2026-07-11T19:15:03Z WARN learning_log stale 221m — scalping may be stuck
 2026-07-11T19:20:02Z WARN learning_log stale 225m — scalping may be stuck
+2026-07-11T19:25:03Z WARN learning_log stale 231m — scalping may be stuck
+2026-07-11T19:30:03Z WARN learning_log stale 236m — scalping may be stuck
+2026-07-11T19:35:03Z WARN learning_log stale 241m — scalping may be stuck
+2026-07-11T19:40:03Z WARN learning_log stale 246m — scalping may be stuck
+2026-07-11T19:45:02Z WARN learning_log stale 250m — scalping may be stuck
+2026-07-11T19:50:03Z WARN learning_log stale 256m — scalping may be stuck
+2026-07-11T19:55:03Z WARN learning_log stale 261m — scalping may be stuck
+2026-07-11T20:00:03Z WARN learning_log stale 266m — scalping may be stuck
+2026-07-11T20:05:03Z WARN learning_log stale 271m — scalping may be stuck
+2026-07-11T20:10:03Z WARN learning_log stale 276m — scalping may be stuck
+2026-07-11T20:15:03Z WARN learning_log stale 281m — scalping may be stuck
+2026-07-11T20:20:02Z WARN learning_log stale 285m — scalping may be stuck
+2026-07-11T20:25:02Z WARN learning_log stale 290m — scalping may be stuck
+2026-07-11T20:30:03Z WARN learning_log stale 296m — scalping may be stuck
+2026-07-11T20:35:03Z WARN learning_log stale 301m — scalping may be stuck
+2026-07-11T20:40:03Z WARN learning_log stale 306m — scalping may be stuck
+2026-07-11T20:45:03Z WARN learning_log stale 311m — scalping may be stuck
+2026-07-11T20:50:03Z WARN learning_log stale 316m — scalping may be stuck
+2026-07-11T20:55:03Z WARN learning_log stale 321m — scalping may be stuck
+2026-07-11T21:00:03Z WARN learning_log stale 326m — scalping may be stuck
+2026-07-11T21:05:03Z WARN learning_log stale 331m — scalping may be stuck
+2026-07-11T21:10:02Z WARN learning_log stale 335m — scalping may be stuck
+2026-07-11T21:15:02Z WARN learning_log stale 340m — scalping may be stuck
+2026-07-11T21:20:02Z WARN learning_log stale 345m — scalping may be stuck
+2026-07-11T21:25:03Z WARN learning_log stale 351m — scalping may be stuck
+2026-07-11T21:30:03Z WARN learning_log stale 356m — scalping may be stuck
+2026-07-11T21:35:04Z WARN learning_log stale 361m — scalping may be stuck
+2026-07-11T21:40:03Z WARN learning_log stale 366m — scalping may be stuck
+2026-07-11T21:45:05Z WARN learning_log stale 371m — scalping may be stuck
+2026-07-11T21:50:03Z WARN learning_log stale 376m — scalping may be stuck
+2026-07-11T21:55:03Z WARN learning_log stale 381m — scalping may be stuck
+2026-07-11T22:00:02Z WARN learning_log stale 385m — scalping may be stuck
+2026-07-11T22:05:03Z WARN learning_log stale 391m — scalping may be stuck
+2026-07-11T22:10:02Z WARN learning_log stale 395m — scalping may be stuck
+2026-07-11T22:15:03Z WARN learning_log stale 401m — scalping may be stuck
+2026-07-11T22:20:03Z WARN learning_log stale 406m — scalping may be stuck
+2026-07-11T22:26:49Z WARN learning_log stale 412m — scalping may be stuck
+2026-07-11T22:33:02Z WARN learning_log stale 418m — scalping may be stuck
+2026-07-11T22:38:53Z WARN learning_log stale 424m — scalping may be stuck
+2026-07-11T22:43:21Z WARN learning_log stale 429m — scalping may be stuck
+2026-07-11T22:45:24Z WARN learning_log stale 431m — scalping may be stuck
+2026-07-11T22:51:17Z WARN learning_log stale 437m — scalping may be stuck
+2026-07-11T23:33:07Z WARN learning_log stale 479m — scalping may be stuck
+2026-07-11T23:33:07Z WARN learning_log stale 479m — scalping may be stuck
+2026-07-11T23:33:07Z WARN learning_log stale 479m — scalping may be stuck
+2026-07-11T23:33:18Z WARN learning_log stale 479m — scalping may be stuck
+2026-07-11T23:33:19Z WARN learning_log stale 479m — scalping may be stuck
+2026-07-11T23:33:19Z WARN learning_log stale 479m — scalping may be stuck
+2026-07-11T23:33:19Z WARN learning_log stale 479m — scalping may be stuck
+2026-07-11T23:33:19Z WARN learning_log stale 479m — scalping may be stuck
+2026-07-11T23:35:12Z kalai-scalping not online (MISSING) — restart
+2026-07-11T23:35:13Z meridian not online (MISSING) — restart
+2026-07-11T23:35:19Z kalai-swing not online (MISSING) — restart
+2026-07-11T23:35:26Z kalai-dashboard not online (MISSING) — restart
+2026-07-11T23:35:31Z kalai-intraday not online (MISSING) — restart
+2026-07-11T23:35:31Z Cobot missing from PM2 — re-adding
+2026-07-11T23:35:31Z WARN learning_log stale 481m — scalping may be stuck
+2026-07-11T23:50:03Z WARN learning_log stale 496m — scalping may be stuck
+2026-07-11T23:55:03Z WARN learning_log stale 501m — scalping may be stuck
+2026-07-12T00:00:01Z kalai-scalping not online (stopped) — restart
+2026-07-12T00:00:02Z meridian not online (stopped) — restart
+2026-07-12T00:00:02Z kalai-swing not online (stopped) — restart
+2026-07-12T00:00:03Z kalai-dashboard not online (stopped) — restart
+2026-07-12T00:00:03Z kalai-intraday not online (stopped) — restart
+2026-07-12T00:00:04Z WARN learning_log stale 506m — scalping may be stuck

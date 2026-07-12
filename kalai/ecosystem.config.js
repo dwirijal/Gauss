@@ -2,10 +2,10 @@ const ALTS = 'BTCUSDT,ETHUSDT,SOLUSDT,BNBUSDT,XRPUSDT,ADAUSDT,DOGEUSDT,AVAXUSDT,
 module.exports = {
   apps: [
     { name: 'kalai-scalping', script: 'index.js',
-      env: { KALAI_MODE:'scalping', KALAI_INTERVAL:'1m', KALAI_SYMBOLS:ALTS, KALAI_LIVE:'1', KALAI_RISK_PCT:'0.02', KALAI_MIN_RISK:'1', KALAI_DEBUG:'1' } },
+      env: { KALAI_MODE:'scalping', KALAI_INTERVAL:'1m', KALAI_SYMBOLS:ALTS, KALAI_LIVE:'1', KALAI_RISK_PCT:'0.02', KALAI_MIN_RISK:'1' } },
     { name: 'kalai-intraday', script: 'index.js',
-      env: { KALAI_MODE:'intraday', KALAI_INTERVAL:'1h', KALAI_SYMBOLS:ALTS, KALAI_LIVE:'1', KALAI_RISK_PCT:'0.02', KALAI_MIN_RISK:'1', KALAI_DEBUG:'1' } },
+      env: { KALAI_MODE:'intraday', KALAI_INTERVAL:'1h', KALAI_SYMBOLS:ALTS, KALAI_LIVE:'1', KALAI_RISK_PCT:'0.02', KALAI_MIN_RISK:'1' } },
     { name: 'kalai-swing', script: 'index.js',
-      env: { KALAI_MODE:'swing', KALAI_INTERVAL:'4h', KALAI_SYMBOLS:ALTS, KALAI_LIVE:'1', KALAI_RISK_PCT:'0.02', KALAI_MIN_RISK:'1', KALAI_DEBUG:'1' } },
+      env: { KALAI_MODE:'swing', KALAI_INTERVAL:'4h', KALAI_SYMBOLS:ALTS, KALAI_LIVE:'1', KALAI_RISK_PCT:'0.02', KALAI_MIN_RISK:'1' } },
   ]
 };
